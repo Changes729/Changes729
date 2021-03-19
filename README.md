@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-不会还有玩Github的人不知道 Gist 吧？
-💡 **[Gist](https://gist.github.com/Changes729)**
+Linux 新手与大神的一线之隔(视觉), 就差 💡 **[zsh](https://github.com/ohmyzsh/ohmyzsh)** 和 💡 **[一些技巧](https://github.com/jlevy/the-art-of-command-line)**
+
+不会还有玩Github的人不知道 Gist 吧？ 💡 **[Gist](https://gist.github.com/Changes729)**
