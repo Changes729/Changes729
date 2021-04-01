@@ -27,11 +27,15 @@ Linux 新手与大神的一线之隔(视觉), 就差 💡 **[zsh](https://github
 > **[蓝牙笔记](https://gist.github.com/Changes729/8266aa62ec9363153310b13c67c5a81f)**
 
 > **[前端笔记](https://gist.github.com/Changes729/60f565c6ef6d25bacb403a6dab7a973d)**
+ 
+## 开放平台
+
+> **[有道开放平台](https://ai.youdao.com/gw.s#/)**
 
 ## Gists
 
 ### PDF
 
-> **[PDF 编辑器 与 开发]**(https://wiki.archlinux.org/index.php/PDF,_PS_and_DjVu)
+> **[PDF 编辑器 与 开发](https://wiki.archlinux.org/index.php/PDF,_PS_and_DjVu)**
 
-> **[PDF 库]**(https://zh.cppreference.com/w/cpp/links/libs#PDF)
+> **[PDF 库](https://zh.cppreference.com/w/cpp/links/libs#PDF)**
