@@ -26,9 +26,13 @@ Linux 新手与大神的一线之隔(视觉), 就差 💡 **[zsh](https://github
 
 > **[前端笔记](https://gist.github.com/Changes729/60f565c6ef6d25bacb403a6dab7a973d)**
  
+> **[竞品](https://gist.github.com/Changes729/a1a5e3db39e17b62ef768388ef3d3348)**
+ 
+> **[设计参考](https://gist.github.com/Changes729/513200056758f53b498a64d23c55ea90)**
+ 
 ## 开放平台
 
-> **[有道开放平台](https://ai.youdao.com/gw.s#/)**
+> **[有道开放平台](https://ai.youdao.com/gw.s#/)**: 翻译。
 
 ## Gists
 
