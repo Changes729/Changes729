@@ -19,8 +19,6 @@ Linux 新手与大神的一线之隔(视觉), 就差 💡 **[zsh](https://github
 
 ## Some Git Source
 
-> **[Bluez](https://git.kernel.org/pub/scm/bluetooth/bluez.git/):** git://git.kernel.org/pub/scm/bluetooth/bluez.git
-
 
 ## Some Note URL
 
