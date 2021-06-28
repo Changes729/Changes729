@@ -1,4 +1,0 @@
-# 阅读笔记
-
-* [住在小小的空间里, 就只能过逼仄的人生吗?](https://github.com/Changes729/Changes729/blob/main/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/%E4%BD%8F%E5%9C%A8%E5%B0%8F%E5%B0%8F%E7%9A%84%E7%A9%BA%E9%97%B4%E9%87%8C%2C%20%E5%B0%B1%E5%8F%AA%E8%83%BD%E8%BF%87%E9%80%BC%E4%BB%84%E7%9A%84%E4%BA%BA%E7%94%9F%E5%90%97%3F.md)
-
