@@ -23,7 +23,7 @@ CDC还对一个消息通知提供了一种评价标准, 现在来看应该是一
 
 CDC文章中对上面**盘点**通知系统的六个方面描述的非常详细, 这里有一点需要提出来讲:
 
-![](https://mmbiz.qpic.cn/mmbiz_png/DKcPurxib9LyJuGwC9srFs8ibIvpMFa2AtibFTYlyOU2rlf2SYDQ7ZPtCGBbymZHqrmyMDibbRETnhfQdzp5eRSGqA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://p6.itc.cn/q_70/images03/20210504/b955b09d5bf3468e87b1ec759e69f527.png)
 
 强弱提醒之分在这里挺有考虑价值的. 弱提醒的合并在数据层面是**聚类**.
 
@@ -35,7 +35,7 @@ CDC在设计消息的部分非常具有参考价值. 强烈建议在编写消息
 
 通知的内容需要满足简明易懂的同时，还要让用户能够快速处理。根据大量经验总结，通知内容的撰写可使用一个通用撰写公式：
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/DKcPurxib9LyJuGwC9srFs8ibIvpMFa2At0qc47wiaaBevqch5aicJddhOenETabeUpuKicIW1RicP6QrP2YyT6f7iceg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://p8.itc.cn/q_70/images03/20210504/83305d86cbf143e3a17a26ec31d78d5b.png)
 
 在应用撰写公式写内容时，需注意以下要点：
 
@@ -55,7 +55,7 @@ CDC在设计消息的部分非常具有参考价值. 强烈建议在编写消息
 
 在完成通知内容以及操作反馈的梳理后，对消息梳理表格进行更新，补充相关信息：
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/DKcPurxib9LyJuGwC9srFs8ibIvpMFa2AtE5ZthYQMBRfkQ88MiawLuCFJSia0hxTqgOGDiceX07AusBtYaLEM4Z13g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://p6.itc.cn/q_70/images03/20210504/986fc5f7231d4a06ab474588a94f58b0.png)
 
 自此，消息项的盘点已经完成，后续可基于该表格与产品、研发沟通。当业务出现变更时，也需要对表格内容进行同步更新。
 
@@ -65,13 +65,13 @@ CDC在设计消息的部分非常具有参考价值. 强烈建议在编写消息
 
 不同应用的消息中心处理方式受产品定位、应用框架等因素影响，设计差异化较大。但是可以通过按路径分割去简化设计：消息中心的入口、消息列表的组织方式、消息卡片的样式、消息的设置等几个部分。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/DKcPurxib9LyJuGwC9srFs8ibIvpMFa2AtWAx0Az9dka6Nw3GAh6zo8vJhSuUibtUic28ClBXSBKDWEjbeoCbFq8HQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://p3.itc.cn/q_70/images03/20210504/c0b4ccb80fa04fb28004e2226e584aef.png)
 
 #### **⒈消息中心入口**
 
 主要有底部tab、个人中心附近的图标入口、个人中心的菜单项等三种入口形式：
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/DKcPurxib9LyJuGwC9srFs8ibIvpMFa2AtBSDxw8U8Xib5ibQJjbQONKJiam2BAG4soxrh0hCXm4Khfia1ILqicDibUBjw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://p5.itc.cn/q_70/images03/20210504/914d5635c03b4e20be8877d1055bc24b.png)
 
 - **底部tab：**一般适用于产品核心功能中包含大量用户间通讯，或者希望通过强化消息露出来促进用户上传更多内容。对于重要的消息类型可提供数字badge作为未读消息数量的提示
 - **顶部图标入口：**一般适用于产品消息数量较少，或消息对产品核心场景的影响较少的情况。一般会在首页的顶部，或个人中心页的顶部有一图标作为入口。图标会包含数字badge作为未读消息数量的提示
@@ -81,19 +81,19 @@ CDC在设计消息的部分非常具有参考价值. 强烈建议在编写消息
 
 从消息中心入口点击后跳转到消息列表。由于消息的即时性，需要按时间维度排列。但是如果产品的消息类型较多，可通过分组合并或者分tab的方式提升用户触达消息的效率。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/DKcPurxib9LyJuGwC9srFs8ibIvpMFa2At8dyViaEBfBIGh05XVAjTEOPlvGwpeGE2Eu5rpg4DS5FWHEHM6ibnODIQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://p3.itc.cn/q_70/images03/20210504/09b3c2fea3474711bf1f6f63dab9cf97.png)
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/DKcPurxib9LyJuGwC9srFs8ibIvpMFa2AtqP4lPic2tic182JRX4nqpsJuyCEz05ownoCWicGwM3LGPe7KmicnCwxspw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://p2.itc.cn/q_70/images03/20210504/216afaa39eca486884daf3ccf58fcbf3.png)
 
 对于通知类型复杂的系统，还可使用二级列表的形式对消息进一步分类展示，如微信及支付宝，由于其包含大量第三方服务，消息复杂，均设置了二级消息列表帮助用户分类查找消息。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/DKcPurxib9LyJuGwC9srFs8ibIvpMFa2AtMEEAD7JiaEhmx3NhfAGQXGrbnbORUosBldKmrYA0GdyNdfGTtPsFpYg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://p9.itc.cn/q_70/images03/20210504/402a0239bc96454d94d44e407415d407.png)
 
 #### **⒊消息卡片**
 
 消息列表中的卡片有两种样式可选，一般在一级消息列表使用小卡片样式，让用户有更高的浏览效率。大卡片样式则用于二级消息列表，或当前应用的消息数量较少时。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/DKcPurxib9LyJuGwC9srFs8ibIvpMFa2AtjuwlibApbnDOB4wXEp0PqvT990aKHyt41gHZiaeMfulnD61rf6eUveTg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://p2.itc.cn/q_70/images03/20210504/37f198a146a548f8a8baf045a64e5d3d.png)
 
 #### **4.消息设置**
 
