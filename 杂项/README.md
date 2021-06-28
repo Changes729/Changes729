@@ -43,3 +43,7 @@ DBus XML描述中， **Value部分**的`type`意义可以看[这篇文章](https
 
 - Q: VCPkg 的 Opencv 不支持GUI显示?
 - A: 查看 [这个Issue](https://github.com/microsoft/vcpkg/issues/12621) 修改CMake重新安装即可.
+
+# Navigation
+
+- [List of graph visualization libraries](https://elise-deux.medium.com/the-list-of-graph-visualization-libraries-7a7b89aab6a6)
