@@ -4,6 +4,14 @@
 
 Linux 新手与大神的一线之隔\(视觉\), 就差 💡 [**zsh**](https://github.com/ohmyzsh/ohmyzsh) 和 💡 [**一些技巧**](https://github.com/jlevy/the-art-of-command-line)
 
+# Navigation
+
+- [阅读笔记](./阅读笔记/)
+- [考研笔记](./考研/)
+- [材料笔记](./材料笔记/)
+- [设计](./设计/)
+- [杂项](./杂项/)
+
 ## Some Git Source
 
 > [**C\_Cpp\_Project**](https://github.com/Changes729/c_cpp_project_template): 本人的 C/CPP 练手工程，可以使用它快速建立 Linux 环境下的开发模板，内部有`CMake`例子，有`Github Workflow`例子，在`Gists`分支的 [**Spike**](https://github.com/Changes729/c_cpp_project_template/tree/gists/spike) 内，有着大量**Examples**， 可以用来当参考代码，同时，其他开源小伙伴们也可以提交代码到 [**Spike**](https://github.com/Changes729/c_cpp_project_template/tree/gists/spike) 内，以此来**练习和熟悉 Github 开发模式**,为未来开发工作打下工作流基础，也可以更好的融入开源社区。
@@ -32,9 +40,3 @@ Linux 新手与大神的一线之隔\(视觉\), 就差 💡 [**zsh**](https://gi
 >
 > [**PDF 库**](https://zh.cppreference.com/w/cpp/links/libs#PDF)
 
-# Navigation
-
-- [阅读笔记](./阅读笔记/)
-- [考研笔记](./考研/)
-- [材料笔记](./材料笔记/)
-- [杂项](./杂项/)
