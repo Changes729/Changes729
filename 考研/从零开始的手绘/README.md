@@ -10,6 +10,8 @@
 - **线条：** 各个方向直线、自由曲线、圆与椭圆
   - [参考 - 手形](https://www.bilibili.com/video/BV1EW411s7QY)
   - [参考 - 极·真·最终进化型](https://www.bilibili.com/video/BV1GJ411s7L7)
+  - [参考 - 线条一](https://www.xianmiaohua.com/discover/jiaocheng/01031452017145.html)
+  - [参考 - 线条二](https://www.xianmiaohua.com/discover/jiaocheng/052532H017327.html)
 - **色彩：** HSV 理论 与 PPT 的色彩使用分析.
   - [参考 - 上色过程](https://www.bilibili.com/video/BV1tb4y1o7J1)
   - [记录 - 法卡勒色号记录](./法卡勒.md)
