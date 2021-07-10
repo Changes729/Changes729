@@ -3,6 +3,8 @@
 一言以蔽之, 考研手绘对非艺术专业是公平的. 也就是说考察的是思维逻辑以及手绘表达能力. **一定要重视整体**.
   - [参考 - 漫画的整体](https://www.bilibili.com/video/BV11J411V78T?t=449)
 
+- [画材](https://hnmu7g.yuque.com/docs/share/ad7ac8d6-6aed-4e2b-bf51-49311b81f74e?)
+
 **01**
 
 **手绘基础**
