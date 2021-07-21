@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <style>
+      div.grid {
+        display: grid;
+        grid-template-columns: repeat(2, 10cm);
+        grid-template-rows: repeat(3, 10cm);
+        grid-row-gap: 0.4cm;
+        grid-column-gap: 0.5cm;
+        width: 100%;
+        justify-content: center;
+
+        /* border: 1px solid gray; */
+      }
+      div.grid .box {
+        /* width: 9cm;
+        height: 9cm; */
+        border: 1px solid black;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="grid">
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+  </body>
+</html>
