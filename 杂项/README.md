@@ -54,6 +54,11 @@ DBus XML 描述中， **Value 部分**的`type`意义可以看[这篇文章](htt
 - Q: VCPkg 的 Opencv 不支持 GUI 显示?
 - A: 查看 [这个 Issue](https://github.com/microsoft/vcpkg/issues/12621) 修改 CMake 重新安装即可.
 
+# Archlinux 相关
+
+- 输入法简正切换：[Ctrl+.](https://blog.csdn.net/cuma2369/article/details/107666139)
+
 # Navigation
 
 - [List of graph visualization libraries](https://elise-deux.medium.com/the-list-of-graph-visualization-libraries-7a7b89aab6a6)
+- [Two Minute Papers(兩分鍾論文)](https://www.youtube.com/user/keeroyz)

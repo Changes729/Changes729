@@ -2,9 +2,13 @@
 
 [2020 - 9 工业设计工程 考试大纲](/api/file/pdf/337%20⼯业设计⼯程考试范围说明.pdf)
 
+[2020 - 9 专业设计](http://www.idi.zju.edu.cn/wp-content/uploads/2020/09/ee69f1f95f50f1a7233756d4e97fd4a4.pdf)
+
 [手绘](./从零开始的手绘/)
 
 [337 笔记参考](https://sdue6c.yuque.com/books/share/1a397abc-c9c8-438c-b19c-14b415de1261)
+
+[337 2021真题回顾](https://mp.weixin.qq.com/s/0y_0zIT9Y5enxNb2NLBaGg)
 
 # 设计思维与创新设计笔记
 
