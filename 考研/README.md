@@ -164,8 +164,8 @@
         <p>假设检验</p>
         &nbsp;&nbsp;单侧检验<br />
         &nbsp;&nbsp;双侧检验<br />
-        &nbsp;&nbsp;测量效应<br />
-        &nbsp;&nbsp;统计检验力<br />
+        &nbsp;&nbsp;<a href="./设计调研基础/测量效应.md">测量效应</a><br />
+        &nbsp;&nbsp;<a href="./设计调研基础/测量检验力.md">统计检验力</a><br />
       </div>
     </td>
     <td>
