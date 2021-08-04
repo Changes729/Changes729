@@ -1,10 +1,10 @@
 文章来源：北京当代艺术基金会 - 离村 [文章链接](https://mp.weixin.qq.com/s/a4cxymgq3ktnJsmLYhSJ6Q)
 
-![图片](../../../../Changes729_image/tree/main/ln/%5BBCAF%5D%E9%95%BF%E6%95%88%E8%AE%BE%E8%AE%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD/640)
+![图片](../../../../Changes729_image/raw/main/ln/%5BBCAF%5D%E9%95%BF%E6%95%88%E8%AE%BE%E8%AE%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD/640)
 
 <div align="center" style="font-style: italic; font-color: gray">The Practice of Long Life Design in China</div>
 
-![图片](../../../../Changes729_image/tree/main/ln/%5BBCAF%5D%E9%95%BF%E6%95%88%E8%AE%BE%E8%AE%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD/640-162807733400228)
+![图片](../../../../Changes729_image/raw/main/ln/%5BBCAF%5D%E9%95%BF%E6%95%88%E8%AE%BE%E8%AE%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD/640-162807733400228)
 
 D&DEPARTMENT从2000年创立伊始，就确定了**“为了下一个时代的进步，来重新审视地域的个性并将其有效推广”**的理念。日本社会长期占据主流的 “欧美化”的价值取向，在过去的二十多年间遭受到越来越多的质疑，伴随着质疑的是日本消费社会的更迭和地方意识的觉醒。D&DEPARTMENT PROJECT就是这股社会思潮的杰出代表之一。
 
@@ -20,7 +20,7 @@ D&DEPARTMENT从2000年创立伊始，就确定了**“为了下一个时代的�
 >
 > D&DEPARTMENT黄山店 策划者
 
-![图片](../../../../Changes729_image/tree/main/ln/%5BBCAF%5D%E9%95%BF%E6%95%88%E8%AE%BE%E8%AE%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD/640-162807734859230)
+![图片](../../../../Changes729_image/raw/main/ln/%5BBCAF%5D%E9%95%BF%E6%95%88%E8%AE%BE%E8%AE%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD/640-162807734859230)
 
 **独龙族是中国人口较少的民族之一** ，分布于云南省贡山独龙族怒族自治县以及独龙江流域的河谷地带。**他们使用的独龙语于历史上原无文字，主要以刻木、结绳的方式记事与传递信息。**独龙毯是独龙族的特有民族织物，图案以彩色条纹为主，手工腰机织成，古时有“日为衣，夜做被”之用。
 
@@ -28,7 +28,7 @@ D&DEPARTMENT从2000年创立伊始，就确定了**“为了下一个时代的�
 
 **项目希望放大当地女性的劳动价值，开发出更多集合民族特色与现代都市审美的独龙毯产品**。项目所得收益全部返还于独龙族社区，用于当地社区的自我持续发展。
 
-![图片](../../../../Changes729_image/tree/main/ln/%5BBCAF%5D%E9%95%BF%E6%95%88%E8%AE%BE%E8%AE%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD/640-162807736361332)
+![图片](../../../../Changes729_image/raw/main/ln/%5BBCAF%5D%E9%95%BF%E6%95%88%E8%AE%BE%E8%AE%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD/640-162807736361332)
 
 engraft（嫁接）是一组由**PLA（聚乳酸）**<sub>PLA还是3D打印机的常用原料</sub><sup>[[1]](https://zh.wikipedia.org/wiki/%E8%81%9A%E4%B9%B3%E9%85%B8)</sup> 制成的餐具，这种材料来源于甘蔗、玉米、木薯等植物，通过糖化、发酵等工艺合成，废弃后在工业堆肥条件下可以完全生物降解。
 

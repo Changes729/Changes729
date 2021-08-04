@@ -32,9 +32,9 @@ A：鸿蒙有易账号（好像是这个）账号有权限。低权限的无法�
 1. HarmonyOS 系统架构
 2. HarmonyOS ACE UI 框架
 
-![img](../../../../Changes729_image/tree/main/ln/ACE_JS_%E6%9E%B6%E6%9E%84.jpg)
+![img](../../../../Changes729_image/raw/main/ln/ACE_JS_%E6%9E%B6%E6%9E%84.jpg)
 
-![img](../../../../Changes729_image/tree/main/ln/HarmonyOS%E6%9E%B6%E6%9E%84.jpg)
+![img](../../../../Changes729_image/raw/main/ln/HarmonyOS%E6%9E%B6%E6%9E%84.jpg)
 
 # 2021-07-28
 
