@@ -1,3 +1,11 @@
+# 2021-08-19
+
+设计方法论：
+
+[KANO](https://blog.csdn.net/zhangbijun1230/article/details/79650647?utm_source=app&app_version=4.13.0): 功能管理模型，用来判断功能的重要性。
+
+[GVCDR](http://www.wodepm.com/?p=3739)：体系化交互系统设计工具
+
 # 2021-08-16
 
 _中国为什么需要[反垄断、砍培训](https://b23.tv/Mp6KpJ)？_
