@@ -265,6 +265,40 @@
     </td>
   </tr>
   <tr class="row">
+  	<td>
+        <p><a href="./快题设计/">快题评价标准</a></p>
+        <p>设计分析（1）</p>
+        <div class="mainpagediv">
+            <p><a href="./快题设计/主题切入.md">背景导读 && 主题切入</a></p>
+            <p><a href="./快题设计/设计方法.md">设计分析方法</a></p>
+      	</div>
+        <p>流程设计（2）—— 说明书</p>
+        <div class="mainpagediv">
+            <p>方案流程前后对比</p>
+            <p>系统结构图？</p>
+            <p>低保真流程图</p>
+      	</div>
+    </td>
+  	<td>
+        <p>设计方案呈现（3）—— 封面</p>
+        <div class="mainpagediv">
+            <p>元素</p>
+            <p><a href="https://www.pinterest.com/changes0729/%E5%9C%BA%E6%99%AF/">场景</a></p>
+            <p>UI</p>
+            <p><a href="./从零开始的手绘/三大构成.md">色彩</a></p>
+      	</div>
+    </td>
+  	<td>
+        <p><a href="./快题设计/技术细节/">设计支撑与技术反思（2,4）</a></p>
+        <div class="mainpagediv">
+            <p>方案小结</p>
+            <p>技术支撑说明</p>
+            <p>反思 - 设计分析方法</p>
+      	</div>
+        <p><a href="./快题设计/创意积累.md">创意积累</a></p>
+    </td>
+  </tr>
+  <tr class="row">
     <td>
       <div class="mainpagediv">
         <p><a href="https://isux.tencent.com/articles/systematic-thinking.html">如何输出清晰有效的设计方案?</a></p>
@@ -318,6 +352,7 @@
     </td>
     <td>
       <p><a href="./从零开始的手绘/">手绘</a></p>
+      <p><a href="./从零开始的手绘/重构与设计">创意重构与设计</a></p>
     </td>
     <td>
       <p>
