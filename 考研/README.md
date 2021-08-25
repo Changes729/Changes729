@@ -61,6 +61,11 @@
 <table class="mainpagetable">
   <tr class="row">
     <td colspan="3">
+      <p><span><a href="./政治/">政治</a></span></p>
+    </td>
+  </tr>
+  <tr class="row">
+    <td colspan="3">
       <p><span>设计理论与方法</span></p>
     </td>
   </tr>
@@ -326,6 +331,7 @@
         <p>冬奥会</p>
         <p>奥运会</p>
       </div>
+      <p><a>重回日常</a></p>
       <p><a>数字鸿沟</a></p>
       <p><a>智能设计</a></p>
       <p><a>智慧康养</a></p>
