@@ -7,6 +7,8 @@
 - [画材](https://hnmu7g.yuque.com/docs/share/ad7ac8d6-6aed-4e2b-bf51-49311b81f74e?)
 - [练习](./手绘练习.md)
 
+- [设计挑战](./设计挑战.md)
+
 **01**
 
 **手绘基础**
