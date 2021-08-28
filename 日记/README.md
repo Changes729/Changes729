@@ -1,3 +1,12 @@
+# 2021-08-28
+
+因为HTTP代理端口没有做保护，所以服务器被别人拿去当梯子了。
+
+- [Chrome认为是不安全的端口](https://blog.csdn.net/testcs_dn/article/details/39186225)
+- [ufw防火墙](https://blog.csdn.net/xc_zhou/article/details/103758308)
+- [frp-info IP登陆认证](https://github.com/zfb132/frp_info)
+- [SSH 禁止密码登陆](https://www.jianshu.com/p/b294e9da09ad)
+
 # 2021-08-25
 
 **[方言文学的魅力](https://www.ximalaya.com/renwenjp/50745132/429793014)**: 马未都表达了两个观点：

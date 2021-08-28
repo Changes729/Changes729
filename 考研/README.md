@@ -259,7 +259,7 @@
   </tr>
   <tr class="row">
     <td colspan="3">
-      <p><span>快题设计</span></p>
+      <p><span><a href="./快题设计/">快题设计</a></span></p>
       <span style="font-size: 0.8em">
         重点应呈现：关键技术、设计方法，突出逻辑思维能力、工程实现能力<br>
         分值分布：<br>
