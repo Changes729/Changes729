@@ -23,6 +23,11 @@
   .mainpagetable tr.row td {
     padding: 0.5em;
   }
+
+  table.mainpagetable {
+    display: table;
+  }
+
   td {
     display: table-cell;
     vertical-align: inherit;
