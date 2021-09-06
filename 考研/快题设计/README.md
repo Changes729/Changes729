@@ -1,13 +1,14 @@
 # 快题设计与评价标准
 
 - [设计挑战](./设计挑战.md)
+- [方案构思思路](https://hnmu7g.yuque.com/docs/share/ab599246-05ee-41cd-95eb-bbc20629fd35?#%20%E3%80%8A%E6%96%B9%E6%A1%88%E6%9E%84%E6%80%9D%E6%80%9D%E8%B7%AF%E6%96%87%E6%A1%A3%E6%92%B0%E5%86%99%E3%80%8B)
 
 ## 选题标准
 
 - 重回日常
 - 移动办公生活
-- 数字鸿沟
-- 智能设计
+- [数字鸿沟](https://www.yuque.com/chenjianxiong-mqjsx/mldk6w/ortwfo#C9NAx)
+- [智能设计](https://www.yuque.com/chenjianxiong-mqjsx/mldk6w/ortwfo#CrK5v)
 - 智慧康养
 - 校园霸凌
 - 劳动教育
