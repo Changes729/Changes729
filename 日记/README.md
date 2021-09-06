@@ -1,3 +1,89 @@
+# 2021-09-06
+
+[大数据图像标注](https://zhuanlan.zhihu.com/p/90472628)
+
+
+
+# 2021-09-05
+
+> [中国如何走好碳中和之路？](https://www.bilibili.com/video/BV1Lv411N7Na?spm_id_from=333.851.b_7265636f6d6d656e64.2)
+
+碳中和，需要在**能源结构、能源消费、人为固碳**三端发力。
+
+从发电、储电、用电的角度上看，中国有大量的清洁能源，包括风能、太阳能。虽然清洁能源有缺点——随着气候的不稳定性，但是化石能源作为一种矿物资源，焚烧发电实在是太浪费了——它们完全可以变成工业材料。另一种方式是使用氢气等替换碳基燃料。
+
+当前的大规模储电较少。有科学家提出动态大规模储电可以回补电网电压。
+
+固碳角度看，还是只能做生态保护。
+
+
+
+# 2021-09-04
+
+**知识图谱 Knowledge Graph**
+
+[Patterns for Representing Knowledge Graphs to Communicate Situational Knowledge of Service Robots](https://dl.acm.org/doi/pdf/10.1145/3411764.3445767)
+
+[支持人在环路混合智能的交互设计研究](../阅读笔记/支持人在环路混合智能的交互设计研究.md)
+
+[人工智能产品与服务体系研究综述](https://x.cnki.net/read/article/pdfonline?filename=BZGC202010016&tablename=CJFDTOTAL&dbcode=CJFD&topic=&fileSourceType=1&taskId=&from=&groupid=&appId=CRSP_BASIC_PSMC&act=&ts=1630741042&customReading=)
+
+
+
+***灵感：***简单硬件提供的新交互，不仅可以提升系统的可用性和趣味性，其实还可以帮助突破现有技术的瓶颈。
+
+**AI设计范式**
+
+And AI - AI交互
+
+For AI - 帮助AI，构建AI，构建自己的AI Tools
+
+**OF_AI** - 对技术的剖析和对人的理解，产生新的AI系统本身的设计
+
+[How People Naturally Describe Robot Behaviour](https://www.araa.asn.au/acra/acra2012/papers/pap128.pdf)：普通人如何描述机器人的行为
+
+[Unpacking Human Teachers' Intentions For Natural Interactive Task Learning](https://arxiv.org/pdf/2102.06755v1.pdf)：人在教学过程中的种种模式，设计算法
+
+
+
+**方法论**
+
+1. **对技术进行深入的理解**：对机器人的知识模型进行领域综述
+2. **抽象出技术的模型作为一种“设计材料（Design material）”**：机器人的知识模型多可以表示为网状或树状结构，避免技术细节，但是可以被设计
+3. **反思这种“设计材料”的局限**：机器人知识静态、绝对、脆弱
+4. **分析技术与人的“连接点”**：符号知识可以直接被人看见、阅读和理解
+5. **寻找通过交互突破这种局限的可能**：我们可以通过设计机器人知识界面来辅助人理解机器人的知识
+6. **（有时）从人自发的行为中寻找模式和机会**：观察人在呈现机器人知识过程中自然出现的模式，用户指导设计
+7. **反思对技术模型的何种修改可以增强其效用**：我们可以从人的描述处罚，建立即容易被人理解，又结构化的机器人知识库
+
+
+
+# 2021-09-03
+
+> [[新京报]-《百家讲坛》的大师们又有了新讲台](../阅读笔记/[新京报]-《百家讲坛》的大师们又有了新讲台.md)
+
+快题和英语遇到了较大的问题。快题在思路上一直打不开。英语在词汇量和解题上还有很大的差距。
+
+这篇文章比较契合我想做的短视频创新，摘录几个句子.
+
+
+
+今天还看了[所长林超的观点](https://www.bilibili.com/video/BV1e64y1Y7d2?spm_id_from=333.337.dynamic.content.click)，想方案遇到瓶颈了，现在的我，需求上已经算是通了，但是在方案上还是有很大限制。
+
+
+
+[**元宇宙（Metaverse）**](https://en.wikipedia.org/wiki/Metaverse)：`Meta`意思是超越，`verse`是`universe`的后缀。用来表达**超越现实宇宙**的意思。多用在虚拟世界。
+
+AI推理创造：现在只搜到这个[CBR——一种新型的人工智能推理方法](https://x.cnki.net/read/article/pdfonline?filename=KMLG200301023&tablename=CJFDTOTAL&dbcode=CJFD&topic=&fileSourceType=1&taskId=&from=&groupid=&appId=CRSP_BASIC_PSMC&act=&ts=1630677377&customReading=)，本人外网文献搜集能力不强，只能看国内的。现在确实可以考虑多看看外文了。
+
+数字孪生：[数字孪生及其应用探索](https://x.cnki.net/read/article/xmlonline?filename=JSJJ201801001&tablename=CJFDTOTAL&dbcode=CJFD&topic=&fileSourceType=1&taskId=&from=&groupid=&appId=CRSP_BASIC_PSMC&act=&ts=1630678243&customReading=)
+
+数字包容：[数字包容研究进展:内涵、影响因素与公共政策](https://x.cnki.net/read/article/xmlonline?filename=BOOK201803011&tablename=CJFDTOTAL&dbcode=CJFD&topic=&fileSourceType=1&taskId=&from=&groupid=&appId=CRSP_BASIC_PSMC&act=&ts=1630679057&customReading=)
+
+AIot：[AIoT智能物联网研究综述](https://x.cnki.net/read/article/xmlonline?filename=DXKX20210823000&tablename=CAPJTOTAL&dbcode=CAPJ&topic=&fileSourceType=1&taskId=&from=&groupid=&appId=CRSP_BASIC_PSMC&act=&ts=1630679238&customReading=)
+
+
+
 # 2021-08-29
 
 [《中华人民共和国个人信息保护法》](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml)
