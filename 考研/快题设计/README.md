@@ -2,12 +2,15 @@
 
 - [设计挑战](./设计挑战.md)
 - [方案构思思路](https://hnmu7g.yuque.com/docs/share/ab599246-05ee-41cd-95eb-bbc20629fd35?#%20%E3%80%8A%E6%96%B9%E6%A1%88%E6%9E%84%E6%80%9D%E6%80%9D%E8%B7%AF%E6%96%87%E6%A1%A3%E6%92%B0%E5%86%99%E3%80%8B)
+- [App分类](./App分类.md)
+- [专业分类](./专业分类.md)
+- [技术概览](技术概览.md)
 
 ## 选题标准
 
 - 重回日常
 - 移动办公生活
-- [数字鸿沟](https://www.yuque.com/chenjianxiong-mqjsx/mldk6w/ortwfo#C9NAx)
+- [数字鸿沟](./数字鸿沟/)
 - [智能设计](https://www.yuque.com/chenjianxiong-mqjsx/mldk6w/ortwfo#CrK5v)
 - 智慧康养
 - 校园霸凌
@@ -51,3 +54,4 @@
 - [对**要害技术的描绘**是否**深入具体**](技术细节/)
 - 是否采用**图文的形式清晰说明**
 - 设计反思是否**使用多模型全面分析**
+
