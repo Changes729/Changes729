@@ -1,3 +1,9 @@
+# 2021-09-18
+
+一个点赞功能，在大数据的加持下就可以实现内容的匹配推送。
+
+
+
 # 2021-09-14
 
 [XIN 洞见｜作为社会介质的城市公共空间](https://mp.weixin.qq.com/s?__biz=MzI2MTAzMTg3OQ==&mid=2247494388&idx=1&sn=43875d9f037a2a63e4a589b786108e99&chksm=ea62385cdd15b14aa484a5d72bc026110c7b00fe0d6be171bfe3dc2e77b8efd44e265058f8e2&scene=21#wechat_redirect)
