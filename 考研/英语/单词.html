@@ -1,0 +1,92 @@
+<!-- 隐藏单词具体意思的函数 -->
+<script type="text/javascript">
+  function revert(target) {
+    if (target.style.filter == "invert(50%)") {
+      target.style.filter = "";
+    } else {
+      target.style.filter = "invert(50%)";
+    }
+  }
+</script>
+
+<!-- 导入样式表 -->
+<link rel="stylesheet" href="/api/file/text/考研/英语/单词.css" />
+
+<!-- 单词主表 -->
+<div id="readme" class="container">
+  <div class="markdown-body">
+    <table class="mainpagetable"></table>
+  </div>
+</div>
+
+<!-- 动态加载单词本 -->
+<script type="text/javascript" defer>
+  fetch("/api/file/text/考研/英语/单词.md")
+    .then((response) => response.text())
+    /**
+     * 单词本包括 普通文本 和 单词表。
+     * 普通文本，就正常显示即可。
+     * 单词表是，前面的一个英文，后面一个中文意思。
+     *
+     * 单词表的结构是 | str | 字服串解释 |
+     * Markdown 单词表中间会有一行 |---|---| 也要去除，不加载。
+     */
+    .then((data) => {
+      var root = document.getElementsByClassName("mainpagetable")[0];
+      const re = /^\|(.*)\|(.*)\|$/;
+      var count = 0;
+      var title_td = null;
+
+      data.split("\n").forEach(function (str, i) {
+        /* 空行、制表行、无内容表格行都跳过 */
+        if (!/\S/.test(str)) return;
+        var array = str.match(re);
+        // console.log(array);
+        if (array != null) {
+          str1 = array[1].replace(/\s+/g, "");
+          str2 = array[2].replace(/\s+/g, "");
+          if (!/\S/.test(str1) && !/\S/.test(str1)) return;
+          if (/[-\s]+/.test(str1) && /[-\s]+/.test(str1)) return;
+        }
+
+        const new_tr = document.createElement("tr");
+        new_tr.className = "row";
+
+        /* 合法的单词表进行绘制，合法的其他内容单行显示 */
+        if (array != null) {
+          const new_td_1 = document.createElement("td");
+          const new_td_2 = document.createElement("td");
+          new_td_1.innerHTML = array[1];
+          new_td_2.innerHTML = array[2];
+          new_td_2.onclick = function () {
+            revert(new_td_2);
+          };
+          new_td_2.style.filter = "invert(50%)";
+
+          new_tr.appendChild(new_td_1);
+          new_tr.appendChild(new_td_2);
+          count++;
+        } else {
+          const new_td = document.createElement("td");
+          new_td.innerHTML = str;
+          new_td.colSpan = "2";
+
+          if (title_td != null && count != 0) {
+            title_td.innerHTML += String("(" + count + ")");
+
+            count = 0;
+          }
+
+          new_tr.appendChild(new_td);
+          title_td = new_td;
+        }
+        root.appendChild(new_tr);
+      });
+
+      if (title_td != null && count != 0) {
+        title_td.innerHTML += String("(" + count + ")");
+
+        count = 0;
+      }
+    });
+</script>
