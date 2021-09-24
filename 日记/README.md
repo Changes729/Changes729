@@ -1,3 +1,57 @@
+# 2021-09-24
+
+[第六届浙江大学研究生国际暑期学校/亚洲校园创新设计工作坊 ——可持续设计行动](http://www.idi.zju.edu.cn/2973.html)
+
+上一期的主题是“重回日常”，为疫情而设计。第五届只有活动总结，都没有创意分享。
+
+这一期的五个主题，分别是“Quality Education （优质教育）”、“Decent Work and Economic Growth（体面工作和经济增长）”、“Industry, Innovation and Infrastructure（产业、创新和基础设施）”、“Sustainable Cities and Communities（可持续城市与社区）”、“Sustainable Consumption and Production（负责任消费和生产）”。
+
+- 优质教育：**Vocational Education MOOC Platform Design for Less Developed Education** 职业教育Mooc平台
+
+  通过职业选择、然后引流，完成教育目的。教育过程包括“招聘需求”、“课程记录”、“教学和训练”以及“测试和认证”。
+
+  说实话，没有看到创新点。
+
+- 体面工作和经济增长：**Urban Livelihood**
+
+  他们考虑摆摊经济。然后给出了一个智能硬件+软件的解决方案，在公园内进行摆摊。
+
+  就是App会引导用户找摊位。到摊位后，摊位灯会亮起来。
+
+  此方案的最终目标是**形成一个小摊贩和城市其他居民之间相互约束，相互管理的低成本管理体系**。但是目前看不出这个具体设计。
+
+- 可持续城市与社区：**Blossoming Field**
+
+  用户可以在app上发布种植愿望，农户接受愿望请求并且进行对应作物的实物种植。在此过程中，通过安置在土壤里的监测硬件，你可以线上观察照顾植物。
+
+  怎么说呢，农户接受愿望，并进行种植，那为啥用户不自己种呢？
+
+- 产业、创新和基础设施：**Rebrella**
+
+  回收并再利用防水材料的一整套系统。通过再设计使废弃防水材料进入新的生命周期，同时推出一系列衍生服务推广并号召人们的广泛参与。
+
+  这个还是蛮好的，这套方案的重点在输入输出，整个系统如何实现的。
+
+- **Go On**
+
+  提供平台连接“手艺人”“设计师”与“消费者”三方，GO ON承担了桥梁的角色。通过传统技艺的寻找收集，GO ON将这些技术与文化组建成知识库提供给设计师们。
+
+  消费者们将在可定义的内容中选择工艺填充。而在这一过程中消费者也将了解这一工艺背后的文化内涵与手艺人故事。
+
+  手艺人从消费者那里获得了工作时长与报酬，而消费者又为传统工艺文化提供了更为广阔的传播。
+
+  **自定义制伞平台，制伞手艺人的接单平台。**
+
+
+
+====
+
+什么是可持续设计？直接给出联合国教科文组织的[可持续发展目标](https://www.undp.org/sustainable-development-goals?utm_source=EN&utm_medium=GSR&utm_content=US_UNDP_PaidSearch_Brand_English&utm_campaign=CENTRAL&c_src=CENTRAL&c_src2=GSR&gclid=CjwKCAjw7rWKBhAtEiwAJ3CWLGhmbl4Q3dxPhjlP8NuJNrzb7g1VTPdTSzq4kvz4DYHHhi_zJQd1QhoCeSQQAvD_BwE)好吧。 
+
+![img](../../../../Changes729_image/raw/main/ln/README/sdgs_poster_936_zh.png)
+
+
+
 # 2021-09-23
 
 [罗仕鉴：设计产业网构成与创新模式](https://mp.weixin.qq.com/s/TNl098h35EiDVFUKPTs-qg)
