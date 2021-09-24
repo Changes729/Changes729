@@ -1,3 +1,127 @@
+# 2021-09-24
+
+[第六届浙江大学研究生国际暑期学校/亚洲校园创新设计工作坊 ——可持续设计行动](http://www.idi.zju.edu.cn/2973.html)
+
+上一期的主题是“重回日常”，为疫情而设计。第五届只有活动总结，都没有创意分享。
+
+这一期的五个主题，分别是“Quality Education （优质教育）”、“Decent Work and Economic Growth（体面工作和经济增长）”、“Industry, Innovation and Infrastructure（产业、创新和基础设施）”、“Sustainable Cities and Communities（可持续城市与社区）”、“Sustainable Consumption and Production（负责任消费和生产）”。
+
+- 优质教育：**Vocational Education MOOC Platform Design for Less Developed Education** 职业教育Mooc平台
+
+  通过职业选择、然后引流，完成教育目的。教育过程包括“招聘需求”、“课程记录”、“教学和训练”以及“测试和认证”。
+
+  说实话，没有看到创新点。
+
+- 体面工作和经济增长：**Urban Livelihood**
+
+  他们考虑摆摊经济。然后给出了一个智能硬件+软件的解决方案，在公园内进行摆摊。
+
+  就是App会引导用户找摊位。到摊位后，摊位灯会亮起来。
+
+  此方案的最终目标是**形成一个小摊贩和城市其他居民之间相互约束，相互管理的低成本管理体系**。但是目前看不出这个具体设计。
+
+- 可持续城市与社区：**Blossoming Field**
+
+  用户可以在app上发布种植愿望，农户接受愿望请求并且进行对应作物的实物种植。在此过程中，通过安置在土壤里的监测硬件，你可以线上观察照顾植物。
+
+  怎么说呢，农户接受愿望，并进行种植，那为啥用户不自己种呢？
+
+- 产业、创新和基础设施：**Rebrella**
+
+  回收并再利用防水材料的一整套系统。通过再设计使废弃防水材料进入新的生命周期，同时推出一系列衍生服务推广并号召人们的广泛参与。
+
+  这个还是蛮好的，这套方案的重点在输入输出，整个系统如何实现的。
+
+- **Go On**
+
+  提供平台连接“手艺人”“设计师”与“消费者”三方，GO ON承担了桥梁的角色。通过传统技艺的寻找收集，GO ON将这些技术与文化组建成知识库提供给设计师们。
+
+  消费者们将在可定义的内容中选择工艺填充。而在这一过程中消费者也将了解这一工艺背后的文化内涵与手艺人故事。
+
+  手艺人从消费者那里获得了工作时长与报酬，而消费者又为传统工艺文化提供了更为广阔的传播。
+
+  **自定义制伞平台，制伞手艺人的接单平台。**
+
+
+
+====
+
+什么是可持续设计？直接给出联合国教科文组织的[可持续发展目标](https://www.undp.org/sustainable-development-goals?utm_source=EN&utm_medium=GSR&utm_content=US_UNDP_PaidSearch_Brand_English&utm_campaign=CENTRAL&c_src=CENTRAL&c_src2=GSR&gclid=CjwKCAjw7rWKBhAtEiwAJ3CWLGhmbl4Q3dxPhjlP8NuJNrzb7g1VTPdTSzq4kvz4DYHHhi_zJQd1QhoCeSQQAvD_BwE)好吧。 
+
+![img](../../../../Changes729_image/raw/main/ln/README/sdgs_poster_936_zh.png)
+
+
+
+# 2021-09-23
+
+[罗仕鉴：设计产业网构成与创新模式](https://mp.weixin.qq.com/s/TNl098h35EiDVFUKPTs-qg)
+
+**信息—物理—机器—人类**(Cyber-Physics-Machine-Human，CPMH)**四元空间**。设计方式由设计师设计向蕴含**群体智能**的**群智设计**转变。智能设计、网络交互设计、全球协同设计等成为设计新方式。
+
+[利益相关者]
+
+<img src="https://mmbiz.qpic.cn/mmbiz_png/GRQJ80yHRkskcrFujKU2dsFE7NQs8uOnmIElym6AzgIAFCEsPpoBvlyHASD8yyxMZ9MZEsEUhu8BJG8CDTTscw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
+
+- **需求方：**指设计产品、服务使用和消费的主体。
+
+  Waze开发的基于社区的交通导航便采用“众包+用户贡献内容”(user generated content，UGC)模式，由用户提供行车路况分享，以帮助其他用户选择最优行驶路线。
+
+- **生产方：**是发布设计任务、推进设计进程并最终形成设计方案的主体。
+
+  只要创意想法利用生产要素或信息技术资源能变成现实产品或服务，并被用户接受即可，参与创造产品、服务附加价值的企业、机构、个人均是生产方。
+
+- **供给方：**指与设计企业协同创新的节点企业，即供应商、竞争者、第三方服务企业等。
+
+- **利益相关方：**主要由各类中介机构组成，包括工会、金融机构、公益机构、投资者等。
+
+  中介机构为设计开发提供完善的相关服务，如技术交易、咨询、融资等中介服务，改善设计产业的原有创新环境，并且将协同创新过程中反馈的信息与人才、知识、资金配置到对应的合作节点。
+
+- **营销方：**主要指广告商、发行商、运营网站等。
+
+- **监管方：**主要由政府部门与行业协会组成。
+
+- **设计产业创新平台：**平台通常以发布设计任务、形成设计方案为触发事件，整合生产和使用产品过程中需要的各类资源，提升设计产品整体价值。
+
+总结：新时代网络活动的设计中心模型。
+
+
+
+# 2021-09-20
+
+[莫言 - 我小时候都读什么书？](https://mp.weixin.qq.com/s/TGK3d3lvBLdqWAUTM9CN8g)
+
+我上次9月3号的时候[看文章](../阅读笔记/[新京报]-《百家讲坛》的大师们又有了新讲台.md)，总结出，人的娱乐活动，就是看着他人的生活，体验他人的生活。 看着莫言回忆小时后，那种命都不要的看书，向往着书中的生活，而我，确实没有。
+
+我小时候，是在电脑游戏和爸妈的争执中成长起来的，还有很多，现在回想都是痛苦的，像什么被班上同学欺负拉，电脑不然玩就偷偷玩拉，成绩不好拉，课文背不出来留在学校拉。这样的环境在我到了初中，似乎更恶了。直到我到我的高中。
+
+我一直认为我的高中是我个人成长的一个转折点，虽然不可辩驳的说，确实学生素质和杭州市里的重点高中，确实难比，我在最开始高一十班的时候，也战战兢兢。不过好在，**整个高中我过的很真实，很自由**。
+
+高中的我一直认为自己是一个怀旧的人，就很喜欢回忆，缅怀过去的好。或许是生活确实很糟糕，所以那时的我，才觉得，小学和同学玩耍的美好时光、初中的爱恨情愁，都是很美好的事情——但其实背后可能确实是不完美的童年。
+
+高中那会儿还谈了“恋爱”，那会儿才头一回感受到，这种被称为“爱”的情感，蕴含着多么巨大的力量。她为我开启了思索未来的大门，我至此，不再追忆过去，反而困惑未来。
+
+只是这个未来，似乎比我想象的，要迟了好多。我本以为，未来是好好学习。当然确实是这样，只是，我不知道为什么而学习。我好像知道学习有用，但它对我本人，又有什么意义呢？如果我死了，化作尘土，那我的存在又有什么意义呢？
+
+人生的意义，只有在有人追求它而不得时，才有了意义。
+
+现在的我也很喜欢看影视作品。我也曾经看过抖音，结果一刷刷了我一个下午，吓得我赶紧卸了它。可是有一天父亲问我抖音怎么拍视频，这又让我把它下载了回来。而现在，它成为了我的一个“设计元素”。
+
+====
+
+我的爸妈，从山里出来赚钱。我妈的家境真不错，但我爸的村子，真不容易。还记得小学时候做家庭作业，问老爸学历，老爸说初中，其实我内心还是笑话他。只是这个误解，在我逐渐成长，逐渐了解历史后，才明白了，那时的艰辛。
+
+有些人厌恶当下，所以他们追逐未来。
+
+有些人喜爱过去，因此他们不问未来。
+
+====
+
+我一直觉得历史这东西，让“人”换了一种方式生存。它的存在，如同两极，一边以“过去”的形式拉扯你，另一边用“梦想”的说辞吸引着你。我认为，阅读，就是一种跨越时间空间的体验，让你能预先走完这人生一程。
+
+我们究竟因从何处来，又到何处去啊。
+
+
+
 # 2021-09-18
 
 一个点赞功能，在大数据的加持下就可以实现内容的匹配推送。
@@ -85,7 +209,7 @@ ZJU国际设计研究院三大实验室
 >
 > 特定的体验，应该在不同的场景下，而不是任意的场景。
 >
-> However, this area has expanded into a concern for logical decision making and strategic planning and is rapidly evolving into an exploration of how better design thinking can contribute to achieving an organic flow of experience in concrete situations, **making such experiences more intelligent, meaningful, and satisfying**. 
+> However, this area has expanded into a concern for logical decision making and strategic planning and is rapidly evolving into an exploration of how better design thinking can contribute to achieving an organic flow of experience in concrete situations, **making such experiences more intelligent, meaningful, and satisfying**.
 >
 > 在设计的 purpose 之中，我们在影响人的价值观，这样人会感受到 **satisfying** 。
 >

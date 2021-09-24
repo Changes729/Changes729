@@ -65,21 +65,31 @@
 </style>
 <table class="mainpagetable">
   <tr class="row">
-    <td colspan="3">
-      <p><span><a href="./政治/">政治</a></span></p>
-      <p><span><a href="./英语/">英语</a></span></p>
+    <td>
+      <p><span><a href="./政治/">政治（65分）</a></span></p>
+      <div class="mainpagediv">
+        <p>（10月中，等书出）肖八、肖四</p>
+      </div>
+    </td>
+    <td colspan="2">
+      <p><span><a href="/api/file/text/%E8%80%83%E7%A0%94/%E8%8B%B1%E8%AF%AD/%E5%8D%95%E8%AF%8D.html">英语（65分，完形 5分, 阅读 30 + 6 + 4, 写作18）</a></span></p>
+      <div class="mainpagediv">
+        <p>（10月前）尽量每天一套</p>
+        <p>（10月10号后）每天一套</p>
+        <p>单词 目标应该是每天100个以上记忆的，但是现在只能每天30个</p>
+      </div>
     </td>
   </tr>
   <tr class="row">
     <td colspan="3">
-      <p><span>设计理论与方法</span></p>
+      <p><span>设计理论与方法（30分）</span></p>
     </td>
   </tr>
   <tr class="row">
     <td>
       <p>基础及新兴概念</p>
       <div class="mainpagediv">
-        <p>工业设计、服务设计、交互设计</p>
+        <p><a href="./设计理论与方法/工业设计、服务设计、交互设计.md">工业设计、服务设计、交互设计</a></p>
         <p>面向环境的设计、面向制造的设计</p>
         <p>可持续产品的设计方法</p>
         <p>稳健设计、敏捷设计</p>
@@ -121,7 +131,7 @@
   </tr>
   <tr class="row">
     <td colspan="3">
-      <p><span>设计调研基础</span></p>
+      <p><span>设计调研基础（40分）</span></p>
     </td>
   </tr>
   <tr class="row">
@@ -203,7 +213,7 @@
   </tr>
   <tr class="row">
     <td colspan="3">
-      <p><span>原型设计基础</span></p>
+      <p><span>原型设计基础（50分）</span></p>
     </td>
   </tr>
   <tr class="row">
@@ -233,14 +243,14 @@
         <p>简单数字和模拟输入</p>
         <p>获取传感器输入</p>
         <p>可视输出、物理输出、声音输出</p>
-        <p>无线通信和网络</p>
+        <p><a href="./原型设计基础/无线通信和网络.md">无线通信和网络</a></p>
       </div>
       <p>上述技术在设计原型和开发中的应用</p>
     </td>
   </tr>
   <tr class="row">
     <td colspan="3">
-      <p><span>设计前沿与趋势</span></p>
+      <p><span>设计前沿与趋势（30分）</span></p>
     </td>
   </tr>
   <tr class="row">
@@ -265,13 +275,13 @@
   </tr>
   <tr class="row">
     <td colspan="3">
-      <p><span><a href="./快题设计/">快题设计</a></span></p>
+      <p><span><a href="./快题设计/">快题设计（120分）</a></span></p>
       <span style="font-size: 0.8em">
         重点应呈现：关键技术、设计方法，突出<a href="../阅读笔记/代尔夫特设计指南/">逻辑思维能力</a>、工程实现能力<br>
         分值分布：<br>
-        创新性和可行性（50 分）:准确响应背景材料需求、突出针对背景材料的设计亮点<br>
-        表达与呈现（50 分）<br>
-        技术实现与设计反思（50 分）:以文字表达为主，介绍上述设计的设计亮点、支撑技术、主要挑战、后续设计拟采用的设计方法或工具。<br>
+        创新性和可行性（50 分，40分）:准确响应背景材料需求、突出针对背景材料的设计亮点<br>
+        表达与呈现（50 分，35分）<br>
+        技术实现与设计反思（50 分，45分）:以文字表达为主，介绍上述设计的设计亮点、支撑技术、主要挑战、后续设计拟采用的设计方法或工具。<br>
       </span>
     </td>
   </tr>
@@ -365,6 +375,12 @@
         <a
           href="https://sdue6c.yuque.com/books/share/1a397abc-c9c8-438c-b19c-14b415de1261"
           >琢木笔记参考</a
+        >
+      </p>
+      <p>
+        <a
+          href="https://app8oj9zesy7389.h5.xiaoeknow.com/xiaoe_clock/clock_entrance_list/8/p_607d6238e4b071a81eb36cec"
+          >琢木课程作业</a
         >
       </p>
       <p>
