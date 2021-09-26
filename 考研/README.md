@@ -72,7 +72,7 @@
       </div>
     </td>
     <td colspan="2">
-      <p><span><a href="/api/file/text/%E8%80%83%E7%A0%94/%E8%8B%B1%E8%AF%AD/%E5%8D%95%E8%AF%8D.html">英语（65分，完形 5分, 阅读 30 + 6 + 4, 写作18）</a></span></p>
+      <p><span><a href="/remember_words/考研/英语/单词.md">英语（65分，完形 5分, 阅读 30 + 6 + 4, 写作18）</a></span></p>
       <div class="mainpagediv">
         <p>（10月前）尽量每天一套</p>
         <p>（10月10号后）每天一套</p>
