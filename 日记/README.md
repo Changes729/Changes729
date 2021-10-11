@@ -1,3 +1,74 @@
+# 2021-10-07
+
+2015年国际设计组织给出了设计的新定义："设计旨在引导创新、促发商业成功以及提供更好质量的生活，是一种将策略性解决问题的过程应用于产品、系统、服务及体验的设计活动。它是一种跨学科的专业，将创新、技术、商业、研究及消费者紧密联系在一起，共同进行创造性活动，并将需解决的问题、提出的解决方案进行可视化，重新解构的问题，将其作为建立更好的产品、系统、服务、体验或商业网络的机会，提供新的价值以及竞争优势。设计是通过其输出物对社会、经济、环境或商业网络的机会，提供新的价值以及竞争优势。
+
+# 2021-10-06
+
+**安于现状偏差**：用户在进行决策时，会倾向于不作为、维持当前的或以前的决策的一种现象。其原因有"损失规避"、"后悔理论"，有学者深入研究这种也测规避现象，提出了"理性-情绪模型"，模型认为，预期后悔或责备、作为与改变的成本、选择困难以及偏好稳定性。
+
+此理论常用的场景就是将一些默认选项修改会造成比较大的结果偏差，比如资源捐献器官。
+
+这个理论可以很好的说明人工智能设计的好处。
+
+**决策与推理**：人的思维氛围经验性思维模式和理性思维模式，在这种思维范式下，人的加工过程分为深思熟虑方式和直觉方式，其中深思熟虑方式会消耗心理认知资源，从而产生自我耗竭。心智资源消耗越多，对自我约束、自我控制方面和道德感等感知方面能力都会下降。
+
+然而，当使用直觉性推理方式，由于心理认知资源充足，往往会提出更积极的意愿。
+
+**纸币与价值观**：今天看到[牛弹琴的文章](https://b23.tv/iFnt1B)，我突然想到，随着货币数字化，原先在纸币上的设计，人物、价值观的传达就没有了。这反映在当下，我们的交易数字化后，是否可以有新的模式，来帮助我们重新认识交易的本质？
+
+原先中国的交易，以白银为载体，成为一种财富的积累。这种针对资本的积累，到资本主义下成为了掠夺。我想数字时代下，交易购买还体现在购买到了垃圾上，所以扔垃圾成为我们归还资源的一种方式。
+
+
+# 2021-10-05
+
+快题主题：能源、教育、人口
+
+碳排放计算方式：直接排放与间接排放。直接排放就是使用碳能源，比如烧饭。间接排放就是火力发电，公司使用火力发电简介的排放。
+
+固碳量测量：植物固碳——植物生物量——二氧化碳生成氧气葡萄糖
+
+能源系统
+
+[基于强化学习的综合能源系统管理综述](https://x.cnki.net/read/article/pdfonline?filename=MOTO20210520000&tablename=CAPJTOTAL&dbcode=CAPJ&topic=&fileSourceType=1&taskId=&from=&groupid=&appId=CRSP_BASIC_PSMC&act=&ts=1633422319&customReading=)
+
+[竞争环境下高耗能制造企业节能方式选择](https://x.cnki.net/read/article/pdfonline?filename=XTLL201810010&tablename=CJFDTOTAL&dbcode=CJFD&topic=&fileSourceType=1&taskId=&from=&groupid=&appId=CRSP_BASIC_PSMC&act=&ts=1633422547&customReading=)
+
+[竞争环境下高耗能制造企业节能方式选择](https://x.cnki.net/read/article/xmlonline?filename=XDRJ201502008&tablename=CJFDTOTAL&dbcode=CJFD&topic=&fileSourceType=1&taskId=&from=&groupid=&appId=CRSP_BASIC_PSMC&act=&ts=1633422629&customReading=)
+
+[制造企业能源信息模型的设计与应用](https://x.cnki.net/read/article/pdfonline?filename=JXGY201420002&tablename=CJFDTOTAL&dbcode=CJFD&topic=&fileSourceType=1&taskId=&from=&groupid=&appId=CRSP_BASIC_PSMC&act=&ts=1633422761&customReading=)
+
+# 2021-10-04
+
+HPS（Human - Physics - System）
+
+HCPS（Human - Cyber - Physics - System）：数字化、网络化、智能化 （自动决策、智能设计）
+
+# 2021-09-29
+
+[VIM快捷键速查](https://zhuanlan.zhihu.com/p/36567499)
+
+
+
+# 2021-09-28
+
+[Google mediapipe](https://google.github.io/mediapipe/)：谷歌开源的媒体流机器学习工具。
+
+[LabelImg](https://github.com/tzutalin/labelImg)：开源的数据集标注工具。
+
+
+
+**最简线性模型（SLIM）**
+
+![img](../../../../Changes729_image/raw/main/ln/README/2021-09-28-215148_2295x1292_scrot.png)
+
+这个图片从[辛向阳：技术的本质、形式与价值](https://www.bilibili.com/video/BV12P4y1h7EK?spm_id_from=333.999.0.0)取出来的，可以看到，一个技术发展的进程，**从基础科学起步、到应用科学、到发明创造、到企业创新、到商业复制、到创新扩散**。这其实为我们设计目标给出了一个很好的参考——某个技术在什么阶段，就应该考虑它下一个阶段的设计，考虑的越远，越有深挖的空间，也就是战略思维。
+
+![img](../../../../Changes729_image/raw/main/ln/README/2021-09-28-220533_1049x501_scrot.png)
+
+辛教授给出了一个看待学科交叉的看法：那就是随着技术的不断发展，原先成为社会生活内容高度凝练的学科，被不断分类，到如今一个大类下的学科也分出了多个小类。这些小类的背后是否有共同的哲学逻辑？这可以尝试去提取出来，从而形成新学科，而那个学科，可能就是理所当然的要学科交叉——因为社会其目的明确。
+
+
+
 # 2021-09-25
 
 数字经济生产力——数字。

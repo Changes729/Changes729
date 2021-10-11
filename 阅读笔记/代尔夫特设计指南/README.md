@@ -178,7 +178,7 @@
     </td>
     <td>
       <p><a href="./基准比较法.md">基准比较法</a></p>
-      <p><a href="./vALUe.md">vALUe</a></p>
+      <p><a href="./vALUe模型.md">vALUe</a></p>
       <p><a href="./目标权重.md">目标权重</a></p>
       <p><a href="./成本售价预估.md">成本售价预估</a></p>
     </td>
