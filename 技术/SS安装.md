@@ -1,0 +1,1 @@
+一键安装脚本：https://www.24kplus.com/linux/1371.html

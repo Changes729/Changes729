@@ -106,8 +106,9 @@
 
 - 路径规划
   - <font color=red>[最短路径算法](https://github.com/ourarash/TrojanMap)？（需要完善）</font>
-- 人工智能图像识别
-  - <font color=red>[Tensorflow - Mediapipe Hand Pose](https://github.com/tensorflow/tfjs-models/tree/master/handpose)?（需要完善）</font>
+- 人工智能
+  - 数据标注：[LabelImg](https://github.com/tzutalin/labelImg)
+  - 图像识别：<font color=red> [Tensorflow - Mediapipe object-detection](https://google.github.io/mediapipe/solutions/object_detection)</font>
 - 手机 （这个好像不重要）
   - Harmony OS
   - 地图 - 高得地图开放平台
@@ -124,6 +125,14 @@
 
 
 **03 [反思]**
+
+- 物件识别与数据集
+  - Mediapipe图像识别是Tensorflow的开源ML应用开发工具，它针对多种场景给出了确切可用的API。但是，ML领域内往往是同一个内容用某种模型去识别会有较高的成功率，而还没有一个所谓通吃的ML图像识别模型。
+  - 基于这种技术特性，现阶段的应用开发，在进行图像识别前就需要进行一定的图像识别模型选择。这种方式在定向探索中可以解决，然而，在日常生活中的自由探索中，就会对孩子的认知能力提出一定的要求——孩子自己要知道它大概是什么东西，然后选适当的模型去识别。
+
+
+
+
 
 - 孩子与手环的交互需要进一步进行可用性评估
 - 更好的安全性
