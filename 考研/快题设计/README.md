@@ -5,6 +5,18 @@
 - [专业分类](./专业分类.md)
 - [技术概览](技术概览.md)
 
+## 什么是快题设计
+
+> _ref_
+>
+> [[Bilibili] - 什么是快题？140分的快题什么样？](https://www.bilibili.com/video/BV1554y1b7RJ/)
+>
+> ​	> 关键词：找到现有的**问题和需求**，用现有的技术和方法提供**解决方案**。——合理
+>
+> [[Bilibili] - 抄袭？借鉴？让汝有效积累好设计](https://www.bilibili.com/video/BV1Lb4y1D7q1?spm_id_from=333.999.0.0)
+>
+> ​	> 关键词：设计目标新颖、解决方案新颖
+
 ## 选题标准 <font size=2>[DIP 合集](https://mp.weixin.qq.com/s/S3Z8Q3pUHR3EnsGpYuJIpQ) [教师列表](http://www.cs.zju.edu.cn/csen/27058/list.htm)</font>
 
 - 往年
