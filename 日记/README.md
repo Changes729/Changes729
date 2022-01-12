@@ -1,3 +1,92 @@
+> Navigation: [TODO List](./TODO.md)
+
+# 2022-1-12
+
+[[Bilibili] 一个蔬菜摊的消失](https://www.bilibili.com/video/BV1bT4y1M7Kw?spm_id_from=333.788.top_right_bar_window_history.content.click)
+
+
+
+# 2022-1-11
+
+[云队友](https://www.duiyou360.com/)：远程工作、自由职业
+
+UI绘制学习
+
+- [[Bilibili] UI绘制APP首页的界面设计——日落海报](https://www.bilibili.com/video/BV1A5411j7Xe?from=search&seid=9818112033742403783&spm_id_from=333.337.0.0)
+
+
+
+# 2022-1-10
+
+[[Bilibili] Google设计课](https://www.bilibili.com/video/BV1U44y167s4/?spm_id_from=333.788.recommend_more_video.-1)
+
+- 策略（Strategy）：定义用户需求和业务目标
+- 包含内容（Scope）：产品中包含的功能和内容
+- 结构（Structure）：组织你的设计以及用户将如何与之交互
+- 骨架（Skeleton）：Layout、布局、设计说明层？
+- 表面（Surface）：用户眼中的样子
+
+
+
+- 所需（Cost）：用户可能只能在有限资源下使用产品（如低通量的网络）
+- 连接性（Connectivity）：用户可能不能长时间使用某资源（如断断续续的网络）
+- 数字素养（Digital Literacy）：（如老一辈）
+- 读写能力（Literacy）：阅读、表达（多语言）
+
+
+
+- UX Tool
+  - [Figma](https://www.figma.com/files/recent?fuid=1060814405081485598)
+  - [Adobe XD](https://www.adobe.com/products/xd.html)
+
+ 
+
+**人间万象**
+
+我在看Google的设计课的时候，里面提出设计产品需要思考人群，即不能抛弃任何一个人，也不能做通用的，针对普通大众的一般性产品，然后她提了一个例子——盲人或者聋人。
+
+盲人或聋人确实是我们能想到的，身体残缺，易于常人的代表人群，但这恰恰反映出我们其实还有许多种类型的人没能定义——如精神脆弱的人群、耳背人群、贫困守旧人群、吸毒人群等等。
+
+
+
+**不劳而获**
+
+我前几天想玩游戏，又不想玩游戏。想玩游戏是觉得游戏里面「收获」很快乐，一个个挑战的解决，目标的达成，让我很有满足感。但越是这样，我越不想玩，因为游戏没有产出，除了与人娱乐能有文化产出外，实体产出、积累较少（简单来说就是赚钱难）。所以我就像有没有一种游戏，能在我不玩的时候也能产出的那种**「不劳而获」**型游戏。
+
+我最开始想玩DN龙之谷和剑灵。因为DN有钓鱼，钓鱼可以做料理，而剑灵时装可以挂机。但是剑灵没有钓鱼、料理系统，啥都要自己手打，而且对系统要求比较大，所以没想了。DN虽然有钓鱼，但是操作、装备要求都变高了。更何况我没有Win电脑玩游戏。
+
+然后我开始在Steam上面找挂机游戏，结果挂机游戏太无聊了。我想了一下为什么挂机游戏这么无聊，可能是因为，DN龙之谷这种游戏，其经济背后，有社交，有关卡，是一种挑战需要有产出供给的游戏，而且会随着版本迭代，而一部分人就会落后。
+
+也就是说，我需要找又有挑战性的，又有种田性的游戏——Pokemmo。
+
+
+
+[[Bilibili]【灵敏时评】哈萨克斯坦骚乱，原因何在？谁是赢家？](https://www.bilibili.com/video/BV1RY41187CV)
+
+关键字：[第11大石油储备国](https://www.goalfore.cn/a/1186.html)、[资源出口导向型经济体](https://baike.baidu.com/item/%E5%87%BA%E5%8F%A3%E5%AF%BC%E5%90%91%E5%9E%8B%E7%BB%8F%E6%B5%8E/2602331)、[资源诅咒](https://baike.baidu.com/item/%E8%B5%84%E6%BA%90%E8%AF%85%E5%92%92/4946037)、[权利寻租](何谓权力寻租？为什么会产生权力寻租？ - 知乎 https://www.zhihu.com/question/22249149)、[输入型通货膨胀](输入性通货膨胀)<sup>[为什么美联储敢这么大胆地印钱，不担心通胀等负面后果？ - 挖山农夫的回答 - 知乎 ](https://www.zhihu.com/question/387385539/answer/1819142161)</sup>、
+
+
+
+# 2022-1-9
+
+[WPS-cn-ibus](https://wiki.archlinux.org/title/IBus_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))：WPS在Linux下只能用ibus输入
+
+[【WPS】表格设置标题固定不滚动](https://blog.csdn.net/weixin_38211198/article/details/89743225)
+
+
+
+# 2022-1-7
+
+感觉设计太复杂了。我应该瞅准一个目标，快速迭代。
+
+
+
+# 2022-1-5
+
+以人为本、设计先行。
+
+
+
 # 2022-1-4
 
 **Q：为什么要投递视频？**
@@ -23,14 +112,19 @@ A：`Effective C++ = RUST`。说实话，之前学习RUST的时候，它的单�
 做视频只是一种纪录生活的手段，重点还是生活本身。我打算先熟悉设计流程，打算先利用原型设计工具设计一下，然后再开始开发。
 
 - [摹客](https://www.mockplus.cn/dt)
+- [摹客图文教程](https://help.mockplus.cn/p/226)
+- [Material Design](https://material.io/design)
+- [Apple Design Resources](https://developer.apple.com/design/resources/)
+- [[CSDN] UI规范](https://blog.csdn.net/m0_37826101/article/details/79715610)
+- [[优波设计] 设计规范](https://www.ubuuk.com/android#D)
+
+最完整的UI设计文档应该看Googe的[[Material Design]](https://material.io/design)，简单看，可以看别人嚼过的[[CSDN] UI规范](https://blog.csdn.net/m0_37826101/article/details/79715610)。
 
 
 
-- [PoC||GTFO](https://github.com/angea/pocorgtfo#pocgtfo)：介绍可以[看这里](https://github.com/ruanyf/weekly/issues/2143)
+- [PoC||GTFO](https://github.com/angea/pocorgtfo#pocgtfo)：介绍可以[看这里](https://github.com/ruanyf/weekly/issues/2143)，这好像是一个软件开发杂谈，评分挺高的，可以用来学英语。
 
 
-Q：如何将已有Git项目重定向至其他项目？
-A：本地的话直接`rebase`就好了。
 
 # 2022-1-3
 
