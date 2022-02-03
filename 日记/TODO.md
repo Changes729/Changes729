@@ -9,23 +9,60 @@
   - [ ] 写笔记
   - [ ] 做Leecode题目
   - [ ] 学五笔打字
+  
 - 通信类
 
   - [ ] 添加RSS
     - [ ] [芬兰阿尔托大学](https://www.aalto.fi/en)
+  
 - 生活类
 
   - [ ] 采购食物
   - [ ] 了解附近买菜的地方
   - [ ] 修屏幕
   - [ ] 运动、减肥
+  - [ ] 学做咖啡、茶水、鸡尾酒
+  
 - 盈利类
 
   - [ ] 找工作
+  
 - 游戏类
-  - [ ] 想玩DN、BS，想做装备，打副本
-  - [ ] 想玩LOL，想合作、想挑战
-  - [ ] 想玩MC
+  - [ ] 解决邮箱问题
+  - [ ] 培养PVP队伍
+  - [ ] [完成全地区PokeMMO种树脚本](../游戏/PokeMMO_tools)
+  - [ ] 实现PokeMMO智能辅助软件
+  
+- 智能生活类
+
+  - [ ] 服务器代码更新，访问资源应该根据后缀名返回
+
+  - [ ] 帐单APP设计
+
+    最终以发布设计方案的视频为结束。
+
+    - [ ] 临摹并记录、分析帐单类APP
+      - [ ] 微信记账本：不是开源的，但是有个[高仿版本](https://github.com/Nick930826/daily-cost)。
+      - [ ] 支付宝帐单：不是开源的，也没有高仿版本。
+      - [ ] [鲨鱼记账](https://www.shayujizhang.com/)：鲨鱼快游网络技术（北京）有限公司，[高仿版本](https://github.com/378056350/react-native-bookkeeping)。
+      - [ ] 记账助手：先丰网络科技，无高仿版本
+      - [ ] 其他独立软件，均忽略：
+        - [ ] [简洁记账源码](https://github.com/ghbhaha/JzApp)
+        - [ ] [[Bilibili] 花记](https://www.bilibili.com/video/BV1Z44y1E7ie?from=search&seid=3363601211321926301&spm_id_from=333.337.0.0)：这是某人的毕业设计
+        - [ ] [[Bilibili] 简约记账](https://www.bilibili.com/video/BV1Ey4y1k73N/?spm_id_from=333.788.recommend_more_video.-1)：工程教学
+        - [ ] [[Bilibili] Money Manager](https://www.bilibili.com/video/BV1W54y1172R?from=search&seid=3363601211321926301&spm_id_from=333.337.0.0)
+      - [ ] [银联云闪付](https://cn.unionpay.com/upowhtml/cn/templates/quickPass/quickPass.html)：
+        - [银联云闪付 android端监控](https://github.com/zohar-soul/union-pay-android)
+        - [云闪付go接口](https://github.com/rockyr8/unionpay5.1.0)
+        - [云闪付JS SDK](https://github.com/taosiqi/upsdk-document)
+    - [ ] 重新以自身出发整理记账需求
+    - [ ] 通过微博、调查研究和专业领域习惯，分析用户行为
+    - [ ] 人性化与个性化分析，系统阐述帐单APP应该有的功能
+    - [ ] 提出可能的技术解决方案
+    - [ ] 阐述遇到的的最大困难
+    - [ ] 给出自己的设计方案
+    - [ ] 收尾
+
 
 
 
@@ -36,13 +73,24 @@
 
 
 
+## 2022-01-12
+
+- [ ] ~~想玩DN、BS，想做装备，打副本~~
+- [ ] ~~想玩LOL，想合作、想挑战~~
+- [ ] ~~想玩MC~~
+- [x] 玩Pokemmo，种田、<u>早6:00、午14:00、晚22:00</u>
+- [ ] ~~「**STUN**」 [账单APP的设计](../生活/项目/数字生活记账本/)~~
+- [x] 「**NEW**」[学习Figma绘制UI](../学习/交互设计/README.md)
+
+
+
 ## 2022-01-07
 
 昨天下午安装的东西到了，唉，老爸都不喜欢，有点烦的。
 
 感觉设计没经验是一个原因，但是设计效率低也是挺有问题的，今天加油干吧。
 
-- [ ] 去宜家看桌子（周六、周日）
+- [ ] ~~去宜家看桌子（周六、周日）~~
 - [x] 纪录一天：失败。感觉自动化纪录会好，或者还是以任务为单位。
 
 
@@ -50,7 +98,7 @@
 
 ## 2022-01-06 计划开始
 
-- [x] 制作视频 - 账单APP的设计内容
+- [x] ~~制作视频 - 账单APP的设计内容~~
   - [ ] [完成账单APP的UI设计](../生活/项目/数字生活记账本/TODO.md)（周五前）
   - [ ] 编写视频内容脚本 - 三小时、图书馆
   - [ ] 准备硬件 - 二小时、家中
