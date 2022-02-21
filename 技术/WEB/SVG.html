@@ -1,0 +1,253 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <title>Smashing Magazine Note Display Demo</title>
+
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Nixie+One|Raleway:200");
+
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        height: 100vh;
+        color: #fff;
+        display: flex;
+        background: #3e423a;
+        font-family: "Nixie One", cursive;
+      }
+
+      .display-container {
+        margin: auto;
+        display: flex;
+      }
+
+      .note-display {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0 25px;
+      }
+
+      .circle {
+        position: relative;
+      }
+
+      .circle__svg {
+        transform: rotate(-90deg);
+      }
+
+      .circle__progress {
+        fill: none;
+        stroke-width: 3;
+        stroke-opacity: 0.3;
+        stroke-linecap: round;
+      }
+
+      .circle__progress--fill {
+        --initialStroke: 0;
+        --transitionDuration: 0;
+        stroke-opacity: 1;
+        stroke-dasharray: var(--initialStroke);
+        stroke-dashoffset: var(--initialStroke);
+        transition: stroke-dashoffset var(--transitionDuration) ease;
+      }
+
+      .note-display:nth-child(1) .circle__progress {
+        stroke: #aaff00;
+      }
+      .note-display:nth-child(2) .circle__progress {
+        stroke: #ff00aa;
+      }
+      .note-display:nth-child(3) .circle__progress {
+        stroke: #aa00ff;
+      }
+      .note-display:nth-child(4) .circle__progress {
+        stroke: #00aaff;
+      }
+
+      .percent {
+        width: 100%;
+        top: 50%;
+        left: 50%;
+        position: absolute;
+        font-weight: bold;
+        text-align: center;
+        line-height: 28px;
+        transform: translate(-50%, -50%);
+      }
+
+      .percent__int {
+        font-size: 28px;
+      }
+      .percent__dec {
+        font-size: 12px;
+      }
+
+      .label {
+        font-family: "Raleway", serif;
+        font-size: 14px;
+        text-transform: uppercase;
+        margin-top: 15px;
+      }
+    </style>
+  </head>
+  <body>
+    <ul class="display-container">
+      <li class="note-display" data-note="7.50">
+        <div class="circle">
+          <svg width="84" height="84" class="circle__svg">
+            <circle
+              cx="41"
+              cy="41"
+              r="38"
+              class="circle__progress circle__progress--path"
+            ></circle>
+            <circle
+              cx="41"
+              cy="41"
+              r="38"
+              class="circle__progress circle__progress--fill"
+            ></circle>
+          </svg>
+
+          <div class="percent">
+            <span class="percent__int">0.</span>
+            <span class="percent__dec">00</span>
+          </div>
+        </div>
+
+        <span class="label">Transparent</span>
+      </li>
+
+      <li class="note-display" data-note="9.27">
+        <div class="circle">
+          <svg width="84" height="84" class="circle__svg">
+            <circle
+              cx="41"
+              cy="41"
+              r="38"
+              class="circle__progress circle__progress--path"
+            ></circle>
+            <circle
+              cx="41"
+              cy="41"
+              r="38"
+              class="circle__progress circle__progress--fill"
+            ></circle>
+          </svg>
+
+          <div class="percent">
+            <span class="percent__int">0.</span>
+            <span class="percent__dec">00</span>
+          </div>
+        </div>
+
+        <span class="label">Reasonable</span>
+      </li>
+
+      <li class="note-display" data-note="6.93">
+        <div class="circle">
+          <svg width="84" height="84" class="circle__svg">
+            <circle
+              cx="41"
+              cy="41"
+              r="38"
+              class="circle__progress circle__progress--path"
+            ></circle>
+            <circle
+              cx="41"
+              cy="41"
+              r="38"
+              class="circle__progress circle__progress--fill"
+            ></circle>
+          </svg>
+
+          <div class="percent">
+            <span class="percent__int">0.</span>
+            <span class="percent__dec">00</span>
+          </div>
+        </div>
+
+        <span class="label">Usable</span>
+      </li>
+
+      <li class="note-display" data-note="8.72">
+        <div class="circle">
+          <svg width="84" height="84" class="circle__svg">
+            <circle
+              cx="41"
+              cy="41"
+              r="38"
+              class="circle__progress circle__progress--path"
+            ></circle>
+            <circle
+              cx="41"
+              cy="41"
+              r="38"
+              class="circle__progress circle__progress--fill"
+            ></circle>
+          </svg>
+
+          <div class="percent">
+            <span class="percent__int">0.</span>
+            <span class="percent__dec">00</span>
+          </div>
+        </div>
+
+        <span class="label">Exemplary</span>
+      </li>
+    </ul>
+
+    <script>
+      const displays = document.querySelectorAll(".note-display");
+      const transitionDuration = 900;
+
+      displays.forEach((display) => {
+        let note = parseFloat(display.dataset.note);
+        let [int, dec] = display.dataset.note.split(".");
+        [int, dec] = [Number(int), Number(dec)];
+
+        strokeTransition(display, note);
+
+        increaseNumber(display, int, "int");
+        increaseNumber(display, dec, "dec");
+      });
+
+      function strokeTransition(display, note) {
+        let progress = display.querySelector(".circle__progress--fill");
+        let radius = progress.r.baseVal.value;
+        let circumference = 2 * Math.PI * radius;
+        let offset = (circumference * (10 - note)) / 10;
+
+        progress.style.setProperty("--initialStroke", circumference);
+        progress.style.setProperty(
+          "--transitionDuration",
+          `${transitionDuration}ms`
+        );
+
+        setTimeout(() => (progress.style.strokeDashoffset = offset), 100);
+      }
+
+      function increaseNumber(display, number, className) {
+        let element = display.querySelector(`.percent__${className}`),
+          decPoint = className === "int" ? "." : "",
+          interval = transitionDuration / number,
+          counter = 0;
+
+        let increaseInterval = setInterval(() => {
+          if (counter === number) {
+            window.clearInterval(increaseInterval);
+          }
+
+          element.textContent = counter + decPoint;
+          counter++;
+        }, interval);
+      }
+    </script>
+  </body>
+</html>
