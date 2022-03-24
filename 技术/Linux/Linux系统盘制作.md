@@ -9,6 +9,18 @@
 > [[Arch Wiki] Archiso](https://wiki.archlinux.org/title/Archiso_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))：教学Archlinux内核制作。教学如何使用archiso构建自定义系统ISO
 >
 > [[GitLab] ArchISO](https://gitlab.archlinux.org/archlinux/archiso)、[SysLinux](https://wiki.syslinux.org/wiki/index.php?title=Development)、[xorriso](https://www.gnu.org/software/xorriso/)
+>
+> [[Arch ARM Wiki] Raspberry Pi 4](https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-4)
+>
+> [[Bilibili] 【韦东山】嵌入式Linux教程_韦东山手把手教你嵌入式Linux快速入门到精通](https://www.bilibili.com/video/BV1w4411B7a4?p=7&spm_id_from=pageDriver)
+>
+> [[Bilibili] 【韦东山】bootloader简述](https://www.bilibili.com/video/BV17P4y1P78K?share_source=copy_web)
+>
+> [[Bilibili] 【韦东山】Linus Linux Kernel简述](https://www.bilibili.com/video/BV19b4y1j77Y?spm_id_from=333.999.0.0)
+>
+> [[Arch ARM Wiki] Is there any tool to build custom ISO ?](https://archlinuxarm.org/forum/viewtopic.php?f=7&t=10827&sid=d2d541e5d54abae9a1a0ebc631c322cb)、[Where I can found script/tool used to generated root tarbals](https://archlinuxarm.org/forum/viewtopic.php?f=7&t=11119)
+>
+> [[ArchLinux Wiki] Arch boot process (简体中文)](https://wiki.archlinux.org/title/Arch_boot_process_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E5%BC%95%E5%AF%BC%E5%8A%A0%E8%BD%BD%E7%A8%8B%E5%BA%8F)
 
 
 
@@ -66,3 +78,42 @@ sudo dd bs=4M if=[你的镜像] of=[SD卡位置]
 
 > `bs=4m` 指的是同时设置读入/输出的块大小为 4m bytes 个字节，
 
+
+
+# 嵌入式Linux系统盘（ARM）
+
+ArchLinux提供的嵌入式Linux系统，是以`.tar.gz`为后缀名的`rootfs tarball`——压缩包文件。其制作方式与X86-64架构的ISO不同，也和`image`不同，它只是系统包。
+
+根据韦东山的嵌入式教学视频，我们可以知道，一个嵌入式ARM操作系统包括**bootloader**、**Linux内核**、**rootfs**以及**应用二进制程序**。
+
+## Boot Loader
+
+单片机有着少量的内存，我们写过单片机的人都知道，单片机的Rom比较小，一般写单片机都需要进行烧写，烧写的东西就是整个系统的**Boot Loader**。
+
+**Boot Loader**需要了解的内容，除了协议，命令、脚本支持外，由于**Boot Loader**需要加载操作系统，所以它必须指明，支持那些`Flash`设备的查找、读取（如ESP、UEFI、MBR、Hard didsk、USB、LAN等），也需要表明对应设备文件类型的支持，如果不支持文件系统，则无法正确读取操作系统内核文件（如FAT、ext、NILFS等）。
+
+## 内核（操作系统）
+
+内核可以简单理解为操作系统，但实际上，Linux内核包含了诸多内容，以后可以介绍。操作系统的功能无非包括**进程管理**、**内存管理**、**文件和输入输出**。
+
+### 构建嵌入式内核步骤
+
+1. 获取嵌入式板子配套的交叉编译工具链
+2. 下载Linux Kernel源码
+   - 可以从git主分支下载
+   - 推荐从芯片原厂获取
+3. 本地配置交叉编译与嵌入式开发环境
+4. 指定编译板子配置文件
+   - `make  [BOARDNAME]_defconfig`
+5. 编译
+   - 编译内核镜像：`make -j[N]`
+   - 编译设备树：`make dtbs`
+   - 编译安装模块驱动：`make modules`
+
+在编译的时候，可以直接用`make all`编译所有内容。由于编译的时候需要通过网络下载所需的文件，如果遇到无法下载的情况（比如我这里就是无法从github下载内容），那么需要手动设置代理：`export https_proxy="https://127.0.0.1:[PORT]"`
+
+
+
+## rootfs（根文件系统）
+
+Boot Loader会加载内核，内核最开始会将内嵌的`initramfs`（初始RAM文件系统）解压为最初的rootfs，而后，再通过外部的`initramfs`加载正真的rootfs。

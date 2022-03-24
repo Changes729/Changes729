@@ -120,3 +120,5 @@ rm -rf .git/modules/assets`
 ## python - Xlib
 
 **[active_window_xlib_demo.py](https://gist.github.com/mgalgs/8c1dd50fe3c19a1719fb2ecd012c4edd)**：包括了获取当前活动应用、获取应用的窗口大小功能
+
+## CMake 交叉编译

@@ -26,9 +26,25 @@
 
 ## 驱动板
 
-驱动板可以DIY，不过第一次可以选择省事一些。直接买
+驱动板可以DIY，不过第一次可以选择省事一些。直接买。
+
+
+
+## 外壳
+
+### FreeCAD
+
+
+
+
 
 ## 参考资料
 
 - [【不到200元DIY显示器，与你分享-哔哩哔哩】](https://b23.tv/w3EKmZE)：京东方屏幕（瑕疵屏，白点）+ 万能驱动板 = 220
 - [【只要300元！手把手教你DIY 4K便携显示器！学生党福利！垃圾佬大胜利！-哔哩哔哩】](https://b23.tv/AJhIBxa)：屏幕DIY全流程
+- [机械师T58-VB换屏流程,仅供参口](https://www.bilibili.com/video/BV1pY41187rQ?from=search&seid=6186728314406562737&spm_id_from=333.337.0.0)：电脑屏幕结构
+- [freecad基础教程全套-灰大柱](https://www.bilibili.com/video/BV1yK4y1Q7CU?p=21)
+- [ODA File Converter](https://www.opendesign.com/guestfiles/oda_file_converter)：FreeCAD需要这个工具才能导出。
+- [jsmn](https://github.com/zserge/jsmn)：LibreDWG需要的库
+- [螺帽](https://item.taobao.com/item.htm?spm=2013.1.w5001-23012147326.4.981a687f5P9nX5&ft=t&id=529125801668&scene=taobao_shop)、[螺丝](https://shop34542751.taobao.com/search.htm?userId=&shopId=34542751&view_type=&order_type=&spm=0&search=y&keyword=M2)、[亚克力板定制](https://detail.tmall.com/item.htm?spm=a230r.1.14.30.4d2343d5usSCxK&id=620604602310&ns=1&abbucket=16&skuId=4554272206497)
+- [MNE001EA1-4 参数资料](https://www.panelook.cn/MNE001EA1-4_CSOT_14_LCM_parameter_cn_51481.html)
