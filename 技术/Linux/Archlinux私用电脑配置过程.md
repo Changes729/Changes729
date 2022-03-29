@@ -63,8 +63,11 @@
    - 配置为自动启动图形化服务，修改`~/.zprofile`
 
      ```
-     if [[ ! $DISPLAY && $XDG_VTNR -le 3 ]]; then # le 3 可以支持多显示器
-       exec startx
+     if [[ ! $DISPLAY && $XDG_VTNR -le 3 ]]; then  # le 3 可以支持多显示器
+         case $(ps -o comm= -p $PPID) in
+             sshd | */sshd) echo "Welcome ssh." ;; # 判断终端是否是ssh登陆的
+     	    *) exec startx;;					  # 只允许电脑启动xserver
+         esac
      fi
      ```
 
@@ -76,16 +79,16 @@
 
      ```
      ...
-     
+
      # Here Xfce is kept as default
-     session=${1:-xfce}
-     
+     session=1
+
      case $session in
          i3|i3wm           ) exec i3;;
-         kde               ) exec startplasma-x11;;
-         xfce|xfce4        ) exec startxfce4;;
+         bspwm             ) exec bspwm;;
+         dwm               ) exec dwm;;
          # No known session, try to run it as command
-         *                 ) exec $1;;
+         *                 ) exec "There is nothing todo";;
      esac
      ```
 
@@ -93,10 +96,24 @@
 
      ```
      if [[ ! $DISPLAY && $XDG_VTNR -eq 1 ]]; then
-       exec startx i3
+       exec startx ~/.xinitrc i3
      fi
      ```
-   
+
+     > 也许，可以选择安装[bspwm](https://wiki.archlinux.org/title/Bspwm_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))或者[dwm](https://wiki.archlinux.org/title/Dwm_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)),外网对这两款windows manager都有偏好。
+
+   - 自动登陆
+
+     - 创建文件`/etc/systemd/system/getty@tty1.service.d/override.conf`并写入：
+
+       ```txt
+       [Service]
+       ExecStart=
+       ExecStart=-/usr/bin/agetty --autologin [username] --noclear %I $TERM
+       ```
+
+     - 或执行`systemctl edit getty@tty1`输入上述内容。
+
 7. 安装字体和浏览器
 
    - 数学符号和表情：`pacman -S texlive-core texlive-fontsextra`
@@ -121,23 +138,28 @@
 
 10. 安装`pikaur`
 
-   - `sudo pacman -S git base-devel`
-   - `git clone https://aur.archlinux.org/pikaur.git`
-   - `cd pikaur`
-   - `makepkg -fsri`
+       - `sudo pacman -S git base-devel`
+
+       - `git clone https://aur.archlinux.org/pikaur.git`
+
+       - `cd pikaur`
+
+       - `makepkg -fsri`
+
 
 11. 安装`polybar`(需要AUR，可能需要科学上网)
 
-   - `pikaur -S polybar`
+       - `pikaur -S polybar`
 
-   - 修改`.config/i3/config`
+       - 修改`.config/i3/config`
 
-     ```
-     ...
-     
-     # polybar support
-     exec_always --no-startup-id polybar
-     ```
+         ```sh
+         ...
+
+         # polybar support
+         exec_always --no-startup-id polybar
+         ```
+
 
 12. 安装输入法
 
@@ -174,16 +196,16 @@
 
 14. 安装`rofi`
 
-   - `pacman -S rofi`
+       - `pacman -S rofi`
 
-   - 修改`.confiig/i3/config`添加
+       - 修改`.confiig/i3/config`添加
 
-   ```
-   # run rofi
-   bindsym $mod+n exec rofi -show run
-   ```
+         ```sh
+         # run rofi
+         bindsym $mod+n exec rofi -show run
+         ```
 
-   > 注意，`rofi`只能在`LANG=en_US.UTF-8`下运行。
+         > 注意，`rofi`只能在`LANG=en_US.UTF-8`下运行。
 
 ## 其他内容
 
