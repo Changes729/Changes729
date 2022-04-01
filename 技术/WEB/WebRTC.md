@@ -4,7 +4,7 @@
 > - [WebRTC samples](https://webrtc.github.io/samples/)
 > - [李超：WebRTC传输与服务质量](https://mp.weixin.qq.com/s/XV0aZLgOeKEOFJ5cOh79Ww)
 > - [如何用 Node.js 实现一个简单的 Websocket 服务？](https://mp.weixin.qq.com/s/jrXsXch-wnlTcS2JEKe32Q)
-> - 栗伟 WebRTC技术详解
+> - 栗伟 WebRTC技术详解 -> [wistingcn](https://github.com/wistingcn)/**[dove-into-webrtc](https://github.com/wistingcn/dove-into-webrtc)**
 # WebRTC
 
 关键词:
