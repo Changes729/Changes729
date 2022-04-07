@@ -29,6 +29,17 @@
   - [insert](https://zh.cppreference.com/w/cpp/container/set/insert)：插入元素或结点 (C++17 起)
 
     复杂度：与容器大小成对数， `O(log(size()))` 。
+  
+- [向量（vector）](https://en.cppreference.com/w/cpp/container/vector)：是一个动态数组。
+
+  - [emplace_back](https://zh.cppreference.com/w/cpp/container/vector/emplace_back)：在容器末尾就地构造元素。
+
+    **复杂度**：均摊常数。
+
+  - [push_back](https://zh.cppreference.com/w/cpp/container/vector/push_back)：拷贝或**移动**value到容器末尾。
+
+    **复杂度**：均摊常数。
+
 
 
 

@@ -12,6 +12,8 @@
 
 ### 工作
 
+最理想的工作内容是**创意成果转化**。
+
 - **华为2012实验室**：华为Fellow集中的地方，整个海思系统，包括芯片、指令集、编译器都是在2012实验室做的。华为的软件fellow主要在信道算法和编译器这两个领域。
 
   **评价**：不是个人发展目标——**不在独立领域上深耕**。
@@ -21,11 +23,31 @@
   - [大学计算机科学与技术专业](./学科分类.md)相关人才
   - [通信工程专业](./学科分类.md)相关人才
 
+- [御鹿科技](https://www.merach.com/)：体育健身器材行业。
+
+- [顾家家具](http://www.kukagroup.com/gjjt/gjjt_cy.html)：目前是软体之王。
+
+- [BinMade数制科技](http://www.binmade.cn/)：纺织全链路智能化
+
+- [洛可可](https://www.lkkdesign.com/)：工业设计
+
+- [涂鸦智能](https://www.tuya.com/cn/)：智能化平台供应商
+
+- [控客科技](http://www.ikonke.com/)：智能家具解决方案
+
+- [LifeSmart 云起智能](https://cn.ilifesmart.com/xianxiamendian/)：智能家具解决方案
+
 
 
 ### [创业](../../../生活/创业/)
 
 - [奇绩创坛](https://www.miracleplus.com/)
+
+
+
+### 组织
+
+
 
 
 
@@ -35,3 +57,14 @@
   - 线上CP：66块钱
 - [西山行户外俱乐部](http://www.xishanxing.com/)
 - 靠[我主良缘](https://www.liangyuan.com/)抽奖
+
+
+
+## 大未来
+
+- 音乐
+- 涂鸦
+- 言语
+- 生物
+- 电子
+- 纪录

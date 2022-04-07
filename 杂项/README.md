@@ -121,4 +121,16 @@ rm -rf .git/modules/assets`
 
 **[active_window_xlib_demo.py](https://gist.github.com/mgalgs/8c1dd50fe3c19a1719fb2ecd012c4edd)**：包括了获取当前活动应用、获取应用的窗口大小功能
 
-## CMake 交叉编译
+## 代理与镜像
+
+### yarn
+
+`https_proxy="http://127.0.0.1:8118" yarn install`
+
+#### [docker](https://docs.docker.com/network/proxy/)
+
+`ENV HTTP_PROXY="http://192.168.0.2:8118"`
+
+### [pip](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/)
+
+`pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple`
