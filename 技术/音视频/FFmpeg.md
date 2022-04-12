@@ -2,6 +2,8 @@
 > [[微信读书] 刘歧 赵文杰 ffmpeg从入门到精通](https://weread.qq.com/book-detail?type=1&senderVid=13954449&v=587329805e2f7c587db316ekcfc32da010cfcd208495488)
 >
 > [FFmpeg Documentation](https://ffmpeg.org/documentation.html)
+>
+> [使用FFmpeg添加、删除、替换和提取视频中的音频](https://mp.weixin.qq.com/s/SFpdHo1IT3XA4xDm_XuA-g)
 
 # FFmpeg
 

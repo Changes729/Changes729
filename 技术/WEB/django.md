@@ -4,11 +4,18 @@
 >   - [URL 的反向解析](https://docs.djangoproject.com/zh-hans/4.0/topics/http/urls/#reverse-resolution-of-urls)
 >   - [命名URL模式](https://docs.djangoproject.com/zh-hans/4.0/topics/http/urls/#naming-url-patterns-1)
 >   - [migrate](https://docs.djangoproject.com/zh-hans/4.0/ref/django-admin/#django-admin-migrate)：负责应用和撤销迁移。
+>     - [migrate document](https://docs.djangoproject.com/en/4.0/topics/migrations/#module-django.db.migrations)
 >     - 你应该将迁移看作是**数据库**架构的版本控制系统。
->
+>       - [makemigrations](https://docs.djangoproject.com/zh-hans/4.0/ref/django-admin/#django-admin-migrate)：根据检测到的模型变化创建新的迁移。
+>     - [How to Create Django Data Migrations](https://simpleisbetterthancomplex.com/tutorial/2017/09/26/how-to-create-django-data-migrations.html)
+>     - [Writing a Django Data Migration with Real World Example](https://dev.to/guin/writing-a-django-data-migration-with-real-world-example-40m)
+>     
+>   - [Introduction to models](https://docs.djangoproject.com/en/4.0/topics/db/models/)
+>     - [model field reference](https://docs.djangoproject.com/en/4.0/ref/models/fields/#model-field-types)
+>   
 >   - [How to create custom `django-admin` commands](https://docs.djangoproject.com/en/4.0/howto/custom-management-commands/)
->     - [如果有重名的命令会发生什么情况？](https://stackoverflow.com/questions/29320103/if-multiple-django-apps-define-the-same-custom-management-command-which-is-used)：根据优先级，后加载的模块会覆盖前面的命令
->
+>     - [如果有重名的命令会发生什么情况？](https://stackoverflow.com/questions/29320103/if-multiple-django-apps-define-the-same-custom-management-command-which-is-used)：根据优先级，后加载的模块会覆盖前面的命令 
+>   -  [Django中的用户认证](https://docs.djangoproject.com/zh-hans/4.0/topics/auth/)
 >
 > *相关项目*：
 >
@@ -75,5 +82,25 @@
 
 
 
-## 一些技巧
+## Migrations 迁移
+
+**四个命令**：
+
+- migrate：用来应用（applying）或者撤销（unapplying）迁移。
+- makemigrations：基于你对模型（models）的修改，来创建一个新的迁移（migrate）。
+- sqlmigrate
+- showmigrations
+
+**什么时候需要创建迁移（make migrations）？**：
+
+- 当你对模型修改时（如同添加或删除一个字段），通过 `makemigrations` Django 会创建一个迁移文件。
+- 一旦你拥有一个迁移文件之后，你应该使用 `migrate` 应用它以保证它符合期望。
+
+**什么时候需要执行迁移（run migrations）？**：
+
+- 当需要保证模型数据库符合预期时，需要进行数据迁移。包括通过git更新了其他人的迁移文件时。都需要进行同步。
+
+
+
+## Models Django 模型
 

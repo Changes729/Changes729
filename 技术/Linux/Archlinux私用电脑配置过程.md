@@ -3,6 +3,10 @@
 > [[Arch Wiki] Installation guide](https://wiki.archlinux.org/title/Installation_guide)
 >
 > [[Arch Wiki] Font](https://wiki.archlinux.org/title/Fonts)
+>
+> [[Arch Wiki] NVIDIA](https://wiki.archlinux.org/title/NVIDIA)
+>
+> - [[SOLVED] Linux-zen kernel and Nvidia](https://bbs.archlinux.org/viewtopic.php?id=251515)
 
 # Archlinux电脑私用配置
 
@@ -218,3 +222,7 @@
 ### chromium crash on raspberry PI
 
 [[SOLVED] Aw, Snap! SIGSEGV](https://archlinuxarm.org/forum/viewtopic.php?f=15&t=14453)
+
+### Nvidia
+
+不同内核安装的Nvidia不同。Nvidia包需要对应内核的header。
