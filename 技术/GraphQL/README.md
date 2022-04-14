@@ -1,8 +1,11 @@
 > 参考资料：
 >
 > - https://graphql.org/
+>   - [Pagination 分页导航](https://graphql.org/learn/pagination/#end-of-list-counts-and-connections)
+>     - [Pagination and Edges](https://graphql.org/learn/pagination/#pagination-and-edges)：描述了 GraphQL 如何进行分页
 > - [graphene-django](https://docs.graphene-python.org/projects/django/en/latest/installation/#)
 >   - [Mutations](https://docs.graphene-python.org/en/latest/types/mutations/)
+>   - [Auto camelCase field names](https://docs.graphene-python.org/en/latest/types/schema/#auto-camelcase-field-names)
 
 # GraphQL
 

@@ -9,13 +9,19 @@
 >       - [makemigrations](https://docs.djangoproject.com/zh-hans/4.0/ref/django-admin/#django-admin-migrate)：根据检测到的模型变化创建新的迁移。
 >     - [How to Create Django Data Migrations](https://simpleisbetterthancomplex.com/tutorial/2017/09/26/how-to-create-django-data-migrations.html)
 >     - [Writing a Django Data Migration with Real World Example](https://dev.to/guin/writing-a-django-data-migration-with-real-world-example-40m)
->     
+>
 >   - [Introduction to models](https://docs.djangoproject.com/en/4.0/topics/db/models/)
->     - [model field reference](https://docs.djangoproject.com/en/4.0/ref/models/fields/#model-field-types)
+>     - [model field reference](https://docs.djangoproject.com/en/4.0/ref/models/fields/#model-field-types)：Model 字段類型
+>
+>   - [Making queries](https://docs.djangoproject.com/en/4.0/topics/db/queries/)
+>     - [QuerySet API reference](https://docs.djangoproject.com/en/4.0/ref/models/querysets/)
 >   
+>     - [How to write custom lookups](https://docs.djangoproject.com/zh-hans/4.0/howto/custom-lookups/#how-to-write-custom-lookups)
+>       - [Lookup API reference](https://docs.djangoproject.com/en/4.0/ref/models/lookups/)：介绍了如何编写一个 Lookup 表达式
+>     
 >   - [How to create custom `django-admin` commands](https://docs.djangoproject.com/en/4.0/howto/custom-management-commands/)
 >     - [如果有重名的命令会发生什么情况？](https://stackoverflow.com/questions/29320103/if-multiple-django-apps-define-the-same-custom-management-command-which-is-used)：根据优先级，后加载的模块会覆盖前面的命令 
->   -  [Django中的用户认证](https://docs.djangoproject.com/zh-hans/4.0/topics/auth/)
+>   - [Django中的用户认证](https://docs.djangoproject.com/zh-hans/4.0/topics/auth/)
 >
 > *相关项目*：
 >
