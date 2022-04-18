@@ -6,6 +6,7 @@
 > - [graphene-django](https://docs.graphene-python.org/projects/django/en/latest/installation/#)
 >   - [Mutations](https://docs.graphene-python.org/en/latest/types/mutations/)
 >   - [Auto camelCase field names](https://docs.graphene-python.org/en/latest/types/schema/#auto-camelcase-field-names)
+>   - [Resolvers](https://docs.graphene-python.org/en/latest/types/objecttypes/#resolvers)
 
 # GraphQL
 
