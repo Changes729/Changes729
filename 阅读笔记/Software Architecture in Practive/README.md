@@ -5,7 +5,7 @@
 **PART ONE INTRODUCTION**
 
 - [What Is Software Architecture?](./What%20Is%20Software%20Architecture.md)
-- Why Is Software Architecture Important?
+- [Why Is Software Architecture Important?](./Why%20Is%20Software%20Architecture%20Important.md)
 - The Many Contexts of Software Architecture
 
 **PART TWO QUALITTY ATTRIBUTES**
