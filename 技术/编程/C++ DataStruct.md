@@ -42,4 +42,6 @@
 
 
 
+## C++ utils
 
+- [accumulate](https://zh.cppreference.com/w/cpp/algorithm/accumulate)：用来计算累加值的。等于 `sum` 。

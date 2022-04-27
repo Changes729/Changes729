@@ -159,7 +159,7 @@
 
          ```sh
          ...
-
+         
          # polybar support
          exec_always --no-startup-id polybar
          ```
@@ -226,3 +226,10 @@
 ### Nvidia
 
 不同内核安装的Nvidia不同。Nvidia包需要对应内核的header。
+
+
+
+**外部设备自动挂载**
+
+- 安装 `udisks`：`pacman -S udisks`
+- 

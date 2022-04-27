@@ -7,6 +7,8 @@
 > - [Lychee](https://github.com/LycheeOrg/Lychee)：WebImage Viewer
 > - [photonix](https://github.com/photonixapp/photonix)
 > - [burtonator](https://github.com/burtonator)/**[polar-bookshelf](https://github.com/burtonator/polar-bookshelf)**
+> - [PDFTron](https://github.com/PDFTron)/**[webviewer-vue-sample](https://github.com/PDFTron/webviewer-vue-sample)**
+> - [navidrome](https://github.com/navidrome)/**[navidrome](https://github.com/navidrome/navidrome)**
 
 # WebEdit
 
