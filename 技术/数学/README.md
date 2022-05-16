@@ -1,3 +1,6 @@
+> 参考资料：
+> - [LATEX Mathematical Symbols](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
+
 # 数学
 
 线性代数

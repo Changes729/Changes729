@@ -15,3 +15,4 @@
 ## Python库
 
 - [asyncinotify](./asyncinotify.md)：异步文件监听库。类似 Linux 下的 epoll。
+- [Getopt module in Python](https://www.geeksforgeeks.org/getopt-module-in-python/)

@@ -7,16 +7,17 @@
 > [[Arch Wiki] NVIDIA](https://wiki.archlinux.org/title/NVIDIA)
 >
 > - [[SOLVED] Linux-zen kernel and Nvidia](https://bbs.archlinux.org/viewtopic.php?id=251515)
+> [[Arch Wiki] NetworkManager](https://wiki.archlinux.org/title/NetworkManager_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
 
 # Archlinux电脑私用配置
 
-本文记录了从安装完毕一个ArchLinux后的一系列操作，从而实现将一个ArchLinux变成私人电脑的过程。
+本文记录了从安装完毕一个ArchLinux后的一系列操作，从而实现将一个ArchLinux变成私人电脑的过程。想要了解如何安装Archlinux，请查看[这篇文章](./Archlinux安装.md)。
 
 ## 关键步骤
 
 1. 联网，设置时区、地区，键盘映射
 
-   - 网线连接或`wifi-menu`
+   - 网线连接或`wifi-menu`，使用networkManager时，连接无线网使用`nmcli`
 
    - `ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime` 之后 `hwclock --systohc`
 
@@ -38,7 +39,7 @@
 
    - `useradd -m [yourname]`然后`passwd [yourname]`
 
-   - [可选] 为新用户提供sudo权限，`visudo`
+   - [可选] 为新用户提供sudo权限，`visudo`，需要安装`sudo`
 
    - [可选] 为新用户提供自动登陆`/etc/systemd/system/getty@tty1.service.d/autologin.conf`
 
@@ -85,7 +86,7 @@
      ...
 
      # Here Xfce is kept as default
-     session=1
+     session=$1
 
      case $session in
          i3|i3wm           ) exec i3;;
@@ -108,7 +109,7 @@
 
    - 自动登陆
 
-     - 创建文件`/etc/systemd/system/getty@tty1.service.d/override.conf`并写入：
+     - 创建文件`/etc/systemd/system/getty@tty1.service.d/autologin.conf`并写入，中括号不带：
 
        ```txt
        [Service]
@@ -124,6 +125,7 @@
    - 思源字体：`pacman -S adobe-source-han-sans-otc-fonts adobe-source-han-serif-otc-fonts`
    - 编程字体：`pacman -S adobe-source-code-pro-fonts`
    - 安装浏览器：`pacman -S chromium`或从AUR下载`google-chrome`
+   - 安装终端：`pacman -S terminator`, 在图形界面下，使用`i3-config-wizard`自动配置。
 
 8. 安装[picom](https://wiki.archlinux.org/title/Picom)
 
@@ -227,9 +229,11 @@
 
 不同内核安装的Nvidia不同。Nvidia包需要对应内核的header。
 
+安装英伟达理论上不需要其他操作， [[Solved] Failed to initialize the NVIDIA kernel module](https://bbs.archlinux.org/viewtopic.php?id=175253)
+
+### SSH
 
 
 **外部设备自动挂载**
 
 - 安装 `udisks`：`pacman -S udisks`
-- 
