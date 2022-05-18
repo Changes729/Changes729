@@ -1,0 +1,13 @@
+> 参考资料：
+>
+> - [高压LEDh灯条](https://item.taobao.com/item.htm?spm=a230r.1.14.89.b5fb4e52YPl7Df&id=664938858166&ns=1&abbucket=6#detail)、[LED灯条自粘灯箱照明灯带户外车站地铁广告灯货架柜台装饰灯](https://item.taobao.com/item.htm?spm=a230r.1.14.59.b5fb4e52YPl7Df&id=670310094181&ns=1&abbucket=6#detail)
+> - [WS2812b 可控灯条](https://item.taobao.com/item.htm?spm=a230r.1.14.54.2e4f2caaEqSQnM&id=587315326469&ns=1&abbucket=6#detail)
+>   - [WS2812 Datasheet(PDF)](https://html.alldatasheet.com/html-pdf/553088/ETC2/WS2812/95/1/WS2812.html)
+>   - [Worldsemi](http://www.world-semi.com/)
+> - [帝光照明](http://www.dgdiguang.com/html/products.html)
+
+# 灯带
+
+## 名词解释
+
+- 高压漫反射：漫反射灯条一般是用在广告灯箱里面的，由于漫反射发光面近170度，通过透镜把光均匀的360度扩散开来，光线相对均匀和柔和，在超薄的灯箱里面也不会看出暗区。漫反射能起到光线柔和的作用。[参考](http://www.norklighting.com/qask-question-detail-id-368.html)
