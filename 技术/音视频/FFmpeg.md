@@ -76,4 +76,9 @@
 - 视频特效：[[CSDN] 博客](https://blog.csdn.net/yu540135101/article/details/103025957)
 
   - 淡入淡出：`ffmpeg -i 1.mp4 -vf fade=in:0:50 out3.mp4`
+  
+- 视频转码：
+
+  - [mov格式转 vp8 webm](https://www.xuefei.net.cn/index.php/archives/138/)：`ffmpeg -i fg.mov -vcodec libvpx -auto-alt-ref 0 -acodec libvorbis out.webm`
+
 
