@@ -12,7 +12,7 @@
 > - [miguelbalboa](https://github.com/miguelbalboa)/**[rfid](https://github.com/miguelbalboa/rfid)**
 > - [爱采购](https://b2b.baidu.com/s?q=MFRC522&from=search&fid=67174400%2C1651636003010&pi=b2b.s.search...273966187815426)、[淘宝网](https://item.taobao.com/item.htm?spm=a230r.1.14.219.40f637a7fru8m4&id=658178661866&ns=1&abbucket=14#detail)
 > - [don](https://github.com/don)/[**NDEF**](https://github.com/don/NDEF)
-> - [Android/NFC](https://developer.android.com/guide/topics/connectivity/nfc)
+> - [Android/NFC](https://developer.android.com/guide/topics/connectivity/nfc)：看 ST 文档，Android 是同时支持ISO 14443 和 ISO 15693 的。
 > - [cbm80amiga](https://github.com/cbm80amiga)/[RFID_Scanner_OLED](https://github.com/cbm80amiga/RFID_Scanner_OLED)
 > - [NFC Forum](http://www.nfc-forum.org/)
 > - [Arduino NFC实验，Arduino读取RFID信息](https://www.phodal.com/blog/arduino-nfc-pn532-dfrobot-pn532-nfc/)
@@ -23,6 +23,9 @@
 >   - [Yinke7](https://github.com/Yinke7)/[PN532](https://github.com/Yinke7/PN532)
 > - [UID 芯片](https://item.taobao.com/item.htm?spm=a230r.1.14.46.bd1f3907pObgDv&id=612544062808&ns=1&abbucket=11#detail)
 > - [NFC读卡器](https://www.nxp.com.cn/products/rfid-nfc/nfc-hf/nfc-readers:NFC-READER)
+> - [ST NFC/RFID product presentation](https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group1/a9/5d/77/96/be/9a/48/7e/ST25_NFC_RFID_product_overview/files/ST25_product_overview.pdf/jcr:content/translations/en.ST25_product_overview.pdf)
+>   - [ST25 product overview](https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group0/fd/7f/ea/d5/2b/b2/4b/d6/ST25R95_product_presentation_jan2019/files/ST25R95product_presentation-Jan2019.pdf/jcr:content/translations/en.ST25R95product_presentation-Jan2019.pdf)：ST25R95 文档里说是支持 ISO 15693 模拟的。但是产品描述中又说只支持 ISO14443 TypeA 的模拟。
+> - [What Is the Difference Between ISO 15693 and ISO 14443A Tags?](https://www.rfidjournal.com/question/what-is-the-difference-between-iso-15693-and-iso-14443a-tags)：ISO 14443 是被设计在金融行业的，传输距离短，速度快。而 ISO 15693 是被设计用来做访问控制的，其标签读取距离很长，但速度慢。
 
 # RFID/NFC
 
