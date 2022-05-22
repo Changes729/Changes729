@@ -3,7 +3,7 @@
 ## 工具
 
 - [Altium Designer](https://www.altium.com.cn/altium-designer/)
-- [KiCAD](https://kicad.org/)
+- [KiCAD](./KiCAD/)
 - [立创EDA](./%E7%AB%8B%E5%88%9BEDA.md)
 
 ## 小技巧
