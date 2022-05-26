@@ -80,5 +80,9 @@
 - 视频转码：
 
   - [mov格式转 vp8 webm](https://www.xuefei.net.cn/index.php/archives/138/)：`ffmpeg -i fg.mov -vcodec libvpx -auto-alt-ref 0 -acodec libvorbis out.webm`
+  
+- 音频转码：
+
+  - mp3转wav：`ffmpeg -i xx.mp3 xx.wav`
 
 
