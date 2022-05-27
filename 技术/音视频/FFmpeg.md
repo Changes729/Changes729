@@ -4,6 +4,8 @@
 > [FFmpeg Documentation](https://ffmpeg.org/documentation.html)
 >
 > [使用FFmpeg添加、删除、替换和提取视频中的音频](https://mp.weixin.qq.com/s/SFpdHo1IT3XA4xDm_XuA-g)
+>
+> [利用FFmpeg进行音频降噪](https://guohongyi.com/2020/09/28/%E5%88%A9%E7%94%A8FFmpeg%E8%BF%9B%E8%A1%8C%E9%9F%B3%E9%A2%91%E9%A2%84%E5%A4%84%E7%90%86/#%E5%85%B3%E4%BA%8Effmpeg)
 
 # FFmpeg
 
@@ -84,5 +86,11 @@
 - 音频转码：
 
   - mp3转wav：`ffmpeg -i xx.mp3 xx.wav`
+  
+- 音频降噪：
+
+  - 频域滤波：通频带为 300 ～ 3400
+
+    `ffmpeg -y -i in.wav -ac 1 -ar 16000 -acodec pcm_s16le -filter "bandpass=frequency=300:width_type=h:width=3100" out.wav`
 
 
