@@ -8,6 +8,5 @@
 
 ## 常用命令
 
-```sh
-zip -q -r html.zip /home/html
-```
+- zip 打包命令：`zip -q -r html.zip /home/html`
+- 基于Github的版本同步：`wget -N $(wget -qO- https://api.github.com/repos/[Changes729/MediaWallTest]/releases/latest | grep browser_download_url | cut -d'"' -f4)`
