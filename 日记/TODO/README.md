@@ -1,10 +1,10 @@
 # TODO List
 
 - [硬盒交互阶段](./硬盒交互阶段/)
-  - [图片管理代码阅读]()：尽早实现个人图片管理工具
-    - 查看思源笔记
   - [制定日程表]()：尽早制定日程表，包括工作、运动、泛知识类学习（哲学、经济、贸易、工业、服务等）、科技与技术以及艺术与音乐（手绘、展览等）的计划。
   - 寻找无线电、RFID、天线爱好者团队
+  - 寻找音视频、图片、文本管理工具
+    - [图片管理代码阅读]()：尽早实现个人图片管理工具
   - 帮浇水
     - 断电、换水、加药、通电、紫外灯
     - 食物
@@ -24,8 +24,6 @@
     - [学习前端制作PPT](学习制作前端PPT.md)
     - [学习JS库](../../技术/编程/JS.md)
   - [学习ThreeJS](./Learn%20ThreeJS.md)
-  - [学习C++STL库与数据结构](../../技术/编程/C++%20DataStruct.md)
-  - [学习RUST](./Learning%20Rust.md)
   - [学五笔打字](学五笔打字.md)
   - 学习[TOUCHDESIGNER](https://derivative.ca/download)
   - 学习[MadMapper](https://madmapper.com/madmapper/software)
