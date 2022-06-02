@@ -15,7 +15,6 @@
 > - [Android/NFC](https://developer.android.com/guide/topics/connectivity/nfc)：看 ST 文档，Android 是同时支持ISO 14443 和 ISO 15693 的。
 > - [cbm80amiga](https://github.com/cbm80amiga)/[RFID_Scanner_OLED](https://github.com/cbm80amiga/RFID_Scanner_OLED)
 > - [NFC Forum](http://www.nfc-forum.org/)
-> - [Arduino NFC实验，Arduino读取RFID信息](https://www.phodal.com/blog/arduino-nfc-pn532-dfrobot-pn532-nfc/)
 > - [稚晖君 NFC Card](https://github.com/peng-zhihui/L-ink_Card)
 > - [【IoT】加密与安全：NFC 读写 IC 卡以及密码安全验证](https://blog.51cto.com/u_15284384/3050927)
 > - [How to design an antenna for dynamic NFC tags](https://www.st.com/resource/en/application_note/cd00232630-how-to-design-an-antenna-for-dynamic-nfc-tags-stmicroelectronics.pdf)
@@ -27,6 +26,8 @@
 >   - [ST25 product overview](https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group0/fd/7f/ea/d5/2b/b2/4b/d6/ST25R95_product_presentation_jan2019/files/ST25R95product_presentation-Jan2019.pdf/jcr:content/translations/en.ST25R95product_presentation-Jan2019.pdf)：ST25R95 文档里说是支持 ISO 15693 模拟的。但是产品描述中又说只支持 ISO14443 TypeA 的模拟。
 > - [What Is the Difference Between ISO 15693 and ISO 14443A Tags?](https://www.rfidjournal.com/question/what-is-the-difference-between-iso-15693-and-iso-14443a-tags)：ISO 14443 是被设计在金融行业的，传输距离短，速度快。而 ISO 15693 是被设计用来做访问控制的，其标签读取距离很长，但速度慢。
 > - [RfidResearchGroup](https://github.com/RfidResearchGroup)/**[proxmark3](https://github.com/RfidResearchGroup/proxmark3)**
+> - [[知乎] 详谈Mifare Classic 1K卡](https://zhuanlan.zhihu.com/p/67532665)：介绍了 Mifare 卡，其作用和破解原理。
+> - [[PDF] Mifare Standard Card IC](https://d1.amobbs.com/bbs_upload782111/files_45/ourdev_672290CL1VWC.pdf)
 
 # RFID/NFC
 
