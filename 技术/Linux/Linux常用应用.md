@@ -10,3 +10,4 @@
 
 - zip 打包命令：`zip -q -r html.zip /home/html`
 - 基于Github的版本同步：`wget -N $(wget -qO- https://api.github.com/repos/[Changes729/MediaWallTest]/releases/latest | grep browser_download_url | cut -d'"' -f4)`
+- 代理：`export https="http://127.0.0.1:8118"` 让https走http代理。不清楚具体什么意思，但是这样设置 TLS 可以通过

@@ -1,7 +1,9 @@
 > 共创设计看板：https://ufnhxz2l93.feishu.cn/docs/doccn5sg3LI3bdeHTjToOSoQsBg#
 >
 > - [飞书打卡表](https://q6k1h5q69p.feishu.cn/sheets/shtcnVzznXirQXlrnpErk6e3tzs)
-> - [第一周任务](./第一周任务.md)
+> - [第一周任务](./第一周任务/)
+> - [第二周任务](./第二周任务/)
+> - [第三周任务](./第三周任务/)
 > - [《A组话题协作表：大邑富平小贷公司本身作为一个系统》](https://shimo.im/file-invite/u.Xqv0gJYMkr37qJZ6/ )
 
 # SSIR 社会设计 & 大邑共创营
