@@ -22,5 +22,5 @@
 
 ## 小技巧
 
-- 获取 Python 运行文件路径：`os.path.dirname(os.path.abspath(__file__)))`
+- 获取 Python 运行文件路径：`os.path.dirname(os.path.abspath(__file__))`
 - Python 搭建临时 HTTP 服务器：`python3 -m http.server 5678`
