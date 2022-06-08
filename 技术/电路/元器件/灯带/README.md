@@ -8,7 +8,7 @@
 > - [TM512AC](https://www.artleds.com/blog/ic-chip-pixel-protocol-overview-tm512ac)：一个 DMX512 协议的16灰度控制器。和 WS2812 差不多。
 >   - [WHAT IS THE DIFFERENCE BETWEEN RGB AND RGBW?](https://lightingequipmentsales.com/what-is-the-difference-between-rgb-and-rgbw.html)：RGBW用在亮白色的照明任务上。
 >   - [DMX512](http://www.dmx-512.com/)：通常用来控制舞台灯光。
-> - [帝光照明](http://www.dgdiguang.com/html/products.html)
+> - [帝光照明](http://www.dgdiguang.com/html/products.html)：[硬盒购买的产品型号 XD960-5](https://www.xdvis.cn/products/28.html)
 > - [adafruit](https://github.com/adafruit)/**[Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)**
 > - [ENESS LUMES](http://lumes.net/)：创意灯面
 
