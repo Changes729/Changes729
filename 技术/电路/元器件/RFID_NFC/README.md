@@ -99,11 +99,12 @@ SONY
 - [[ST] ST25DV](https://pdf1.alldatasheet.com/datasheet-pdf/view/1009237/STMICROELECTRONICS/ST25DV.html)
 
 
-## TODO
 
-- [ ] Android 读取卡片
-- [ ] 自建电路 读取卡片
-- [ ] Android 模拟卡片
-- [ ] 自建 IC 电路卡片
-- [ ] Android 与 自建电路通信
-- [ ] 自建电路 模拟卡片
+## Operating Modes
+
+- Card Emulation mode：仿真标签
+- Reader / Writer mode：标签读写
+- Wireless Charging mode：无线充电
+- Host Card Emulation：主机卡模拟
+- Peer-to-Peer mode：对等通信
+- Secure Element based Card Emulation
