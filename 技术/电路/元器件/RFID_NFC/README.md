@@ -28,6 +28,8 @@
 > - [RfidResearchGroup](https://github.com/RfidResearchGroup)/**[proxmark3](https://github.com/RfidResearchGroup/proxmark3)**
 > - [[知乎] 详谈Mifare Classic 1K卡](https://zhuanlan.zhihu.com/p/67532665)：介绍了 Mifare 卡，其作用和破解原理。
 > - [[PDF] Mifare Standard Card IC](https://d1.amobbs.com/bbs_upload782111/files_45/ourdev_672290CL1VWC.pdf)
+> - [NFC Forum Assigned Numbers Register](https://sunflaur.tistory.com/m/305?category=538738)：介绍了TNF为 NFC Forum Well-Known Type类型。
+> - [深入理解Android：Wi-Fi、NFC和GPS卷](https://static.kancloud.cn/alex_wsc/android-wifi-nfc-gps/)
 
 # RFID/NFC
 
