@@ -9,9 +9,7 @@
 > - [[PDF] MFRC522](https://www.nxp.com.cn/docs/en/data-sheet/MFRC522.pdf)
 > - [RAIN RFID and NFC Tag Design](https://voyantic.com/rfid-tag-design/)
 > - [[Wiki] NFC](https://en.wikipedia.org/wiki/Near-field_communication)
-> - [miguelbalboa](https://github.com/miguelbalboa)/**[rfid](https://github.com/miguelbalboa/rfid)**
 > - [爱采购](https://b2b.baidu.com/s?q=MFRC522&from=search&fid=67174400%2C1651636003010&pi=b2b.s.search...273966187815426)、[淘宝网](https://item.taobao.com/item.htm?spm=a230r.1.14.219.40f637a7fru8m4&id=658178661866&ns=1&abbucket=14#detail)
-> - [don](https://github.com/don)/[**NDEF**](https://github.com/don/NDEF)
 > - [Android/NFC](https://developer.android.com/guide/topics/connectivity/nfc)：看 ST 文档，Android 是同时支持ISO 14443 和 ISO 15693 的。
 > - [cbm80amiga](https://github.com/cbm80amiga)/[RFID_Scanner_OLED](https://github.com/cbm80amiga/RFID_Scanner_OLED)
 > - [NFC Forum](http://www.nfc-forum.org/)
@@ -29,7 +27,6 @@
 > - [[知乎] 详谈Mifare Classic 1K卡](https://zhuanlan.zhihu.com/p/67532665)：介绍了 Mifare 卡，其作用和破解原理。
 > - [[PDF] Mifare Standard Card IC](https://d1.amobbs.com/bbs_upload782111/files_45/ourdev_672290CL1VWC.pdf)
 > - [NFC Forum Assigned Numbers Register](https://sunflaur.tistory.com/m/305?category=538738)：介绍了TNF为 NFC Forum Well-Known Type类型。
-> - [深入理解Android：Wi-Fi、NFC和GPS卷](https://static.kancloud.cn/alex_wsc/android-wifi-nfc-gps/)
 
 # RFID/NFC
 
