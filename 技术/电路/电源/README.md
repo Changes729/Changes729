@@ -1,7 +1,5 @@
 # 电源
 
-
-
 ## 电池
 
 - [聚合物锂电池](https://en.wikipedia.org/wiki/Lithium-ion_battery#Safety)：[爆炸实验](https://www.youtube.com/watch?v=eZxDC-whz14)
@@ -19,4 +17,16 @@
   标准充电方法：0.5C CC（恒流）充电至4.25V，再CV（恒压4.2V）充电直至充电电流≤0.05C
   
   
+
+
+
+## 智能插座（可控电源）
+
+### 公牛
+
+### gosund（小米供应链）
+
+### 华为（正泰代工）
+
+### 向日葵
 
