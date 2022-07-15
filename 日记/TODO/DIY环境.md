@@ -19,6 +19,7 @@
   - [ ] APS3005S-3D 电源（不推荐，旋钮容易坏）
   - [ ] RIGOL DP711 电源
   - [ ] [电脑电源改](http://www.360doc.com/content/20/0227/11/4929281_895152991.shtml)
+  - [ ] [GOPHERT 30V-10A](https://item.taobao.com/item.htm?id=44572706756&price=350-371&sourceType=item&sourceType=item&suid=3c2f414b-777c-4b48-a690-afee26fc9c43&shareUniqueId=16073545110&ut_sk=1.XnRB1jGfM9cDAPZ4OYqiA2Hw_21646297_1652946593402.TaoPassword-WeiXin.1&un=f13506018368f49ba7c40094137a931a&share_crt_v=1&un_site=0&spm=a2159r.13376460.0.0&sp_abtk=common_1_commonInfo&tbSocialPopKey=shareItem&sp_tk=QmwwSDJrTVhMUWU%3D&cpp=1&shareurl=true&short_name=h.fswhNvg&bxsign=scdUIK93kaO8wA2jC_A89WzzcMG1hAEEL_0-rl5Rp7yiM4hXDYvck5HMLM2tZgmX_gY0Ed6AhFr8OqzxSKzDCj1A6Ykx4XEsYrqcnljZd6bUcI040H1Sc24w758I-QhDfl4&tk=BI0H2kMXLQe&app=chrome)：350
 - [ ] [FLUKE 万用表](https://detail.tmall.com/item.htm?spm=a1z10.5-b-s.w4011-21617863579.83.305f4617Uldbzd&id=587024802820&rn=5884f0539c20f7df50f28bc558de52f3&abbucket=10&skuId=3987395476752)：369
 - 收纳
   - [ ] [电子元器件样品本](https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-21581912015.26.33a35535H221qg&id=17948530424&rn=d495b5d8daf9780c4de5b662230f76a0&abbucket=10&skuId=4338653323934)

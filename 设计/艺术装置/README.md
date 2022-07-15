@@ -7,4 +7,5 @@
   - [拆解视频2](https://www.youtube.com/watch?v=jqS3JBqWVIE)：最主要展示了PVC片和齿轮是如何固定的。
   - [【CC中字】翻牌式显示器的工作原理](https://www.bilibili.com/video/BV1bf4y1G7BF?spm_id_from=333.905.b_72656c61746564.2&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
 - [[UIST] Wall ++](https://yang-zhang.me/wall/)
+- [LAVA 吉他](https://www.lavamusic.com/cn/lava-me-pro)
 
