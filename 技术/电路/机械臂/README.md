@@ -1,6 +1,7 @@
 > 参考资料：
 >
 > - [机械臂、机器人、全向车台、无人机如何加入舞台表演](http://www.jssdyy.com/news/16_153)
+> - [同济大学机械臂实验室](https://mp.weixin.qq.com/s/oOnvEo6PoZiH2aQu4p9eXQ)：[KUKA](https://www.kuka.com/zh-cn)
 
 # 机械臂
 
