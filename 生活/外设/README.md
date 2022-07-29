@@ -29,3 +29,11 @@
 
   - [Intel® Dual Band Wireless-AC 3165](https://www.intel.com/content/www/us/en/products/sku/89450/intel-dual-band-wirelessac-3165/specifications.html)，433 Mbps
   - [BR8650](https://datasheet.lcsc.com/lcsc/2109131630_Realtek-Semicon-RTL8761BUV-CG_C2687140.pdf)：[RTL8763B](https://www.realtek.com/en/products/communications-network-ics/item/rtl8763b)
+  
+- 显示屏：
+
+  - [小米曲面显示器Redmi 34寸 2k](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.554b2e8dSkqFXr&id=653735089246&_u=q2d3uchqf882)
+
+- 桌面支架：
+
+  - [beesir 原木支架](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.554b2e8dSkqFXr&id=608457218813&_u=q2d3uchq3bab)
