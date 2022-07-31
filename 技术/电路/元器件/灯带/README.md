@@ -17,3 +17,11 @@
 ## 名词解释
 
 - 高压漫反射：漫反射灯条一般是用在广告灯箱里面的，由于漫反射发光面近170度，通过透镜把光均匀的360度扩散开来，光线相对均匀和柔和，在超薄的灯箱里面也不会看出暗区。漫反射能起到光线柔和的作用。[参考](http://www.norklighting.com/qask-question-detail-id-368.html)
+
+
+
+## 灯珠
+
+- [SK6812_SIDE_A](http://www.normandled.com/upload/201810/SK6812%20SIDE-A%20LED%20Datasheet.pdf)
+  - [深圳市亿光盛电子](https://item.taobao.com/item.htm?spm=a1z0d.7625083.1998302264.6.5c5f4e69alRU0y&id=625553742431)
+  - [嘉立创](https://so.szlcsc.com/global.html?k=sk6812&hot-key=DTC144EET1G)
