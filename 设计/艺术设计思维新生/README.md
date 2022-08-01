@@ -23,6 +23,7 @@
 
 - [《跷跷板墙》(Teeter Totter Wall)](https://designmuseum.org/exhibitions/beazley-designs-of-the-year/transport/teeter-totter-wall)：木板即能产生隔阂，也能创造生机。
 - [玻璃栈道](https://mp.weixin.qq.com/s/mH_nLMe8AoRkuXCeXeROJg)
+- [Culvert 酒店](https://mp.weixin.qq.com/s/iBRBCpZ1BB7pP0lw6zejsA)
 
 
 
@@ -31,4 +32,5 @@
 - [江户手绘灯笼](https://tokyoteshigoto.tokyo/product/oto-chochin/)
 - [《立书》](https://mp.weixin.qq.com/s/XSrxk0P43aXvRfhPaHkisg)：平面书法的立体呈现
 - [[线性] 城市经纬](https://mp.weixin.qq.com/s/Y4Lq9hwQQ0FcmX_uzcBgJA)
+- [杯弓鸟影](https://www.bilibili.com/medialist/play/watchlater/BV1rv4y1g7ux)：栅格化 + 物理动态
 

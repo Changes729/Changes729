@@ -1,6 +1,7 @@
 > 参考资料：
 >
 > - [PCB打板之前必须要知道的FR-4](https://mp.weixin.qq.com/s/IWvLdXUPJT8QjBvCYMyu2g)
+> - [我是如何在家里小批量生产电路板的](https://www.bilibili.com/video/BV1AB4y1e7Qa?spm_id_from=333.999.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：介绍了电热台回流焊、介绍了嘉立创 SMT。
 
 # 画板子
 
