@@ -1,4 +1,11 @@
+> 相关资料：
+>
+> - [OpenOCD Troubleshooting: Adapter Speed Not Selected](https://www.tincantools.com/openocd-troubleshooting-adapter-speed-not-selected/)
+>   - http://ldevices.com/running-openocd-on-linux/：`-c "adapter speed 6000"`
+
 # OpenOCD (Open On-Chip Debugger) Usage
+
+文件位置：`/usr/share/openocd`
 
 ## flash bin
 
