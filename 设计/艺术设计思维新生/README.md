@@ -16,6 +16,7 @@
 - [[UIST] Wall ++](https://yang-zhang.me/wall/)
 - [LAVA 吉他](https://www.lavamusic.com/cn/lava-me-pro)
 - [声音的形状](https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&mid=2651155620&idx=1&sn=aaeea64f1dfaba499376a01afa311c78&chksm=80d02509b7a7ac1f45d059246b4bcb36c8c2244b57303b6d7072611fe71250a43f93202e7b43&scene=21#wechat_redirect)
+- [电动溜溜笛子](https://www.bilibili.com/medialist/play/watchlater/BV1pa411W7j4)
 
 
 
@@ -33,4 +34,4 @@
 - [《立书》](https://mp.weixin.qq.com/s/XSrxk0P43aXvRfhPaHkisg)：平面书法的立体呈现
 - [[线性] 城市经纬](https://mp.weixin.qq.com/s/Y4Lq9hwQQ0FcmX_uzcBgJA)
 - [杯弓鸟影](https://www.bilibili.com/medialist/play/watchlater/BV1rv4y1g7ux)：栅格化 + 物理动态
-
+- [盲文印刷](https://www.bilibili.com/medialist/play/watchlater/BV1HB4y1v7uH)：通过对墨滴成型的精确控制，实现精确打印图片、文字等效果。

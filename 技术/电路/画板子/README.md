@@ -2,6 +2,7 @@
 >
 > - [PCB打板之前必须要知道的FR-4](https://mp.weixin.qq.com/s/IWvLdXUPJT8QjBvCYMyu2g)
 > - [我是如何在家里小批量生产电路板的](https://www.bilibili.com/video/BV1AB4y1e7Qa?spm_id_from=333.999.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：介绍了电热台回流焊、介绍了嘉立创 SMT。
+> - [一个实验搞明白PCB走线应该画多宽](https://www.bilibili.com/video/BV1G34y1n7Eq)：电路线要画多宽？
 
 # 画板子
 
@@ -19,6 +20,20 @@
 > - 走线宽度，2.54mm太细了。可以尝试5mm
 >   - 电源：20mil，5.08mm
 >   - 信号线：2.54mm，10mil
+
+
+
+## 电源线宽度
+
+| 电流   | 最小线宽 | 推荐线宽 | 开窗     |
+| ------ | -------- | -------- | -------- |
+| < 0.1A | -        | < 10mil  | x        |
+| 1A     | 10mil    | 15mil    | x        |
+| 2A     | 30mil    | 50mil    | x        |
+| 3A     | 60mil    | 100mil   | 可选     |
+| > 3A   | -        | -        | 敷铜开窗 |
+
+
 
 
 
