@@ -4,7 +4,7 @@
   - 研究CDN
     - 自制Linux Core
     - 迁移网站至树莓派
-  - 电热项目（[开源 PID 项目](https://www.bilibili.com/medialist/play/watchlater/BV1Zf4y1Z7Ma)）
+  - 电热项目（[开源 PID 项目](https://www.bilibili.com/video/BV1Zf4y1Z7Ma?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)）
     - 需要学会回流焊
   - 寻找音视频、图片、文本管理工具
     - [图片管理代码阅读]()：尽早实现个人图片管理工具
