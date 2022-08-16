@@ -1,3 +1,7 @@
+> 参考资料：
+>
+> - [重写、覆盖、多态的差异](https://www.cnblogs.com/txwsh1/archive/2008/06/28/1231751.html)
+
 # C++
 
 ## 小技巧
