@@ -1,3 +1,7 @@
+> 参考资料：
+>
+> - [【MOS管】防反接电路](https://www.bilibili.com/medialist/play/watchlater/BV1tY4y1P7Kp)：二极管防反接、P沟道MOS管防反接、N沟道MOS管防反接（NCE4060K）
+
 # 电源
 
 ## 电池
