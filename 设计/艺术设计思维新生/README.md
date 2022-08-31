@@ -17,6 +17,7 @@
 - [LAVA 吉他](https://www.lavamusic.com/cn/lava-me-pro)
 - [声音的形状](https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&mid=2651155620&idx=1&sn=aaeea64f1dfaba499376a01afa311c78&chksm=80d02509b7a7ac1f45d059246b4bcb36c8c2244b57303b6d7072611fe71250a43f93202e7b43&scene=21#wechat_redirect)
 - [电动溜溜笛子](https://www.bilibili.com/medialist/play/watchlater/BV1pa411W7j4)
+- [折纸机器人](https://mp.weixin.qq.com/s/C1axGyS-mm6Fig_qp7pR1A)
 
 
 
@@ -35,3 +36,10 @@
 - [[线性] 城市经纬](https://mp.weixin.qq.com/s/Y4Lq9hwQQ0FcmX_uzcBgJA)
 - [杯弓鸟影](https://www.bilibili.com/medialist/play/watchlater/BV1rv4y1g7ux)：栅格化 + 物理动态
 - [盲文印刷](https://www.bilibili.com/medialist/play/watchlater/BV1HB4y1v7uH)：通过对墨滴成型的精确控制，实现精确打印图片、文字等效果。
+
+
+
+## 未来生活
+
+- [优秀论文 |城市街道中的临时性公共游玩空间实施探究](https://mp.weixin.qq.com/s/ZS3w3D8sTGDbm58iLA7gMQ)：从前的欧美也因为工业革命导致道路交通拥堵，然而随后政府牵头，建立「孩童安全道路」，随后有效改善了道路的安全状况。
+  文章讲述了「孩童安全道路」的发展历史，具体案例，成效以及具体落实时的责任体分析。
