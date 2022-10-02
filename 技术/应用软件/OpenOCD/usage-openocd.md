@@ -1,5 +1,6 @@
 > 相关资料：
 >
+> - [OpenOCD Web Document](https://openocd.org/doc-release/html/index.html)
 > - [OpenOCD Troubleshooting: Adapter Speed Not Selected](https://www.tincantools.com/openocd-troubleshooting-adapter-speed-not-selected/)
 >   - http://ldevices.com/running-openocd-on-linux/：`-c "adapter speed 6000"`
 
