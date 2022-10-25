@@ -1,5 +1,7 @@
 > 参考资料：
 >
+> - [freeCAD齿轮画法](https://www.bilibili.com/video/BV1rK4y1b7WT/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+>
 > 供应商：
 >
 > - [精工机械传动](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-23103307398.10.44a56ef2Pd6d0c&id=628146002759#)
