@@ -1,6 +1,7 @@
 > 参考资料：
 >
 > - [freeCAD齿轮画法](https://www.bilibili.com/video/BV1rK4y1b7WT/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+> - [南台科技大学 FreeCAD教学](https://youtube.com/playlist?list=PLdrYbn8q6soMfeaGRczvvLAdBYIruMCdZ)
 >
 > 供应商：
 >

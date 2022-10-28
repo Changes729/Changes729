@@ -8,6 +8,7 @@
 - minicom：
   - [发送换行](https://blog.csdn.net/qlexcel/article/details/111663373)：`ctrl+J (\n)`、`ctrl+M（\r）`
 - FreeCAD
+  - [A2plus](https://github.com/kbwbe/A2plus)：装配组件
 - AutoSCAD
 - Unity
 - [fusion360](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription)：机械机构设计。

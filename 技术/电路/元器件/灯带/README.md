@@ -3,6 +3,7 @@
 > - [帝光照明](http://www.dgdiguang.com/html/products.html)：[硬盒购买的产品型号 XD960-5](https://www.xdvis.cn/products/28.html)
 > - [adafruit](https://github.com/adafruit)/**[Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)**
 > - [ENESS LUMES](http://lumes.net/)：创意灯面
+> - [COB灯带](https://item.taobao.com/item.htm?spm=a230r.1.14.109.50227bcdhK1KQH&id=679598942276&ns=1&abbucket=10#detail)
 >
 > 供应商：
 >
