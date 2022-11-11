@@ -13,3 +13,5 @@
 - 代理：`export https="http://127.0.0.1:8118"` 让https走http代理。不清楚具体什么意思，但是这样设置 TLS 可以通过
 - [Linux 下制作 Windows 系统盘](https://superuser.com/questions/1290568/create-windows-10-usb-installation-drive-with-linux-only)：`woeusb  --target-filesystem NTFS --device path/to/windows.iso /dev/sdX`
 - 查看某目录大小：`du -h --max-depth=1 [PATH]`
+- 查看磁盘格式：`df -hT`
+- tar 压缩文件夹：`tar -zcvf [xahot].tar.gz [xahot]`

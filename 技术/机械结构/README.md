@@ -13,4 +13,5 @@
 
 - [内齿圈/行星轮](https://item.taobao.com/item.htm?spm=a230r.1.14.79.2e444cb4j0f6Oc&id=616804351508&ns=1&abbucket=10#detail)
 - [不锈钢球](https://detail.tmall.com/item.htm?ali_refid=a3_420434_1006:1293410009:N:w4WCRS6QUB5JOz+2lf4ouQ==:fb3d4eb528aae3240fa8c346bcb0eb68&ali_trackid=1_fb3d4eb528aae3240fa8c346bcb0eb68&id=631612596426&spm=a230r.1.1957635.12)
+- 螺纹：[FreeCAD 螺纹画法](https://wiki.freecadweb.org/Thread_for_Screw_Tutorial)
 

@@ -1,6 +1,6 @@
 # 其他应用软件
 
-- [Marvelous Designer](https://www.marvelousdesigner.com/)
+- [Marvelous Designer](https://www.marvelousdesigner.com/)：专业服装设计软件
 - [Wireshark](https://www.wireshark.org/)
   - Linux 下免 sudo：`sudo usermod -a -G wireshark $USER`
   - Mac 下 软件会自动提示安装某应用程序。实现免 sudo。
