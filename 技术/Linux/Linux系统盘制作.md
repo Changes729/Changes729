@@ -23,6 +23,8 @@
 > [[ArchLinux Wiki] Arch boot process (简体中文)](https://wiki.archlinux.org/title/Arch_boot_process_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E5%BC%95%E5%AF%BC%E5%8A%A0%E8%BD%BD%E7%A8%8B%E5%BA%8F)
 >
 > [自己动手编译交叉编译链](https://blog.csdn.net/qq_34818535/article/details/81349524?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166789556016782414960525%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166789556016782414960525&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-6-81349524-null-null.142^v63^opensearch_v2,201^v3^control,213^v1^t3_esquery_v2&utm_term=%E7%BC%96%E8%AF%91%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7%E9%93%BE&spm=1018.2226.3001.4187)： 使用crosstool-ng编译交叉编译工具链。
+>
+> [peng-zhihui](https://github.com/peng-zhihui)/**[Planck-Pi](https://github.com/peng-zhihui/Planck-Pi)**
 
 
 
@@ -119,3 +121,8 @@ ArchLinux提供的嵌入式Linux系统，是以`.tar.gz`为后缀名的`rootfs t
 ## rootfs（根文件系统）
 
 Boot Loader会加载内核，内核最开始会将内嵌的`initramfs`（初始RAM文件系统）解压为最初的rootfs，而后，再通过外部的`initramfs`加载正真的rootfs。
+
+
+
+# Linux 硬件系统
+
