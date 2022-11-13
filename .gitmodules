@@ -1,6 +1,3 @@
-[submodule "项目/Abstract-Git-based-Note"]
-	path = 项目/Abstract-Git-based-Note
-	url = git@github.com:Changes729/Abstract-Git-based-Note.git
 [submodule "游戏/PokeMMO_tools"]
 	path = 游戏/PokeMMO_tools
 	url = git@github.com:Changes729/PokeMMO_tools.git
