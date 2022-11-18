@@ -15,3 +15,6 @@
 - 查看某目录大小：`du -h --max-depth=1 [PATH]`
 - 查看磁盘格式：`df -hT`
 - tar 压缩文件夹：`tar -zcvf [xahot].tar.gz [xahot]`
+- sed
+  - 替换某一行的信息：`sed -i '/^lang=JAVA*/c\lang=RUST' hello.txt`，查找以 `lang=JAVA` 开头的行，然后`c\` 替换为 `lang=RUST`
+- `export TMPDIR=./tmpdir` 当下载目录过小的时候，可以用这个方式拓展临时文件夹

@@ -9,3 +9,4 @@
 - 安装ADB：` brew install android-platform-tools`
 - 区域截图：`ctl + shift + 4`
 - 关闭右下角备忘录功能：https://developer.apple.com/forums/thread/684195
+- minicom `Meta+Z`： `ESC + Z` 
