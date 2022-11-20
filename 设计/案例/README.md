@@ -49,3 +49,4 @@
 ## 科技设计
 
 - [看见声音](https://mp.weixin.qq.com/s/s5wFCGeb0qwrh6N_zDJLjQ)
+- [同济大学信息艺研组](https://public.tableau.com/app/profile/tongjidataviz)：一些数据可视化Demo
