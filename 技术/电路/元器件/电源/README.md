@@ -34,4 +34,5 @@
 - [TP5100](https://www.bilibili.com/video/BV1S5411t79J/?spm_id_from=333.788)：2s锂电池充电管理芯片，通过引脚CS选择单芯电池或多芯电池。
 - [SY6912](https://www.bilibili.com/video/BV1HK4y1k7Dq/?spm_id_from=333.788&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：3s锂电池充电，[淘宝](https://item.taobao.com/item.htm?spm=a230r.1.14.16.447e4a4dSe8bs0&id=653995640130&ns=1&abbucket=10#detail)
 - [锂电池保护](https://detail.tmall.com/item.htm?spm=a230r.1.14.38.5a7f959dfTi95x&id=558346048387&ns=1&abbucket=10)：这种是被动式平衡充，一般是充电IC+锂电池保护板配合
+- [AMS1117](https://so.szlcsc.com/global.html?k=AMS1117&hot-key=)：LDO 三端稳压芯片
 
