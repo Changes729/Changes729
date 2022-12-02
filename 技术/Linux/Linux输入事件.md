@@ -67,7 +67,7 @@ in_file.close()
 
 
 
-## Python线程非阻塞读取
+### Python线程非阻塞读取
 
 ```python
 # IO 放在线程里操作
@@ -96,6 +96,39 @@ in_file.close()
 
 
 
+## 多点触控协议
+
+- 驱动类型：`#define EV_ABS      0x03`
+- 驱动事件
+  - **ABS_MT_TOUCH_MAJOR**：触点主轴半径（a）
+  - **ABS_MT_TOUCH_MINOR**：触点短轴半径（b）
+  - **ABS_MT_WIDTH_MAJOR**：接近域主轴半径（a）
+  - **ABS_MT_WIDTH_MINOR**：接近域短轴半径（b）
+  - **ABS_MT_PRESSURE**：接触区域压力
+  - **ABS_MT_DISTANCE**：接近距离
+  - **ABS_MT_ORIENTATION**：（没看懂）好像是触点的方向，但是触点椭圆的方向默认是（touch - width）的向量，那么这个值又能有什么影响呢？而且不是可以用 ABS_MT_POSITION - ABS_MT_TOOL 计算么？
+  - **ABS_MT_POSITION_X**/**ABS_MT_POSITION_Y**：触点中心
+  - **ABS_MT_TOOL_X**/**ABS_MT_TOOL_Y**：接近中心
+  - **ABS_MT_TOOL_TYPE**：触点类型，默认省略（因为屏幕无法识别接触的物体具体是什么）
+  - **ABS_MT_BLOB_ID**：触摸A类设备低级匿名分组，将几个数据包合成一个形状打包。忽略。
+  - **ABS_MT_TRACKING_ID**：触点生命周期关联
+
+> Windows POINTER_TOUCH_INFO
+>
+> ```c++
+> typedef struct tagPOINTER_TOUCH_INFO {
+>   POINTER_INFO pointerInfo;
+>   TOUCH_FLAGS  touchFlags;
+>   TOUCH_MASK   touchMask;
+>   RECT         rcContact;
+>   RECT         rcContactRaw;
+>   UINT32       orientation;
+>   UINT32       pressure;
+> } POINTER_TOUCH_INFO;
+> ```
+>
+> Windows 使用 矩形 拟合。
+
 
 
 ## 参考资料
@@ -106,3 +139,5 @@ in_file.close()
 - [[Coder] - python 非阻塞文件读取](https://www.coder.work/article/1252764)
 - [[CSDN] - Linux input子系统之Input event codes](https://blog.csdn.net/weixin_43444989/article/details/122597029)
     - [Input Event Codes](https://www.kernel.org/doc/html/v4.15/input/event-codes.html#event-codes) 
+- [Multi-touch (MT) Protocol](https://www.kernel.org/doc/html/v4.18/input/multi-touch-protocol.html)
+    - [Wiki 椭圆](https://zh.wikipedia.org/wiki/%E6%A4%AD%E5%9C%86)

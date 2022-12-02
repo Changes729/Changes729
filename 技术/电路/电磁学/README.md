@@ -2,6 +2,10 @@
 >
 > - [大学物理3：电磁学 ](https://www.icourse163.org/course/TONGJI-44006?from=searchPage#/info)
 > - [怎样直观推导电磁波？](https://mp.weixin.qq.com/s/ZIME0wGm9jp4LFZR-53keg)
+>
+> 名词参考：
+>
+> - AAT（antenna tracking，天线跟踪）
 
 # 电磁学
 
