@@ -1,11 +1,5 @@
 > Navigation: [TODO List](./TODO/)、[项目视图](./项目视图.md)
 
-2022-11-27
-
-去图书馆读[论文](https://mp.weixin.qq.com/s/exhRnK7E1ktvtDoimjSrnQ)
-
-
-
 # 2022-11-14
 
 双休日去酒吧喝酒，本来想着理解一下爱喝酒的人到底是以怎样的心境喝酒的，结果根本还是没能理解...，还是凉白开最好喝。

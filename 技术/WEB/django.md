@@ -41,7 +41,7 @@
 
 - **manage.py**：一个可以和`django`交互的工具文件。了解更多请参阅 [django-admin and manage.py](https://docs.djangoproject.com/en/4.0/ref/django-admin/).
 
-- **mysite/__init__.py**：一个用来告诉Python这个目录应该被看作一个Python包的空文件. 如果你是一位Python初学者, 在[more about packages](https://docs.python.org/3/tutorial/modules.html#tut-packages) 查阅更多相关信息.
+- **mysite/\__init__.py**：一个用来告诉Python这个目录应该被看作一个Python包的空文件. 如果你是一位Python初学者, 在[more about packages](https://docs.python.org/3/tutorial/modules.html#tut-packages) 查阅更多相关信息.
 
 - **mysite/settings.py**：Django项目的配置/设置文件。这个文件[Django settings](https://docs.djangoproject.com/en/4.0/topics/settings/) 将会告诉你它是如何工作的。
 

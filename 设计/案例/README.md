@@ -50,3 +50,9 @@
 
 - [看见声音](https://mp.weixin.qq.com/s/s5wFCGeb0qwrh6N_zDJLjQ)
 - [同济大学信息艺研组](https://public.tableau.com/app/profile/tongjidataviz)：一些数据可视化Demo
+
+
+
+## 纯硬件
+
+- [佳明骑行尾灯](https://www.garmin.com.cn/products/sports-recreation/varia-rct715/)
