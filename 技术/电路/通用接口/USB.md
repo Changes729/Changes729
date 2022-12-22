@@ -25,6 +25,10 @@ Arduino 的 USB 库是在 Arduino.h 中引用的 `USBCore.h`。
 
 
 - CDC（communications device class）：设备通信类
+  - POTS Models
+  - ISDN Models
+  - Networking Models
+
 - CDC_ECM（USB CDC-ECM Class for Ethernet over USB）
 - DFU（Device Firmware Upgrade）
 - MSC（mass storage device）
@@ -32,6 +36,13 @@ Arduino 的 USB 库是在 Arduino.h 中引用的 `USBCore.h`。
   - [STM32 USB MSC](https://controllerstech.com/stm32-usb-msc/)：USE RAM
 
 
+
+## USB传输类型
+
+- 控制传输
+- 中断传输
+- 批量传输
+- 等时传输
 
 
 
