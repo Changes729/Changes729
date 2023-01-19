@@ -12,4 +12,5 @@
 - minicom `Meta+Z`： `ESC + Z` 
 - mac book i3-like environment
   - [yabai](https://github.com/koekeishiya/yabai/wiki/Installing-yabai-(latest-release)#configure-scripting-addition)
+    
     > [**So you want i3wm on MacOS?**](https://cbrgm.net/post/2021-05-5-setup-macos/)

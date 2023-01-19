@@ -17,7 +17,7 @@
 
 1. 联网，设置时区、地区，键盘映射
 
-   - 网线连接或`wifi-menu`，使用networkManager时，连接无线网使用`nmcli`
+   - 网线连接或`wifi-menu`，使用 networkManager 时，连接无线网使用`nmcli`
 
    - `ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime` 之后 `hwclock --systohc`
 
@@ -78,7 +78,7 @@
 
 6. 安装窗口管理器i3，并设置自动启动
 
-   - `pacman -S i3-wm`
+   - se
 
    - 修改`~/.xinitrc`
 
@@ -219,7 +219,15 @@
 
 高分辨率屏幕需要手动设置DPI。可以参考设置[X resource](https://wiki.archlinux.org/title/X_resources)
 
+QEMU Archlinux 虚拟机，xrandr 缺少一些特殊的分辨率，可以用[新建分辨率](https://wiki.archlinuxcn.org/wiki/Xrandr)的方式来。
+
+
+
 ### 用sway（wayland）+ alacritty 取缔 X11 和 i3
+
+QEMU中使用 wayland，还需要安装 `phodav`。[Linux UTM Documentation](https://docs.getutm.app/guest-support/linux/#spice-webdav)
+
+
 
 ### chromium crash on raspberry PI
 
