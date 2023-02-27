@@ -111,7 +111,8 @@ in_file.close()
   - **ABS_MT_TOOL_X**/**ABS_MT_TOOL_Y**：接近中心
   - **ABS_MT_TOOL_TYPE**：触点类型，默认省略（因为屏幕无法识别接触的物体具体是什么）
   - **ABS_MT_BLOB_ID**：触摸A类设备低级匿名分组，将几个数据包合成一个形状打包。忽略。
-  - **ABS_MT_TRACKING_ID**：触点生命周期关联
+  - **ABS_MT_TRACKING_ID**：触点生命周期关联，这个是系统判断的ID，递增。
+  - ABS_MT_SLOT：触控点位，信号会发送这个数值来做触控点信号切换
 
 > Windows POINTER_TOUCH_INFO
 >
@@ -129,6 +130,8 @@ in_file.close()
 >
 > Windows 使用 矩形 拟合。
 
+多点触控协议还需要使用 `ioctl` 获取触摸点的值域。
+
 
 
 ## 参考资料
@@ -141,3 +144,6 @@ in_file.close()
     - [Input Event Codes](https://www.kernel.org/doc/html/v4.15/input/event-codes.html#event-codes) 
 - [Multi-touch (MT) Protocol](https://www.kernel.org/doc/html/v4.18/input/multi-touch-protocol.html)
     - [Wiki 椭圆](https://zh.wikipedia.org/wiki/%E6%A4%AD%E5%9C%86)
+- [[Android] 触摸设备](https://source.android.com/docs/core/interaction/input/touch-devices?hl=zh-cn#x-and-y-fields)：里面介绍了Android获取触摸屏原始数据后应该如何处理
+    - [Linux input子系统 io控制字段](https://blog.csdn.net/wh_19910525/article/details/11948297)：文章介绍了 Linux 下使用 `ioctl` 获取一些设备数据
+

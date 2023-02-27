@@ -7,6 +7,7 @@
 >   - `-auto-alt-ref 1`：启用双通道缓冲区编码优化。默认是关闭的。
 > - [使用FFmpeg添加、删除、替换和提取视频中的音频](https://mp.weixin.qq.com/s/SFpdHo1IT3XA4xDm_XuA-g)
 > - [利用FFmpeg进行音频降噪](https://guohongyi.com/2020/09/28/%E5%88%A9%E7%94%A8FFmpeg%E8%BF%9B%E8%A1%8C%E9%9F%B3%E9%A2%91%E9%A2%84%E5%A4%84%E7%90%86/#%E5%85%B3%E4%BA%8Effmpeg)
+> - [如何使用FFmpeg精确剪辑视频](https://juejin.cn/post/6952762128600317966)：讲到了一个视频编码等问题，就是IBP帧的问题。
 
 # FFmpeg
 
@@ -43,6 +44,8 @@
   - 使用`-ss`定位视频，通过`-to 00:02:00`确定截取时长，并通过`-c copy -copyts`复制新视频。音频剪辑同理。
 
     `ffmpeg -ss 00:01:00 -i video.mp4 -to 00:02:00 -c copy -copyts cut.mp4`
+    
+    ` ffmpeg -ss 00:00:11.04 -accurate_seek -i 造物节.mp4 cut.mp4`，由于视频帧的存在，如果直接剪辑可能导致剪掉了I帧，导致视频错乱，所以需要去掉 `-c copy` 重新编码，这样虽然比较消耗CPU，但是视频是可用的
 
 - 音视频合成
 
