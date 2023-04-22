@@ -11,7 +11,7 @@
 > - [WS2815E 5050 GRB 12v](https://item.szlcsc.com/4724846.html)：逻辑控制电压还是 5v
 > - [MT16703/SM16703P RGB LED共阳驱动芯片](https://item.szlcsc.com/167095.html)：逻辑控制电压还是 5v，这种根据电压不同，单个控制的灯数也会不同
 
-# 灯带
+# 灯
 
 ## 名词解释
 
@@ -24,3 +24,10 @@
 - [SK6812_SIDE_A](http://www.normandled.com/upload/201810/SK6812%20SIDE-A%20LED%20Datasheet.pdf)
   - [深圳市亿光盛电子](https://item.taobao.com/item.htm?spm=a1z0d.7625083.1998302264.6.5c5f4e69alRU0y&id=625553742431)
   - [嘉立创](https://so.szlcsc.com/global.html?k=sk6812&hot-key=DTC144EET1G)
+
+
+
+## 陶瓷灯丝
+
+- [陶瓷灯丝复古防钨灯丝光源](https://item.taobao.com/item.htm?spm=a230r.1.14.1.61e83f894m0ecY&id=657899815261&ns=1&abbucket=19#detail)
+  - [斯迈得](https://www.smalite.com/proinfo13.html)

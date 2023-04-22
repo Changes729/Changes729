@@ -50,6 +50,10 @@
 - [asyncinotify](./asyncinotify.md)：异步文件监听库。类似 Linux 下的 epoll。
 - [Getopt module in Python](https://www.geeksforgeeks.org/getopt-module-in-python/)
 - [pyshark](https://github.com/KimiNewt/pyshark)：Python 抓包库
+- math
+  - `log10`：等于数学中的 `log`
+  - `log`：等于数学中的 `ln`
+
 
 
 

@@ -11,3 +11,5 @@
 - [宏晶 STC](http://www.stcmcudata.com/)
 - [和泰（Holtek）/盛群](https://www.holtek.com.cn/)：有许多单片机，USB/触摸/健康管理等。
 - [新唐](https://www.nuvoton.com/?__locale=zh)：也有许多单片机
+- [华大]():
+  - [**HC32D391FEUA-TFN32TR**](https://item.szlcsc.com/3349886.html)

@@ -68,3 +68,4 @@ grub-mkconfig -o /boot/grub/grub.cfg
 ## 扩展空间
 
 有图形化界面的，可以使用 gparted，直接拉就行，很方便。
+

@@ -99,6 +99,12 @@ SONY
 
 
 
+## 供应商
+
+- [远距离RFID读卡器](https://detail.1688.com/offer/596280015623.html?spm=a26352.13672862.offerlist.54.1367404fK1h4yC)
+
+
+
 ## Operating Modes
 
 - Card Emulation mode：仿真标签

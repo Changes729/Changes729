@@ -25,7 +25,7 @@
 
 ### DAO的实践者们
 
-![](../../../../../Changes729_image/raw/main/ln/Web3.0/640.png)
+![](https://mmbiz.qpic.cn/mmbiz_png/6G4jp8ic8WdHBFaoOL0oFtYCt8hXGTTzP9ZqFtfOwX3DIKJkbgBOq5OV9bRKcnfwmVibBo0KeUPKKnVFHldVGKJQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 **DAO 操作系统：**
 

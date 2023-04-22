@@ -45,7 +45,7 @@
 
     `ffmpeg -ss 00:01:00 -i video.mp4 -to 00:02:00 -c copy -copyts cut.mp4`
     
-    ` ffmpeg -ss 00:00:11.04 -accurate_seek -i 造物节.mp4 cut.mp4`，由于视频帧的存在，如果直接剪辑可能导致剪掉了I帧，导致视频错乱，所以需要去掉 `-c copy` 重新编码，这样虽然比较消耗CPU，但是视频是可用的
+    ` ffmpeg -ss 00:00:11.04 -accurate_seek -i 造物节.mp4 cut.mp4`，由于视频帧的存在，如果直接剪辑可能导致剪掉了I帧，导致视频错乱，所以需要去掉 `-c copy` **重新编码**，这样虽然比较消耗CPU，但是视频是可用的
 
 - 音视频合成
 

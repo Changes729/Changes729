@@ -12,3 +12,30 @@
 - 基础数学：线性代数、矩阵论、概率论
 - 基础方法：最优化、强化学习、深度学习
 - 具体应用：视觉、定位、规划
+
+
+
+## 关键词
+
+- GPT-3（Generative Pre-trained Transformer 3，生成型预训练变换模型3）：是一个自回归语言模型，目的是为了使用深度学习生成人类可以理解的自然语言。
+
+
+
+## AIGC（AI-generated Content）
+
+- [Hugging Face](https://huggingface.co/)：一个人工智能AI社群
+- [copilot](https://github.com/features/copilot)：代码人工智能辅助
+- [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)：人工智能制图
+  - [Magic Prompt](https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion)：用来生成 Prompt 的。
+  - [Github](https://github.com/CompVis/stable-diffusion)
+  - [civitai](https://civitai.com/)：有一些训练好的图像模型，加上评论可以出人物图
+  - **[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**
+- [DALL·E 2](https://openai.com/product/dall-e-2)：文本转图片
+
+
+
+## 3D reconstruction（三维重建）
+
+- [COLMAP – SfM and MVS](https://demuc.de/colmap/)
+- [NeRF (Neural Radiance Fields)](https://www.matthewtancik.com/nerf)
+

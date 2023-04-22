@@ -245,3 +245,9 @@ QEMU中使用 wayland，还需要安装 `phodav`。[Linux UTM Documentation](htt
 **外部设备自动挂载**
 
 - 安装 `udisks`：`pacman -S udisks`
+
+
+
+### pacman-contrib
+
+用它来清除 cache缓存
