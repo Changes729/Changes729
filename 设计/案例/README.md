@@ -18,6 +18,7 @@
 - [声音的形状](https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&mid=2651155620&idx=1&sn=aaeea64f1dfaba499376a01afa311c78&chksm=80d02509b7a7ac1f45d059246b4bcb36c8c2244b57303b6d7072611fe71250a43f93202e7b43&scene=21#wechat_redirect)
 - [电动溜溜笛子](https://www.bilibili.com/medialist/play/watchlater/BV1pa411W7j4)
 - [折纸机器人](https://mp.weixin.qq.com/s/C1axGyS-mm6Fig_qp7pR1A)
+- [遮阳伞](https://www.bilibili.com/video/BV17V411T7ak/?spm_id_from=333.1007.tianma.1-3-3.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
 
 
 
@@ -50,6 +51,7 @@
 
 - [看见声音](https://mp.weixin.qq.com/s/s5wFCGeb0qwrh6N_zDJLjQ)
 - [同济大学信息艺研组](https://public.tableau.com/app/profile/tongjidataviz)：一些数据可视化Demo
+- []
 
 
 

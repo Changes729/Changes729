@@ -102,6 +102,8 @@ SONY
 ## 供应商
 
 - [远距离RFID读卡器](https://detail.1688.com/offer/596280015623.html?spm=a26352.13672862.offerlist.54.1367404fK1h4yC)
+- [ISO14443 5x5mm](https://detail.1688.com/offer/648997064095.html?spm=a26352.13672862.offerlist.238.5fd2152fK4V3GS)
+  - [NFC ISO14443 戒指](https://detail.1688.com/offer/696359667116.html?spm=a26352.13672862.offerlist.46.5fd2152fK4V3GS)
 
 
 

@@ -62,3 +62,11 @@
 ## 拉取到本地 Review：`git fetch origin pull/PRId/head:LocalBranchName`
 
 其中，`PRId`就是 `pull request` 的 `id`。
+
+
+
+## 打包更新 patch
+
+- `git format-patch [commit-id]`：获取某个 `commit-id` 之后的所有patch
+- `git am [patch]`：应用 patch
+

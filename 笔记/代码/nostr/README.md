@@ -1,4 +1,19 @@
 > 协议来源：[nostr-protocol](https://github.com/nostr-protocol)/**[nostr](https://github.com/nostr-protocol/nostr)**
+>
+> 相关资料：
+>
+> [awesome-nostr](https://github.com/aljazceru/awesome-nostr)：nostr 资料集合
+>
+> - [nips](https://github.com/nostr-protocol/nips)：nostr 协议
+> - [Iris – The nostr client for better social networks](https://iris.to/)：nostr Web APP
+> - https://nostr.how/en/what-is-nostr：一个介绍nostr的Web
+> - [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst&hl=en_US)：Android nostr 客户端
+> - [Nostr.Band](https://stats.nostr.band/)：一些Nostr的数据
+>
+> 私钥：
+>
+> - nsec1h7sag3kee0v45ehq2jnt0qezudaswdwx4f2zp0cgzax4rwldmussxzc0n4
+> - bfa1d446d9cbd95a66e054a6b78322e37b0735c6aa5420bf08174d51bbeddf21
 
 # nostr - Notes and Other Stuff Transmitted by Relays 
 

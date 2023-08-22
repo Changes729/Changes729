@@ -1,6 +1,13 @@
 > *参考资料*
 >
 > - [踏上DAO的旅途前，你需要知道的……](https://mp.weixin.qq.com/s/FFZm-I1ytDbZ5ba9XaOrWg)
+> - [Ethereum](https://ethereum.org/en/)
+>   - [ERC20](https://ethereum.org/zh/developers/docs/standards/tokens/erc-20/)、[EIP-20](https://eips.ethereum.org/EIPS/eip-20)：前者是中文文档；后者是API说明
+>   - [ERC721](https://ethereum.org/zh/developers/docs/standards/tokens/erc-721/)
+>   - [交易](https://ethereum.org/zh/developers/docs/transactions/)
+>   - [GAS费简介](https://ethereum.org/zh/developers/docs/gas/)
+>   - [挖矿](https://ethereum.org/zh/developers/docs/consensus-mechanisms/pow/mining/)、[工作量证明](https://ethereum.org/zh/developers/docs/consensus-mechanisms/pow/)
+> - [给程序员的Web3入门指南](https://learnblockchain.cn/article/4198)
 
 # Web3.0
 
@@ -71,3 +78,78 @@ DAO 的第一个真正用例是赠款。社区捐赠资金，并使用 DAO 对�
 - Boardroom - 持币者管理的治理中心，授权 (empower) 关键决策。
 - Sybil - 创建和追踪链上决策授权 (delegation)。
 - RabbitHole - 为完成特定链上任务奖励代币。
+
+
+
+## ERC-20 同质化代币
+
+ERC-20（Ethereum Request for Comments 20，以太坊意见征求 20），从代码中可以看到，一个代币的属性有：
+
+```Solidity
+# 令牌的友好名称
+function name() public view returns (string)
+# 令牌简称，ETH
+function symbol() public view returns (string)
+# 小数位数，用这个来获取小数个数
+function decimals() public view returns (uint8)
+# 总供应量
+function totalSupply() public view returns (uint256)
+# 账户余额？
+function balanceOf(address _owner) public view returns (uint256 balance)
+# 转移余额
+function transfer(address _to, uint256 _value) public returns (bool success)
+# 将余额从某地址转移到另一个地址; 这个函数是有「机制」的，不是所有人都能用的
+function transferFrom(address _from, address _to, uint256 _value) public returns (bool success)
+# 批准某个地址可以转出金额
+function approve(address _spender, uint256 _value) public returns (bool success)
+# 返回spender还可以提出的余额
+function allowance(address _owner, address _spender) public view returns (uint256 remaining)
+```
+
+还有一些事件：
+
+```
+# 代币创建是从 0x0 地址创建的；同理销毁就是往 0xFF 地址
+event Transfer(address indexed _from, address indexed _to, uint256 _value)
+# 任何批准时触发
+event Approval(address indexed _owner, address indexed _spender, uint256 _value)
+```
+
+
+
+## 交易数据
+
+```
+所提交的交易包括下列信息：
+
+recipient – 接收地址（如果为一个外部持有的帐户，交易将传输值。 如果为合约帐户，交易将执行合约代码）
+signature – 发送者的标识符。 当通过发送者的私钥签名交易来确保发送者已授权此交易时，生成此签名。
+nonce - 一个连续的递增计数器，表示帐户中的交易编号。
+value – 发送人向接收人转移的以太币金额（以以太币的一种面值 WEI 为单位）
+data – 可包括任意数据的可选字段
+gasLimit – 交易可以消耗的最大数量的燃料单位。 燃料单位代表计算步骤
+maxPriorityFeePerGas - 作为验证者小费包含的最大燃料数量
+maxFeePerGas - 愿意为交易支付的最大燃料数量（包括 baseFeePerGas 和 maxPriorityFeePerGas）
+```
+
+这是交易的原始数据。同时在文章中可以看到它是通过私钥加密的。
+
+以太坊有几种不同类型的交易：
+
+- 常规交易：从一个帐户到另一个帐户的交易。
+- 合约部署交易：没有“to”地址的交易，数据字段用于合约代码。
+- 执行合约：与已部署的智能合约进行交互的交易。 在这种情况下，“to”地址是智能合约地址。
+
+
+
+## 挖矿和工作量证明
+
+其实挖矿就是工作。
+
+区块链作为一个链，每个数据都有一个hash验证。
+
+
+
+## 智能合约
+
+任何开发者都可以创建智能合约，并使用区块链作为其数据层，将其公开给网络，但要向网络支付以太币。 然后，任何用户都可以调用智能合约来执行其代码，并再次向网络支付费用。

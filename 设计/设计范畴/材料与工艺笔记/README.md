@@ -16,3 +16,10 @@
 - PP（Polypropylene，聚丙烯）
 - PMP（Polymethylpentene，聚甲基戊烯）
 - EVA（Ethylene Vinyl Acetate，乙烯-醋酸乙烯共聚物）
+
+
+
+## 大材料
+
+- [仿生壁虎材料](https://www.buygeckskin.com/)
+

@@ -1,3 +1,7 @@
+> 参考资料：
+>
+> - [How To Write Platform Checks](https://gitlab.kitware.com/cmake/community/-/wikis/doc/tutorials/How-To-Write-Platform-Checks)：非常有用的 cmake 多平台配置方式
+
 # CMake
 
 - [GLOB](./GLOB.md)
