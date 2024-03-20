@@ -1,3 +1,8 @@
+> 参考资料
+>
+> - [PhantomJS not found on PATH](https://github.com/xhlwill/blog/issues/11)：网络问题
+> - [npm ,yarn 更换使用国内镜像源，阿里源，清华大学源](https://zhuanlan.zhihu.com/p/623547625)
+
 # NodeJS
 
 ## NodeJS 网页前端
@@ -9,6 +14,11 @@ create-react-app my-app
 
 # package front-end
 npm run build
+```
+
+```sh
+# use this.
+yarn create react-app app
 ```
 
 
@@ -27,7 +37,34 @@ yarn add dev html-webpack-inline-source-plugin@1.0.0-beta.2
 
 
 
+### 其他打包器
+
+- Webpack（已经过时，请选用 esbuild）
+- [esbuild](https://esbuild.github.io/)：[esbuild-loader-examples](https://github.com/privatenumber/esbuild-loader-examples)
+
+
+
+### electron 打包
+
+```sh
+npm install --save-dev @electron-forge/cli
+npx electron-forge import
+npm run make
+```
+
+
+
 ## 一些工具
 
 - [nodejs](https://github.com/nodejs)/**[node-gyp](https://github.com/nodejs/node-gyp)**：`npm install -g node-gyp`
+- `npm install electron --verbose`
+- cnpm：`npm install cnpm -g --registry=https://registry.npmmirror.com`
+
+
+
+### 中国源
+
+```text
+yarn config set registry https://registry.npmmirror.com
+```
 

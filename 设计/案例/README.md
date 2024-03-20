@@ -22,6 +22,13 @@
 
 
 
+## 生物材料
+
+- 荧光生物
+  - [The French town where the lighting is alive](https://www.bbc.com/future/article/20220407-the-living-lights-that-could-reduce-energy-use)
+
+
+
 ## 空间装置
 
 - [《跷跷板墙》(Teeter Totter Wall)](https://designmuseum.org/exhibitions/beazley-designs-of-the-year/transport/teeter-totter-wall)：木板即能产生隔阂，也能创造生机。
@@ -51,10 +58,10 @@
 
 - [看见声音](https://mp.weixin.qq.com/s/s5wFCGeb0qwrh6N_zDJLjQ)
 - [同济大学信息艺研组](https://public.tableau.com/app/profile/tongjidataviz)：一些数据可视化Demo
-- []
 
 
 
 ## 纯硬件
 
 - [佳明骑行尾灯](https://www.garmin.com.cn/products/sports-recreation/varia-rct715/)
+- [Interactive Flip-Dot Display 互动翻点艺术装置](https://www.bilibili.com/video/BV1SW411C7wR/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：[淘宝](https://item.taobao.com/item.htm?spm=a21n57.1.0.0.5066523cVe6jeC&id=733921128721&ns=1&abbucket=1#detail) 999，[flipdots](https://flipdots.com/en/home/)

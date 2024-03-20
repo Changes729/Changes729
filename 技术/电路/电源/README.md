@@ -21,7 +21,12 @@
   
   标准充电方法：0.5C CC（恒流）充电至4.25V，再CV（恒压4.2V）充电直至充电电流≤0.05C
   
-  
+
+
+
+## 无线充电
+
+- [XKT-412/XKT-335/XKT-001](https://cb-electronics.com/products/xkt-335/)
 
 
 

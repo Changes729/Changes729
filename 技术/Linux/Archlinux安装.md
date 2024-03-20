@@ -26,7 +26,7 @@ Archlinux操作系统需要你手动操作进行分区、软件包安装、启�
 - 设置键盘：`loadkeys de-latin1`
 - 验证启动方式：`ls /sys/firmware/efi/efivars`
 - 联网：`dhcpcd` 或 `wifi-menu`
-- 更新系统时间：`timedatectl set-ntp true`
+- 更新系统时间：`timedatectl  set-ntp true`
 - 分区：`gdisk`
     - `p`：查看分区情况
     - `n`：新建分区
@@ -39,10 +39,12 @@ Archlinux操作系统需要你手动操作进行分区、软件包安装、启�
 - 分区格式化：
     - ext: `mkfs.ext4`
     - swap: `mkswap`、`swapon`
+    - efi：`mkfs.fat -F 32 /dev/sdxY`
 - 安装包
     - 更新 `key-ring`: `pacman -Syy archlinux-keyring`
-    - 向系统安装包：`pacstrap /mnt base linux linux-firmware`
-    - 网络包：`pacstrap /mnt networkmanager dhcpcd netctl`, 提供 `dhcpcd` 和 `wifi-menu`
+    - 向系统安装包：`pacstrap /mnt base linux linux-firmware`（需要先挂载/boot分区）
+    - 网络包：`pacstrap /mnt dhcpcd netctl`, 提供 `dhcpcd` 和 `wifi-menu`
+- 记录挂载表：`genfstab -U /mnt >> /mnt/etc/fstab`
 - 切换运行环境：`arch-chroot /mnt`
 - 修改时区：
     - `ln -sf /usr/share/zoneinfo/Region/City /etc/localtime`
@@ -53,13 +55,17 @@ Archlinux操作系统需要你手动操作进行分区、软件包安装、启�
     - `vim /etc/locale.conf`, 写入 `LANG=en_US.UTF-8`
     - `vim /etc/vconsole.conf`, 写入 `KEYMAP=de-latin1`
 - 网络设置：
-    - hosts文件：`/etc/hosts`: `127.0.0.1 localhost`、`::1  localhost`
+    - hostname文件：`/etc/hostname`: `127.0.0.1 localhost`、`::1  localhost`
+    - resolv.conf：`nameserver [0.0.0.0]`
+- `mkinitcpio -P`
 - 安装启动引导器 Grub，注意，双系统安装os-prober已经够了。但是grub需要修改内容，有一个prober开关没有关闭。
 ``` sh
 pacman -S grub efibootmgr os-prober 
-grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=archlinux
+grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=archlinux
 grub-mkconfig -o /boot/grub/grub.cfg
 ```
+
+- 修改root密码
 
 完工。
 

@@ -7,19 +7,19 @@
 ## 实现路径
 
 - 家用电烙铁
-  - [ ] [正电源子 T12](https://detail.tmall.com/item.htm?spm=a1z10.5-b-s.w4004-24444586615.7.6d844bd5EFHhgo&id=609759063116&skuId=4279654512158)：268
+  - [x] [正电源子 T12](https://detail.tmall.com/item.htm?spm=a1z10.5-b-s.w4004-24444586615.7.6d844bd5EFHhgo&id=609759063116&skuId=4279654512158)：268
   - [T12工作原理 ](https://www.zhihu.com/zvideo/1345500458182459392)
   - [焊锡膏](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14479784363.21.3abf643bCPUGIH&id=662694603279)
-
 - 热风枪
-  - [ ] 金卡思 858
-
+  - [x] 金卡思 858
 - [ ] 需要一个激光切割机 / 雕刻机
 - [ ] 需要一个3D打印机
 - [ ] 注塑机
 - [ ] RIGOL DS1104 示波器
 - [ ] UNI-T UTG1010A 信号发生器
 - [ ] DS203 开源示波器
+- [ ] [Cricut Maker3 智能切割机](https://item.taobao.com/item.htm?abbucket=19&id=649838249532&ns=1&skuId=5189183242516&spm=a21n57.1.0.0.6fb8523czp5itI)：6000
+- [ ] [覆膜机](https://detail.tmall.com/item.htm?abbucket=19&id=520428572600&ns=1&spm=a21n57.1.0.0.4894523cxsFQmb)：580
 - 电源
   - [ ] APS3005S-3D 电源（不推荐，旋钮容易坏）
   - [ ] RIGOL DP711 电源

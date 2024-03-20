@@ -1,4 +1,5 @@
 > 参考资料：
+>
 > - [LATEX Mathematical Symbols](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
 
 # 数学
@@ -20,3 +21,22 @@
   - 向量点积表现为两者同方向上相乘后的长度。从前半部分看，点积是一个向量的投影与另一个向量的乘积。从后半部分看也一样。
 
     再补充一下，$$x_a*x_b + y_a*y_b = \left[\begin{matrix} x_a & y_a \end{matrix}\right] * \left[\begin{matrix} x_b \\ y_b \end{matrix}\right]$$，这个叫 **向量点积**
+
+
+
+欧拉公式
+
+$e^{ix} + 1 = 0$
+
+
+
+
+
+
+
+
+
+
+
+
+

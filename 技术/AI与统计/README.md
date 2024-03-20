@@ -4,6 +4,9 @@
 > - [OFA-Sys](https://github.com/OFA-Sys)/**[OFA](https://github.com/OFA-Sys/OFA)**：达摩院自研发的一个统一大数据框架，用于图像识别、解释、文字生成图片等等功能。
 > - [Mac给你解锁新技能之人工智能（零代码）](https://www.bilibili.com/video/BV1L3411H7GC?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
 >   - [数据集](https://share.weiyun.com/gPhPEFNr)：数据集就是一个`dog`和`cat`的文件夹，聚类。
+> - [VDSR、DRRN、LapSRN、RCAN、DSRN…你都掌握了吗？一文总结超分辨率分析必备经典模型（二）](https://mp.weixin.qq.com/s/hK3cXIhr-BUhn2WDYIjquQ)：超分辨率分析。
+> - [如何快速稳定地从huggingface下载模型](https://zhuanlan.zhihu.com/p/647843635)：下载到本地
+> - [OpenLMLab](https://github.com/OpenLMLab)/[MOSS](https://github.com/OpenLMLab/MOSS)：复旦模型，两张 3090。中文文档
 
 # AI与统计
 
@@ -30,7 +33,7 @@
     - [Magic Prompt](https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion)：用来生成 Prompt 的。
     - [Github](https://github.com/CompVis/stable-diffusion)
     - [civitai](https://civitai.com/)：有一些训练好的图像模型，加上评论可以出人物图
-    - **[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**
+    - **[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**：`webui.sh` 安装和运行
   - [DALL·E 2](https://openai.com/product/dall-e-2)：文本转图片
 - 音乐：
   - [Magenta](https://magenta.tensorflow.org/)：由Google开发的Magenta项目是一个开源平台，专注于将机器学习应用于创造性音乐和艺术。Magenta提供了一系列的工具、模型和教程，可以用于生成、编辑和交互式地探索音乐创作。只支持特定开发环境的Python，和JS。
@@ -43,6 +46,28 @@
 - 文本
   - 剧本、脚本：
     - [dramatron](https://github.com/deepmind/dramatron)：但是依赖 Google AI 框架 Colab
+  - 对话：
+    - [chatglm-6b](https://huggingface.co/THUDM/chatglm-6b)：16G 显存
+- 图片转3D Mesh：
+  - [One-2-3-45](https://github.com/One-2-3-45/One-2-3-45)
+
+- 声音克隆
+  - [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
+
+
+
+
+## 超分辨率
+
+VDSR（ **Very Deep Convolutional Networks SR**）
+
+**DRRN** 
+
+**LapSRN**：金字塔超分辨率网络（*Laplacian Pyramid Super-Resolution Network，*LapSRN）
+
+RCAN（deep residual channel attention networks）
+
+**DSRN**（Dual-State Recurrent Network）
 
 
 

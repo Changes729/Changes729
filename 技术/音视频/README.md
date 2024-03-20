@@ -7,3 +7,9 @@
 
 # 音视频技术笔记
 
+```js
+fs.createReadStream("server/audio.mp3").pipe(response)
+```
+
+这句代码可以实现网页音频流。
+

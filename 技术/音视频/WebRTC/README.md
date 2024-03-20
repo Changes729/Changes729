@@ -1,5 +1,5 @@
-> 参考资料： 
->
+参考资料： 
+
 > - [Streaming audio with ffmpeg rtp](https://www.youtube.com/watch?v=DmPlSqt_3Ww)：ffmpeg command line rtc audio stream C/S
 > - [WebRTC 使用入门](https://webrtc.org/getting-started/overview?hl=zh-cn)：WebRTC 指南
 > - [WebRTC samples](https://webrtc.github.io/samples/)：本地WebRTC
@@ -8,6 +8,8 @@
 > - [coturn](https://github.com/coturn)/[coturn](https://github.com/coturn/coturn)：开源 TURN 服务器
 > - [meetecho](https://github.com/meetecho)/[janus-gateway](https://github.com/meetecho/janus-gateway)：Janus WebRTC Server
 > - **[WebRTC-Example](https://github.com/shanet/WebRTC-Example)**
+> - [Icecast](https://wiki.archlinux.org/title/Icecast)：stream media
+>   - [kairess](https://github.com/kairess)/[music-streaming-server](https://github.com/kairess/music-streaming-server)：网络电台
 
 # WebRTC
 

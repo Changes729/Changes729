@@ -20,3 +20,9 @@ FreeCAD 可以通过 [Open Design Alliance （ODA）](https://en.wikipedia.org/w
 - [https://poppler.freedesktop.org/](https://poppler.freedesktop.org/)
 - [pdfminer.six](https://pdfminersix.readthedocs.io/en/latest/#)：`pdf2txt.py example.pdf`
 
+
+
+## LaTex
+
+> [LaTeX中的引用](https://blog.csdn.net/MMcheng/article/details/107690851)
+

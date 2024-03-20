@@ -1,4 +1,1599 @@
-> Navigation: [TODO List](./TODO/)、[项目视图](./项目视图.md)
+ddyNavigation: [TODO List](./TODO/)、[项目视图](./项目视图.md)
+
+日常计划
+
+- [ ] 基本生活：
+  - 《奇怪物语》、《暗黑》、《毒枭》、《纸钞屋》、《无神世界的神明活动》、《BanG Dream！It‘s MyGO》
+- [ ] 人本研究：
+  - 《落脚城市》、[《鲁迅评传》](http://product.dangdang.com/29547186.html)
+- [ ] 经济关系：
+- [ ] 艺术设计：
+  - 读书：《世界文字设计之旅》[ 捷克 ] 琳 达· 库德尔、诺夫斯卡
+  - 科普和宣传
+    - [ ] 节约用水（3月22日）：[参考一](https://mp.weixin.qq.com/s/rl8E5BFs_3AgBtDEls3FOA)，学习一些科普海报制作工具和内容
+- [ ] [技术实现](./Plan%20Alluvial/技术规划（2023总结版本）.md)：智能化绿色化，生产性服务业
+  - 网页（ThreeJS，GLTF）
+  - TinyML（3.20测量、5月出技术结论，6月后皮肤柔性电路到工作坊）
+    - 霍尔传感器
+    - 机器学习
+  - LED 电压指示灯
+    - 原理验证
+- [ ] 文化表达：
+  - 产出社会需求和技术解决方案，社会技术支持
+  - [《人件：项目与团队高效管理（第3版）》](http://product.dangdang.com/11448139434.html)
+- [ ] 大方向：
+  - TODO：创业、考研（学历证明）、投稿（内容分享）、设计咨询、技术咨询
+  - DOING：咨询（食见未来）
+
+
+
+2024-3-30～2024-4-6
+
+- [ ] 工作室：活动
+
+
+
+2024-3-21
+
+技术实现
+
+- TinyML：带磁铁、固体胶
+
+
+
+# 2024-3-20
+
+技术实现：
+
+- LED 电压指示灯：LM339下单；LED灯、电阻、OK线
+- TinyML：明确后续方向，先设计一个传感器和眼贴的模型，对动作进行测试
+
+工作室：
+
+- [ ] ~~防火垫~~
+- [x] 销（桌子抽屉）
+
+大方向：
+
+- 学习与展示计划第二弹：重点在经济**商业上的分析**
+
+会议结果：
+
+1. 暂时明确项目以「社会项目」性质运营：**项目解散或达成目标时资产锁定用于社会和环境目标**
+2. 探讨一系列关于「回馈」、「责任」和「权利」的可能性方案：**借鉴区块链智能合约的方案**
+3. 明确了项目下一步计划和分工：
+   - 在23号早10点在老和云起，明确徒步过程需要搜集的关键点信息，开始爬山徒步，设计分工于下午商定。（大家）
+   - 在徒步前，需要设计用户访谈（傅华乾），寻找一些可能的人来参与我们的户外活动
+4. 优化沟通方式
+   - 线上线下，提案后会议或面议决定。
+
+
+
+感觉很多设计师虽然有「设计思维」但是反而没有「技术思维」。
+
+用一个循环去计算资源。
+
+
+
+# 2024-3-19
+
+技术实现：
+
+- 采购：线性霍尔传感器？
+- 验证：CJMCU-90393 模块
+- 进一步明确：科研经费、保密条例
+
+大方向：
+
+- 决议：
+  1. 加速脱离硬盒交互，其根本原因在于刘禹果本人花言巧语，掩盖事实，不把我们当真正合作伙伴。
+  2. 工作室核心收回。明确新自由主义打工人和社会创新者的本质区别。社会创新者，相信语言，**更相信行动**。
+
+
+
+# 2024-3-18
+
+人本研究
+
+- [x] 开放行动文章阅读
+
+经济关系：研究了开发板的营收模式，基本上开发板成本，**零售、小工作坊成本占比75%，批量能到50%**。**利润率分别为28%和44%**。
+
+工作室
+
+- [x] 明确项目细节，包括但不限于——预算金额与报销、访谈计划、执行流程、内容设计等
+- [x] 山水相关资料整理
+
+ABC
+
+- [x] 同心圆方案学习
+
+
+
+# 2024-3-17
+
+- [x] 工作室方案设计：
+  1. 需要对全流程进行总结和反思
+  2. 需要进一步推进项目进度
+  3. 需要详细计划后续项目安排
+
+
+
+# 2024-3-16
+
+- [x] ABC训练营（汇报）
+
+
+
+# 2024-3-15
+
+工作室：
+
+- [x] TinyML 项目对谈：先行动，四个月内出技术成果，跑多个ML算法以及调优
+- [x] 工作室内部项目确定
+
+
+
+# 2024-3-13
+
+ABC：20:30专家指导
+
+- 主要回答三个问题：其他公益组织的项目，为什么可持续、不点状？为什么能和业务产生联系。
+
+
+
+# 2024-3-12
+
+ABC：写PPT，解决方案的概述，（需要）调动哪些方面的资源
+
+
+
+# 2024-3-11
+
+工作室：
+
+- 需要带东西：
+  - [x] 餐巾纸
+  - [ ] 垃圾桶
+  - [x] USB拓展坞
+  - [x] ESP32
+  - [ ] 充电器
+  - [x] USB-C线
+  - [ ] ~~走线槽~~ 钢钉线卡
+  - [x] 线材（USB）
+  - [x] 捆线绳
+
+
+
+# 2024-3-10
+
+日常生活：西湖文化广场看电影（12.30 ～ 19.00）
+
+
+
+# 2024-3-9
+
+- [x] 训练营——高新区（滨江）党群服务中心
+- [ ] ~~706夜谈~~
+- [ ] 珀莱雅公益项目，竞争分析/对标分析
+- [x] 工作室项目，问题总结和下一步计划
+
+
+
+# 2024-3-8
+
+工作室：
+- 工作室定位
+- 设备介绍 & 元器件柜采购商讨
+- [大桥遗犬](https://www.bilibili.com/video/BV1ne411g7Gi/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- 内部主题确认
+
+技术实现
+
+- [x] 了解 pybooth 以及 树莓派触摸屏（其实是钱的问题吧，还有浏览器的问题）
+- [x] 了解 TinyML 和姿势识别
+
+
+
+# 2024-3-7
+
+艺术设计
+
+- [ ] 深入思考主题确认：设计评价、反馈机制；设计不是扔垃圾
+
+技术实现
+
+- [x] 寻找便携屏幕，树莓派要DSI接口的：暂时放弃，先考虑使用公司的
+
+经济关系
+
+- [x] 数字人民币真难用；还有wx竟然是存零钱的。
+
+
+
+# 2024-3-6
+
+艺术设计
+
+- [x] 根据目的展开头脑风暴
+
+经济关系
+
+- [x] 进一步捋清市场经济情况，思考方向：**智能化绿色化，生产性服务业**
+
+技术实现
+
+- [x] 根据经济情况反推技术要求：**智能化工作室**
+
+
+
+# 2024-3-5
+
+经济关系
+
+- [x] 根据品牌屋模型尝试设计工作室品牌
+- [ ] 捋清市场经济情况，思考方向
+
+
+
+# 2024-3-4
+
+艺术设计
+
+- 方案
+
+
+
+# 2024-3-2
+
+大方向
+
+- [x] 工作室：提主题，介绍社会企业的概念
+- [x] ABC：上午11点开始无小组面试
+
+日常生活
+
+- [ ] 晚上8点，艺术抄袭直播
+
+
+
+# 2024-3-1
+
+技术实现
+
+- [generative_agents](https://github.com/joonspk-research/generative_agents)，游戏引擎[**Phaser 3**](https://phaser.io/tutorials/making-your-first-phaser-3-game-chinese/part2)，地图编辑器[tiled](https://github.com/mapeditor/tiled)
+
+
+
+# 2024-2-24
+
+大方向
+
+- 吧台墙面：0.932
+- 地面到通气管道：2.57
+- 内部地面到墙面：2.266
+- 玻璃长度：3.104
+- 内宽：4
+- 桌宽：1.202
+- 桌长：2.405
+- 桌高：0.725
+
+
+
+# 2024-2-20
+
+大方向
+
+- [x] 了解[小组面试](https://boardmix.cn/article/leaderlessgroupdiscussion/)与其技巧
+  - 个人陈述：阐述自己有理有据的观点
+  - 自由讨论：领导者、建议者、时间掌控者、组织协调者、总结汇报者
+
+
+
+# 2024-2-19
+
+- [x] ABC 公益直播
+
+
+
+# 2024-2-18
+
+- [x] 技术实现
+  - Web Audio：声音海报，WebRadio 根据 MPD 收尾。通过 [ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) README 的Demo 成功验收。（注意需要修改I2S）当然还存在部分问题。比如音质问题，以及库本身报错。
+
+
+
+# 2024-2-16
+
+读书：
+
+- [假如世界上所有人都停止消费](https://mp.weixin.qq.com/s/iLP_HmkcY2U7-LTbddAWLg)：消费主义，我们需要知道自己需要什么。
+- [数据工程白皮书](https://www.thoughtworks.com/content/dam/thoughtworks/documents/whitepaper/tw_whitepaper_data_engineering.pdf)
+
+
+
+# 2024-2-14
+
+- [x] 大方向
+  - 开源工具与开源社区
+  - 从Arduino到PlatformIO
+  - 电子信息工程与工业导论
+
+
+
+# 2024-2-12
+
+- [x] 日常生活
+  
+  - 青山湖游玩
+- [x] 艺术设计
+  - [什么是产品设计的''形式追随故事''?| 德国柏林艺术大学产品设计线上课程](https://www.bilibili.com/video/BV1LK4y1c7mx/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab): 设计理念
+
+    叙事性设计。故事赋予设计内涵。
+
+  - [Stable Diffusion 转自我在公司内部的一次分享](https://www.bilibili.com/video/BV17M411R73u/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+
+
+
+# 2024-2-11
+
+- [x] 人本研究：
+  - [【选调生纪实】 深入基层之后 我明白了乡村振兴的意义](https://www.bilibili.com/video/BV1r24y1P7DH/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：视频客观的描述了乡村日日年年的生活，但是其中最重要的还是民生。根据国务院[民生清单](https://www.gov.cn/lianbo/bumen/202401/content_6927947.htm)可以了解到，民生教育、就业、社会保障、医疗卫生、计划生育、住房保障、文化体育。
+  
+    思考了许久，愣是没有写下什么东西，反而总结出一句——向死而生。
+  
+    回看1月去福州龙潭，再看我自己的临海乡村，乡村空心化切实开始被我的具身理解。
+  
+    喜马拉雅之灵——我们生存，但灾难不期而至。我们如何生存？如果我们的身心还记得过去面对死亡的记忆，那么是否能有新生活的设计从此诞生？
+  
+  - [【以正视听5】电子厂打工实录与踩坑指南](https://www.bilibili.com/video/BV1Lu4y1z7q7/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：厂都是这样的。有一些厂其实还好。小批量的，但是其实压力还是很大。我这边知道的，深圳的工人时薪能到800（晚上）、400（白天），大概。体力活。
+- [x] 技术实现
+  - [Icecast]()：从 Icecast 了解到 [MPD]() 了解到 [MPC]() 和直接的关系，最后尝试在 Pulseaudio输出但是失败了。
+    - MPD 成功了。
+  - [ReadyMedia](https://wiki.archlinux.org/title/ReadyMedia)：类似Samba的东西
+  - [Rygel](https://wiki.archlinux.org/title/Rygel)
+  - [Gerbera](https://wiki.archlinux.org/title/Gerbera)
+  - [Emoji Kitchen](https://www.google.com/search?q=emoji+kitchen&oq=emoji+kitchen&gs_lcrp=EgZjaHJvbWUyDQgAEEUYChgTGDkYgAQyDAgBEAAYChgMGBMYHjIMCAIQABgKGAwYExgeMgoIAxAAGAwYExgeMgwIBBAAGAoYDBgTGB4yDAgFEAAYChgMGBMYHjIKCAYQABgMGBMYHjIGCAcQRRg90gEIMzE1OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)：Emoji 生成器
+
+
+
+# 2024-2-10
+
+- [x] 日常生活
+  - 爬山
+  - 找歌：枕着光的她——任素汐
+  - 《后翼弃兵》
+- [x] 技术实现
+  - 了解媒体服务器：
+    - Icecast：buildroot不支持，支持流媒体
+
+其实有些事情很简单，如果你是一个进入社会前收获满满的人，各种成绩，各种奖励，那么一旦进入社会后，失去了前进的动力，并且无法忍受自己能力、职位发展的落后（因为其他人为了生存而付出的，得到的，比在舒适区的人多很多），这样的人是否会为了稳固自己的地位而做出一些手段？我自己曾经是这样的。
+
+
+
+# 2024-2-9
+
+- [x] 人本研究
+  - 国仁乡创（4月一篇文章）
+    - 解决[乡村空心化](https://wiki.mbalib.com/wiki/%E5%86%9C%E6%9D%91%E7%A9%BA%E5%BF%83%E5%8C%96)、老龄化问题，重新定义和呈现不同的美和农村生活的可能性；
+    - 重新培养人们对乡村、乡土的感情，**让乡创打造的空间能提供更多科学知识和乡土教育**；
+    - 让新鲜的血液进入新三农，让中国人扎根在乡土上实现小康；
+    - 国仁乡创要坚持在地行动、关怀社会，关注底层劳动大众，直面全球金融经济危机和生态危机。
+    
+    农村空心化的原因是乡村年轻人外出务工。那么既然年轻人留不住乡村，就得让人来乡村。当下的实践内容包括——青年农业人、青年艺术家。
+    
+    乡土教育、学科知识；林正碌老师做的事情就是其中之一。
+  
+- [x] 日常生活
+
+  - 枕着光的她——任素汐
+
+
+
+# 2024-2-7
+
+- [x] 技术实现
+  - 视频播放器：树莓派
+  - 声音海报
+
+
+
+# 2024-2-5
+
+- [ ] 技术实现
+  - 视频播放器
+  - 声音海报
+- [x] 大方向：
+  - 工作室运营会议
+
+
+
+# 2024-2-4
+
+- [x] 人本研究
+  - 龙潭共创散文
+- [x] 技术实现
+  - 整理后续研究内容：视频播放器&声音海报
+- [x] 大方向：
+  - 工作室持续运营
+
+
+
+# 2024-2-1
+
+- [x] 基本生活
+  - 确认回老家的事情
+
+
+
+# 2024-1-31
+
+- [x] 基本生活
+  - 大江大河，5～7
+- [x] 技术实现
+  - [kicanvas](https://github.com/theacodes/kicanvas)
+
+
+
+# 2024-1-30
+
+- [x] 基本生活
+  - 大江大河，4~6
+  - CSDN上看到创始人蒋涛说AI出来以后APP形态会消失。你说GUI出现之后，SHELL还是存在的。观点立不住。我不知道问题出在哪里，这种观点会影响我们的判断，一定程度上，公众言论都有为自身服务的因素在，一旦大众（被动的）接受这种言论，就会促进世界往这方向发展。
+  - [【社会设计在中国】周子书：社会设计的过程与方法](https://www.bilibili.com/video/BV1Zc411W78f/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：重新学习了这个公开课，收获很多，问题更多。
+- [x] 技术实现
+  - RFID 读卡器：远距离，项目用
+
+
+
+# 2024-1-29
+
+- [x] 基本生活
+  - 大江大河，1～3
+- [x] 技术实现
+  - 根据技术路图，制定计划
+  - [【CSS+JS】甲方：啊？没叫你做那么超前啊](https://www.bilibili.com/video/BV1Fc41187Gv/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab): CSS绘画
+- [x] 大方向
+  - 工作室：场地再探（年前简单搬入设备）
+
+
+
+# 2024-1-28
+
+- [x] 基本生活
+
+  - [《大江大河》](https://www.iqiyi.com/v_11bjpzo8ssc.html)
+
+- [x] 人本研究：
+
+  - 龙潭里共创：我总是以技术思维去尝试定义和解决问题，但是这次跟别人沟通时会发现还有另一种思维，**就是困境思维，会表达困难，不尝试解决**。
+
+- [x] 大方向
+
+  - 咨询烧酒，关于「感知实验室」的体验
+    
+    感知实验室是「Plan Alluvial」第一站 —— **人的感知** & 资源 & 行动 & 结果。
+    
+    - 元感知
+    - 离散感知序列处理
+    - 感知传递
+    
+  - 设计工作室
+    
+    - 是否需要采购其他装饰/功能性内容？后面才是具体选型和采购问题
+    
+  - 年度总结，重点放在大方向的计划上
+
+
+
+# 2024-1-27
+
+- [x] 大方向：
+  - （副业）：工作室，10.30 众创空间签约面聊
+
+
+
+# 2024-1-22
+
+- [x] 技术实现:
+  - opentrons，说明难度，说明时间和经费。
+  - 磁吸发现时间不够，暂停一会儿；终止加热震荡，跳过下一步；
+  - 夹爪打开关闭、震荡和加热；
+
+
+
+# 2024-1-17
+
+- [x] 人本研究：
+  - 共创活动个人动机深化，**选择退出**。就活动前的破事儿都整不好，还想搞共创。
+  - 最终还是没能退出，已经和别人有关系了。还是需要「实践」
+
+
+
+# 2024-1-16
+
+- [ ] 人本研究：
+  - 共创活动个人动机深化：共创经验、乡村振兴（研究院）？
+- [x] 技术实现：
+  - 像素画（编辑器）
+  - 超声波通信（交流检测，交流频率转电平）
+
+
+
+# 2024-1-12
+
+- [ ] 日常生活
+  - ~~电影：《大雨》~~
+
+
+
+# 2024-1-11
+
+- [ ] 日常生活
+  - ~~电影：《夜幕降至》~~
+
+
+
+# 2024-1-10
+
+- [x] 技术实现
+  - 像素画（编辑器）：WebServer
+
+
+
+# 2024-1-9
+
+- [x] 日常生活
+  - 电影：《寒单》
+- [x] 技术实现
+  - 超声波通信（交流检测，交流频率转电平）
+  - 像素画（编辑器）
+  - 红外接收器（手机&普通遥控器）
+- [x] 大方向：
+  - 工作室 PlanB：只有一家申请分租的。现在两套方案，要么离家近，要么郊区空间大，能生活。
+
+
+
+# 2024-1-8
+
+- [x] 日常生活
+  - 《岁月》
+- [x] 技术实现
+  - 磁吸模块 CanBUS：失败，无用。
+  - 测距模块
+  - SPI墨水屏电路
+  - 带通滤波器方案
+
+
+
+# 2024-1-4
+
+- [x] 技术实现
+
+  - [M24C02](https://www.st.com/resource/en/datasheet/m24c01-w.pdf), 256byte EEPROM test success
+
+    ```cpp
+    extEEPROM myEEPROM(kbits_2, 1, 16, 0x50);
+    byte i2cStat = myEEPROM.begin(myEEPROM.twiClock400kHz);
+    ```
+  - 开发板整理：沁恒系列、ESP系列、Arduino系列、STM32系列
+
+
+
+# 2024-1-2
+
+- [x] 基本生活：
+  - [《岁月》](https://www.iqiyi.com/v_19rrjemjbk.html?vfrm=pcw_album_auto&rfr=https%3A%2F%2Fwww.google.com%2F)：这梁志远，看别人好，说官僚主义，看自己好，又觉得别人做得对。真是双标。
+- [x] 技术实现
+  - 超声波通信[（RTOS源码阅读）](https://www.freertos.org/zh-cn-cmn-s/xQueueSendToFrontFromISR.html)
+
+
+
+# 2024-1-1
+
+- [x] 基本生活：
+  - [《岁月》](https://www.iqiyi.com/v_19rrjemjbk.html?vfrm=pcw_album_auto&rfr=https%3A%2F%2Fwww.google.com%2F)：第八集了，梁志远终于是迈出了一条线。从剧情上面来看，我觉得梁志远开始确实是研究生，凭借专业的业务能力想要干一番事业。我开始也觉得，梁志远这样的心境，在社会上遇到一些如吴过的人，确实会嗤之以鼻。自己不干事情，到了出事的时候却想着请人帮忙，别人不帮他忙还骂他，其实自己也是那样子。
+  
+    不过呢，我也确实反思到一些事情。特别是，虽然对一些行为嗤之以鼻，但是人家毕竟没有犯原则上的问题，也没有到那种，生离死别的程度，顶多态度不好。想想现在，确实，应该站在大局上考虑，充分考虑利益关系。
+  
+
+
+
+# 2023-12-30
+
+- [x] 基本生活：
+  - [《岁月》](https://www.iqiyi.com/v_19rrjemjbk.html?vfrm=pcw_album_auto&rfr=https%3A%2F%2Fwww.google.com%2F)
+
+
+
+# 2023-12-29
+
+- [x] 技术实现
+  - CH552Duino
+- [x] 大方向
+  - 工作室计划
+
+
+
+# 2023-12-28
+
+- [x] 日常生活：
+  - 《万神殿2》
+
+
+
+# 2023-12-27
+
+- [x] 日常生活：
+  - 《万神殿》
+- [x] 技术实现：
+  - 触摸芯片：5cm触摸应该不是用电容的，还是用毫米波雷达的，所以电容触摸原理验证直接删掉了。
+
+
+
+需要整理一下当前在做的事情：
+
+- ESP天气预报装置
+- 远距离触摸芯片
+- ITO涂层膜
+- CH552 Arduino开发
+
+
+
+# 2023-12-22
+
+- [x] 技术实现：
+  - 超声波牙刷技术调研
+    - [**电动冲牙器**](https://item.jd.com/10094217212760.html)
+    - [超声波牙刷，噱头还是真正的洁牙神器？| 冤枉钱终点站](https://zhuanlan.zhihu.com/p/21426043)
+    - [人体受到多少频率的声音会产生共振受到伤害？](https://www.zhihu.com/question/62520861)
+
+
+
+# 2023-12-18
+
+- [x] 大方向：
+  - （副业）：找工作室
+
+
+
+# 2023-12-17
+
+- [x] 基本生活：[《大山的女儿》](http://v.hndfqz.com/filmplay/22268-3-3.html)
+- [ ] 大方向：
+  - 珞米医学事务沟通，感觉可以留到本周五，或者下周一。
+  - ABC公益：简单了解，咨询回复时间
+  - 工作室日常？
+
+
+
+# 2023-12-16
+
+- [x] 大方向
+  - 找工作室：双轮圆桌会 + 探店 + 吃饭 + 娱乐活动（可选）
+
+    - 预热（2:00～2:30）【星巴克咖啡(杭州西嘉广场店)】：星巴克见面，简单自我介绍。
+
+    - 第一轮圆桌「**背景理解**」（2:30~3:15）【星巴克咖啡(杭州西嘉广场店)】：深入理解对方的背景、现状和未来方向，明确差异点和共同需求。
+    
+      - 自我介绍「用户访谈」：再次，深度；无所谓框架，只要能尽可能阐述自己的背景、现状和未来方向
+      - 「**需求理解**」：阐述自我需求，最好是对工作室/空间，其他需求也可以提
+      
+    - 探店「**移情观察**」（3:15~4:00）【西溪创意园】：从自我角度考虑，明确自我角色，带着角色和目的探访工作室场地。非常推荐在能理解自我的同时尝试理解自己心目中的目标客户。
+    
+      - 构想角色「**自我画像**」——我设想我身份是长期合伙人、有限合伙人、合作者、客户、观察员等。
+      - 自我日常构建「**自我旅程地图**」——我是谁，会在怎样的情况下在这个场域内产生怎样的行为。
+      
+    - 第二轮圆桌「**问题定义、主题研究**」（4:40~5:40）【元谷长乐园】：明确各方的角色、场域行为，尽可能多的找到**不支持**角色构建和场域行为的因素，以发现、定义问题为导向。
+    
+      - 「**颠覆式思维**」反问——“如果不？”
+      
+    - 吃饭「**创意设计**」（6:00~6:30）【香积寺吃火锅】：有限自由头脑风暴
+    
+      > PS：后续的创新设计流程包括——「**可行性分析**」、「**行动计划**」、「**原型、推广和验证**」
+    
+  - 精简版
+  
+    - 集合：2:00～2:30；星巴克咖啡(杭州西嘉广场店)
+    - 聊天：2:30～3:15；星巴克咖啡(杭州西嘉广场店)
+    - 探店：3:15～4:00；西溪创意园
+    - 探讨：4:40～5:40；元谷长乐园
+    - 晚饭：6:00～6:30；香积寺-胜利河美食街
+
+
+
+# 2023-12-15
+
+- [ ] 人本研究
+  - [世界读书日分享：视听双障的他，如何改变盲文书籍的匮乏](https://mp.weixin.qq.com/s/zHGmgD9RZV95_hiv6rSEqQ)
+- [ ] 技术实现：
+  - [陆奇最新演讲完整视频｜大模型带来的新范式](https://www.bilibili.com/video/BV1mM4y147qw/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+  - [陆奇最新演讲实录：我的大模型世界观](https://mp.weixin.qq.com/s/_ZvyxRpgIA4L4pqfcQtPTQ)
+
+
+
+# 2023-12-13
+
+- [x] 日常生活：
+  - [《大山的女儿》](http://v.hndfqz.com/filmplay/22268-3-3.html)
+- [x] 人本研究：
+  - [悬溺海印桥：海印桥下田野笔记](https://nby7d3pjrh.feishu.cn/docx/KxhpdNe3rosCxkxdcaccY0HanNb)
+
+
+
+某项目成本计算
+
+三个月，4个人（4*12500 = 50000）
+
+
+
+# 2023-12-10
+
+- [x] 日常生活
+  - 买衣服
+  - 看电影
+- [x] 技术实现
+  - ~~开发板整理~~
+- [x] 大方向
+  - 做项目，设计项目（要可以炒冷饭）
+  - 产品经理或开发（主业）：修改简历，古茗、顾家技术岗，顾家技术岗不太熟悉。这周没有结果就再跟洛米聊聊吧。
+
+
+
+# 2023-12-9
+
+- [x] 技术实现
+  - [能大幅拉高科技竞赛作品档次的小巧深度摄像头｜pmd flexx2](https://www.bilibili.com/video/BV1Fw411s7BP/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：[易福门 pmd湃安德flexx2 ToF 3D开发套件 flexx2](https://i-item.jd.com/10072510826914.html)，2260
+  - [自制一台全画幅CCD无反相机](https://www.bilibili.com/video/BV1F8411d7Wu/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：看不懂，但我大受震撼
+  - [【开源】ESP32S3 OPENMV 改进版](https://www.bilibili.com/video/BV12h411g7uk/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [x] 大方向：
+  - 思考工作室下一步计划，构建工作室日常
+
+
+
+# 2023-12-7
+
+- [x] 日常生活：
+  - [【一席】黄河山：还是人民群众会玩儿](https://www.bilibili.com/video/BV1fx411G7Wz/?vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [x] 技术实现：
+  - 射频发射和接收器（ESP8266 验证成功）[Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote)
+  - 电子墨水屏幕验证成功，排线反了 [7.3寸 7彩](https://www.waveshare.net/shop/7.3inch-e-Paper-HAT-F.htm)
+  - 16:9 屏幕（触摸屏及驱动）:
+    - [电容触摸屏—触摸画板](https://doc.embedfire.com/motor/f407jiaoyang/zh/latest/doc/chapter28/chapter28.html)：野火技术方案GT5688
+    - [汇顶驱动](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-22843241539.75.4b5f56bdzZPWPZ&id=683093520709)、[凌动科技](https://item.taobao.com/item.htm?spm=a21n57.1.0.0.75c3523cJu0hIg&id=724951655076&ns=1&abbucket=1#detail)
+- [x] 大方向：
+  - ABC公益申报
+
+
+
+# 2023-12-6
+
+- [x] 基本生活：
+  - [《大山的女儿》](http://v.hndfqz.com/filmplay/22268-3-3.html)
+- [ ] 大方向：
+  - 公益：写简历
+  - 创业：设计方案
+
+
+
+# 2023-12-4
+
+- [x] 基本生活：
+  - [《少数人的晚餐》](https://www.bilibili.com/video/BV1bw411K7cP/?spm_id_from=333.1007.tianma.4-1-11.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab) 讽刺人类历史。
+  - [《大山的女儿》](http://v.hndfqz.com/filmplay/22268-3-3.html) 10
+- [ ] 大方向:
+  - 继续昨天的分析，需要分析并解决当下个人的矛盾，并提出一个三年及以上的解决方案。
+
+
+
+# 2023-12-3
+
+- [x] 基本生活
+  - ~~买衣服~~
+  - ~~打羽毛球~~
+  - [《大山的女儿》](http://v.hndfqz.com/filmplay/22268-3-3.html)
+- [x] 艺术设计
+  - 读文章，了解到专门有人研究日常生活的设计。我在想是不是也可以组织这样的活动，在706。
+- [x] 大方向
+  - 找空间搞工作室，年前定？还是年后定？，讨论决定，还是年前，但是争取年后运营。
+
+
+
+今天，一方面觉得可以办共读共学活动。另一方面，可以结合工作室搞共创。
+
+分析几个矛盾，我和工作室的矛盾，我和烧酒的矛盾，我和我矛盾。
+
+我和工作室的矛盾在于，我没有资金支持，没有完整的方案支持，和完整的运营方案支持这个空间的诞生。
+
+我和烧酒的矛盾在于，我们没有在空间的具体使用上达成一致。不过我已经单方面提供了我的需求。而我还感觉在权力分配，资金投入和管理上面也没有具体规划安排设计。
+
+我和我的矛盾在于，我对未来计划的犹豫不决。如今的我已经越来越迟钝。对事情不上心，对未来无动力。
+
+
+
+再看看机会。当下的机会
+
+- ABC公益的理想工作内容
+- 珞米医疗的高薪资待遇
+- 创业机会
+- 706朋友圈
+
+
+
+# 2023-12-2
+
+- [x] 基本生活
+  - 半山二手市场。了解货物架、电器、沙发等二手。
+  - 了解ABC公益，基本上是方案产出咨询类的。群面没有经验额
+  - 从商务的角度学会了很多。一个运营项目，每个人力成本6000～8000，三个人一年就是288000的成本。不过从YoKa那边学到的更多还是商业思维。是一个站在商务角度的商业思维。
+- [x] 人本研究
+  - 读了俩文章，一个是设计的日常，另一篇是触媒的社会改造。两篇文章一篇教我要注重日常的实践和观察，另一篇其实更注重邻里联结，从点到面，更有社会设计的感觉。
+
+
+
+# 2023-11-30
+
+- [x] 人本研究
+
+  - 当前校园功能区域划分现状
+    - [普通高级中学建设标准](https://www.zjzj.net/uploads/fujian/1657088442392.pdf)
+
+- [x] 技术实现
+
+  - opentrons 问题排查
+
+    解决方案：使用 `python3 ./HeaterShakerModule.py -p` ，根据返回值来验证模块是否可用。
+
+    问题排查：模块重启，在刚重启以及等待一段时间后，使用 `sudo lsof -i /dev/ttyACM1` 查看是否有程序占用
+
+
+
+实践者模型（能动性模型）、观察者模型（反应性模型），感觉在观察者模型的应用上还是有一些问题。
+
+还是不太懂佳雯。我感觉她自己会有压力，但是又不会和人分享。
+
+
+
+# 2023-11-29
+
+- [x] 基本生活：
+  - [现在的儿童玩具这么高级了吗？](https://www.bilibili.com/video/BV1Mr4y1o7aq/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：Crayola Color Wonder 马克笔，另一个应该是射频发射器和接收器。接收器咋做呢？
+  - [机械结构的古老翻页书，艺术家的科学设计](https://www.bilibili.com/video/BV1g94y1y7RS/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：普普通通翻页书
+- [x] 技术实现：
+  - 网页视频引用式播放列表：好像只能下载下来[yutto](https://github.com/yutto-dev/yutto)
+- [ ] 大方向：创业，基本上如果按照副业主业考虑的话，主业还是应该尽可能靠近消费电子或者工业互联网。准备简历吧
+
+
+
+# 2023-11-28
+
+- [x] 人本研究
+  - [这一刻，无比怀念鲁迅| 谨此纪念鲁迅逝世87周年](https://www.bilibili.com/video/BV1Qh4y1q7NC/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：[鲁迅的一生，一生的鲁迅](https://zhuanlan.zhihu.com/p/69796806)，鲁迅还和梁实秋干架（言论），总觉得太少，还是想看看完整的
+  - [关于鲁迅生平的传记、回忆性文章，哪些比较可信、有价值？](https://www.zhihu.com/question/284951013)：[鲁迅评传](http://product.dangdang.com/29547186.html)
+- [x] 艺术设计
+  - [One-2-3-45](https://github.com/One-2-3-45/One-2-3-45)：还挺快的
+  - [一分钟学会做灯光画，超级简单，灯光画教程](https://www.bilibili.com/video/BV1kg4y1V7L4/?spm_id_from=333.880.my_history.page.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：A4、菲林纸、相框、灯带
+- [x] 技术实现
+  - [SD卡系统拷贝](https://blog.csdn.net/u012388993/article/details/102629674?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-102629674-blog-109178833.235^v38^pc_relevant_sort_base2&spm=1001.2101.3001.4242.2&utm_relevant_index=4)：`time sudo dd bs=4M if=/dev/mmcblk0 of=/dev/sda`
+  - ESP 分区问题：platformIO下，只有ESP32有分区功能，ESP8266没有支持。看[这里](https://github.com/espressif/arduino-esp32/blob/master/tools/partitions/default.csv)，ESP32 是有默认分区的，但是ESP8266就没有。
+  - [threeJS](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+  - [不懂乐理也可以用python写曲子，老了以后抱上非洲鼓天桥卖艺技能+1](https://wiki.archlinux.org/title/List_of_applications/Multimedia)：主要是 [SuperCollider](https://supercollider.github.io/)
+- [x] 大方向：创业
+  - 当前工作和盈利模式：寻找公益项目的技术供应商？
+
+
+
+# 2023-11-27
+
+- [x] 技术实现：
+  - ESP32 NodeJS 协同开发：[esp32使用vue3开发web｜上](https://www.bilibili.com/video/BV1FP411S7jV/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab) ，这个视频把编译的文件放在data/www下面，然后在代码中用FILESYSTEM引用，最后编译文件系统后上传即可。但是没有看到为什么能上传，以及为什么是这几个文件。
+
+
+
+# 2023-11-26
+
+- [x] 基础生活
+  - 早上早饭，一些人吃了肯德基
+  - 早上聊了我的理想和现状。从xz的角度看，其实有工作也是不错的，而且其实我也没能很好的表达自己的目标——用硬件产品这种高成本的方式去做公益，可行性可能还是比较低。
+    - 我觉得能认识壹力真是幸运
+  - 三白又玩了即兴，我觉得蛮好的。无实物表演。
+  - 可可做了艺术疗愈，我本来认为一切的负面压力的根本在外部的挤压从而形成的内部的反作用。但是和自己短暂的和解也是一种不错的调解。
+  - 中午吃饭
+- [x] 艺术设计：
+  - [【量子炮仗】不要布尔！Blender 程序化边缘磨损教程【Blender 教程】](https://www.bilibili.com/video/BV1hz4y1c7zP/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+
+
+
+# 2023-11-25
+
+- [x] 基础生活
+  - 看到了早餐店，没想到早餐店帮忙的人，8:30还要去上班。（今天周六）
+  - 看到了生活空间边上有人在逗猫咪
+  - 看到了生活空间的无人超市，还有台球桌
+  - 参与三白的即兴活动，是一个特别能激发创造力，认识周围的人和事物的一个活动。重点在互相理解，互相尊重。
+  - 走了两公里去吃午饭，午饭烧的特别好吃
+  - 末日避难仓，模拟一个目的，构建一个若即若离的场域去探讨个人观念。
+  - 又租车去吃饭
+  - 回来玩卡牌，骗人牌，出千飞蛾（？牌），喝酒牌。
+
+
+
+# 2023-11-24
+
+- [x] 基础生活：
+  
+  - 骑行40km来梅林村，
+  
+    一路上工厂、农舍居多。基本上呈错落的形式分布。可以很明显的感受到发展和未发展的地区上的一些区别。发展的地区，路灯、标识和绿化等比例会更多。未发展的地区，这样的东西就会少很多，基本上会觉得空间灰蒙蒙的，多尘土，无路灯。
+    
+    从圆六路进到梅林村，最大的感觉还是夜生活上照明的不同。圆六路一段其实都算是新农村——规整的民房，平整的石油路以及星星点点有温度的路灯。只是没有什么人。
+    
+    但是梅林村的美好生活空间，都显得特别亮堂——不仅仅是边上的生活公园，还有美好生活空间本体，在夜晚也是灯火通明。河边有路灯照明，整条河都明显是修缮过的。而且两边的民居也更加规整，错落有致，一副小河流水的模样。比较好奇的是，这么好的一片地方，竟然没有在社交媒体上留有一些文章。
+    
+    这个问题在后面我们和梅林的水果摊老板沟通时得到了部分答案。
+    
+    从萧山来梅林的路上，看到了一片发展特别好的地方——瓜沥之心，附近是高楼大厦和七彩的未来社区。如今梅林也算瓜沥的管辖，建设也算有所成效，但也确实没有瓜沥之心发展的那么好。
+    
+    梅林的水果摊老板在沟通中透露，梅林的生活空间，其实在5年前就建设好了。跟老板说起瓜沥之心，老板说那会儿梅林还没有划到瓜沥，原来打算等习近平来带他来梅林生活空间，但是最终选择去了瓜沥之心。
+
+
+
+# 2023-11-22
+
+- 技术实现
+  - OT_SMOOTHIE_ID：设置这个会去连对应的串口设备
+
+
+
+# 2023-11-21
+
+- [ ] 人本研究:
+  - [青年整形大众化的美学社会学分析](https://mp.weixin.qq.com/s/wMBUp03iR0czJTomYZKAjQ)
+
+
+
+# 2023-11-20
+
+- [x] 基本生活：
+  - [神奇数字马戏团](https://www.youtube.com/watch?v=HwAPLk_sQ3w)
+
+
+
+# 2023-11-19
+
+- [x] 技术实现：
+  - opentrons，可能需要 buildroot 支持
+
+
+
+想了想。首先，YH是肯定要走的，问题在什么适合走。基本要求就是——有一段时间的稳定收入，和后期的办公地点——社保与生活不愁。
+
+另外，就是稳定收入从何而来。现在LM抛橄榄枝，但是办公地点其实太新，而且指不定里头有什么坑。不是说不行，是确实和本人目标有偏差。
+
+最后就是发现最近自己越来越难以专注一个目标了。这完全是YH的错误。另一方面也是因为确实缺少一个能够稳下心的目标。
+
+确实，如果加入LM，即使不需要目标，也可以随大流的走。但是这不是我想要的。
+
+
+
+和LL聊天。去可以去，但是要谈好条件。工业互联网方向，需要准备简历并投递。创意设计方向，和LL沟通。
+
+
+
+# 2023-11-18
+
+- [x] 基本生活：
+  - 看视频[《拾荒者统治》](https://www.ikanbot.com/play/823001)，[《哆啦A梦：大雄与天空的理想乡》](https://www.bilibili.com/bangumi/play/ep784876?spm_id_from=333.1007.0.0)
+- [x] 技术实现
+  - [opentrons  python protocol](https://docs.opentrons.com/v2/#) 准备N个Demo
+    - 支持加热震动模块单独控制
+    - 支持磁模块单独控制
+    - 支持 getopt
+    - 存疑：可重入？多设备？
+- [x] 艺术设计：
+  - 图书馆下文章：
+    - [从用户体验到体验设计](https://kns.cnki.net/kcms2/article/abstract?v=lj1AjTyXPBsgrfZ-9HjZpUsPgAgxl6cVddTBbBkpsoIJe85S4GFDtjMiwTcAeAmVys2ELCDpiWm-ClTBMz8t8QapzK5MiEPdAALbF57VQ3YeBIP7oxbB94a4VZ7Pc_G7DiiZ2imdplWD_pY-ZOtpdg==&uniplatform=NZKPT&language=CHS)
+    - [作为社会介质的城市公共空间设计研究](https://kns.cnki.net/kcms2/article/abstract?v=lj1AjTyXPBuJwHbY_cIXilgrpPql26MRjwWF_Bu-XJzu086Hj5HdJB7bRku40wkpplT0vyzLDmMJyXWdp-AxvobPH5OfASklyYeDZ3oKyCXvparoO3_7QDDoGRyDNHgeyVMHTbwIuHKWPFbOTA3I2w==&uniplatform=NZKPT&language=CHS)
+    - [临床、反思和基础设计研究](https://kns.cnki.net/kcms2/article/abstract?v=lj1AjTyXPBtCNZWrpclVbqhsxwBArRYWM_s4OYx1B1xnLi4CZw-DSmRHf3-s-gEzpWhKp-BkKaI4KMkdtWCnIqBvbPlfaa9zlul7vYDri8vl9rj32il7O7-z-9kL15yDI6R8Aqw6w-LbigE7EcMDaA==&uniplatform=NZKPT&language=CHS)
+  - 图书馆读书：
+    - 《2020-2021 生物化学与分子生物学 学科发展报告》
+    - 中国美术学院出版《从素描走向设计》（无书，当当有2023版本的）
+- [x] 大方向：
+  - 了解公司和行业：**大数据与蛋白质组**
+
+
+
+# 2023-11-17
+
+- [x] 技术实现：
+  - [opentrons  python protocol](https://docs.opentrons.com/v2/#)：模块调用细节
+    - [Heater-Shaker Module](https://docs.opentrons.com/v2/new_protocol_api.html#modules)
+    - [Magnetic Module](https://docs.opentrons.com/v2/new_protocol_api.html#opentrons.protocol_api.MagneticModuleContext)
+    - 参数引入：[Protocol Structure](https://docs.opentrons.com/v2/new_advanced_running.html#protocol-structure)
+
+
+
+# 2023-11-16
+
+- [x] 基本生活：
+  - [思维框架看懂，为什么中美之间要交流](https://www.bilibili.com/video/BV12H4y1i7tf/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：国家教我处理关系——**改变、适应和远离**。
+- [x] 技术实现：
+  - ESP32 调试：[ESP12E还不支持Debug](https://docs.platformio.org/en/latest/boards/espressif8266/esp12e.html#debugging)
+  - [opentrons  python protocol](https://docs.opentrons.com/v2/#)
+    - [Hardware Modules](https://docs.opentrons.com/v2/new_modules.html#new-modules)：具体的硬件
+    - [bug: python3.11 coroutine dependency broke](https://github.com/Opentrons/opentrons/issues/12006)：Bug，python 3.11 无法使用
+    - 遗留问题：参数引入，模块调用细节
+
+
+
+# 2023-11-15
+
+- [ ] 基本生活：
+  - 看视频[《拾荒者统治》](https://www.ikanbot.com/play/823001)
+- [x] 文化表达：
+  - 了解 360 设计奖项和团队
+
+
+
+# 2023-11-14
+
+- [ ] 艺术设计：
+  - 节约用水（3月22日）：学习一些科普海报制作工具和内容
+- [x] 技术实现：
+  - [STC Linux开发](https://zhou-yuxin.github.io/articles/2019/Ubuntu%E4%B8%8B%E6%90%AD%E5%BB%BASTC%E5%8D%95%E7%89%87%E6%9C%BA%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/index.html)、[STC-降龙棍系列核心实验板V2.2](http://www.stcmcudata.com/OpenSource/STC32G-STC8H8K64U-45MHz-LQFP48-STC89-PDIP40-SCH-V2.2.PDF)，USB-HID 放弃
+  - 了解 [opentrons](https://opentrons.com/?_gl=1%2Avg8m36%2A_ga%2AMTc1NTgyMzYzMi4xNjk5OTcyNTU1%2A_ga_66HK7MC5D7%2AMTY5OTk3MjU1NC4xLjEuMTY5OTk3MzQyMC4zNy4wLjA.%2A_ga_GNSMNLW4RY%2AMTY5OTk3MjU1NC4xLjEuMTY5OTk3MzQyMC4zNy4wLjA.) 产品：给了我俩产品，一个是磁分离核酸的，一个是加热、振动的。
+- [ ] 文化表达：
+  - 了解 360 设计奖项和团队
+
+
+
+巨颓废。一个是和JW的事情。和她应该减少期望。一个适合YH的事情。基本上确定不留了，但是下家怎么找又是个问题。还是寻找主方向把。主方向现在还是俩——社会设计和个人设计师方向。前者是兼职，后者是主职。基本上，除了主职以外的都应该算兼职。主职就是要求稳定和持续成长。
+
+
+
+# 2023-11-13
+
+- [x] 基本生活：
+  - 看视频[《拾荒者统治》](https://www.ikanbot.com/play/823001)
+- [ ] 人本研究：
+  - 继续学习 [Hobby engagement and mental wellbeing among people aged 65 years and older in 16 countries](https://www.nature.com/articles/s41591-023-02506-1?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_PF020_ENGM_AP_CNCM_002EA_weeklyS)
+- [x] 技术实现：
+  - STC 工程Demo与烧录：Linux 下无USB口
+  - 触摸原理与验证
+
+
+
+# 2023-11-12
+
+- [x] 基本生活：看LOL比赛（可选）
+- [x] 人本研究：继续学习 [Hobby engagement and mental wellbeing among people aged 65 years and older in 16 countries](https://www.nature.com/articles/s41591-023-02506-1?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_PF020_ENGM_AP_CNCM_002EA_weeklyS)
+- [x] 艺术设计：练习 [Blender 骷髅头](https://www.bilibili.com/video/BV1hj411i7fC/?spm_id_from=333.788&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [ ] 大方向：背单词
+
+
+
+# 2023-11-11
+
+- [x] 基本生活：
+
+  - 相亲，带礼物
+  - 看LOL比赛（可选）
+
+- [x] 艺术设计：练习 [Blender 骷髅头](https://www.bilibili.com/video/BV1hj411i7fC/?spm_id_from=333.788&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+
+- [x] 人本研究：
+
+  - [招募 | 成为自然之友宣讲师，和我们一起在春天播撒公益和环保的种子](https://mp.weixin.qq.com/s/rl8E5BFs_3AgBtDEls3FOA)
+
+    我能做什么？我觉得我只能做**科普和宣传**。
+
+    > 有一次，一家西餐厅的老板在听完宣讲后，也和大伙儿分享了自己的故事——曾经她上班时，买了西瓜想与众人分享，同事建议拿去水龙头下冲凉、觉得那样更好吃。她一想到水龙头无谓地哗哗流水就心疼，但无奈当时人微言轻。最后，那西瓜在水龙头底下用流水冲了三个半小时，透心凉，但她一口没吃。她说，这件事让她对她的这位同事也有所改观，同事在家绝不会这样奢侈用水，只是因为单位公用所以不珍惜，但追根溯源还是在意识层面没有认识到环境的问题。
+    
+  - 继续学习 [Hobby engagement and mental wellbeing among people aged 65 years and older in 16 countries](https://www.nature.com/articles/s41591-023-02506-1?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_PF020_ENGM_AP_CNCM_002EA_weeklyS)
+  
+- [x] 技术实现：
+
+  - [python translate-cli 翻译](https://pypi.org/project/translate/)：`translate-cli -t zh -f .. -t`，不能超过 500 个单词
+  
+- [x] 大方向：
+
+  - 英语单词：背单词
+  - 产品经理：修改简历
+
+
+
+# 2023-11-10
+
+- [x] 基本生活：
+  - 看视频《拾荒者统治》
+  - [数字微流控，液滴移动、分配、混合及拆分](https://www.bilibili.com/video/BV1et4y1471M/?spm_id_from=autoNext&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：ITO 导电玻璃 + 微流控
+  - [低电阻柔性ITO导电膜手机显示屏触摸膜电热屏蔽透明薄膜实验专用](https://item.taobao.com/item.htm?spm=a21n57.1.0.0.5adc523cbXOKLC&id=586934261672&ns=1&abbucket=1#detail)：氧化烟锡导电膜
+- [x] 艺术设计：练习 [Blender 骷髅头](https://www.bilibili.com/video/BV1hj411i7fC/?spm_id_from=333.788&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [x] 人本研究：读文章
+  - [“走出乡土”:农村第一代大学生的自我民族志](https://mp.weixin.qq.com/s/pkv8BdLNB_y71fy_9ZtU6Q)
+
+
+
+# 2023-11-9
+
+- [x] 艺术设计：
+  - 练习 [Blender 骷髅头](https://www.bilibili.com/video/BV1hj411i7fC/?spm_id_from=333.788&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [x] 人本研究：
+  - 继续学习 [Hobby engagement and mental wellbeing among people aged 65 years and older in 16 countries](https://www.nature.com/articles/s41591-023-02506-1?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_PF020_ENGM_AP_CNCM_002EA_weeklyS)
+- [x] 大方向：
+  - 继续根据产品经理工作内容修改简历
+  - （日常）记单词
+
+
+
+# 2023-11-8
+
+- [x] 基本生活：~~选个电影看~~ 看p个看，换个工作先。
+- [x] 艺术设计：
+  - 练习 [Blender 骷髅头](https://www.bilibili.com/video/BV1hj411i7fC/?spm_id_from=333.788&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [x] 人本研究：
+  - 继续学习 [Hobby engagement and mental wellbeing among people aged 65 years and older in 16 countries](https://www.nature.com/articles/s41591-023-02506-1?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_PF020_ENGM_AP_CNCM_002EA_weeklyS)
+- [x] 技术实现：
+  - ~~学习力反馈电机技术原理~~ 先找了资料
+- [x] 文化表达：考虑做社会的技术支持（咨询）？
+- [x] 大方向：
+  - 继续根据产品经理工作内容修改简历
+  - （日常）记单词
+  - 寻找一些项目、社会、奖项、学术驱动的路径
+    - 学术驱动：[在校本科生该怎么发表论文？](https://www.zhihu.com/question/20116328/answer/1279466203)，就是写文章然后去知网找期刊投稿。好像还要交稿费。
+
+
+
+# 2023-11-7
+
+- [x] 基本生活：~~看电影~~ 没电影搭子
+  - 明确10号、羽毛球（可以打，但是不打）
+  - 明确11、12号徒步（可以走，但是不去）
+- [x] 技术实现：
+  - 继续学习 [学习 golang](https://tour.go-zh.org/list)
+  - [4 柱脚的制作和安装演示](https://www.bilibili.com/video/BV1TK411371P/?spm_id_from=autoNext&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：材料基本上就是木条（竹条）、磨砂纸和502
+- [x] 人本研究：继续学习 [Hobby engagement and mental wellbeing among people aged 65 years and older in 16 countries](https://www.nature.com/articles/s41591-023-02506-1?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_PF020_ENGM_AP_CNCM_002EA_weeklyS)
+- [x] 大方向：
+  - 根据产品经理工作内容修改简历
+  - 整理方向（艺术/设计类奖项、技术转化、创意设计转化）：基本上几类，项目驱动、社会驱动和奖项驱动、学术驱动。
+    - 项目驱动：需要找项目接（公司）
+    - 社会驱动：？
+    - 奖项驱动：一些技术、设计社会竞赛
+    - 学术驱动：发刊？咋发刊？
+  - 读书：太虚了，不切实际
+  - （日常）记单词
+
+
+
+# 2023-11-6
+
+- [x] 基本生活：
+  - 调研进博会
+  - 居住证（摇号车子）：要去十幢警务室开
+- [x] 技术实现：继续学习 [学习 golang](https://tour.go-zh.org/list)，golang 的 `defer` 特别有意思，提供了一种机制。
+- [x] 人本研究：继续学习 [Hobby engagement and mental wellbeing among people aged 65 years and older in 16 countries](https://www.nature.com/articles/s41591-023-02506-1?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_PF020_ENGM_AP_CNCM_002EA_weeklyS)
+- [x] 大方向：继续构思产品经理职能、价值、技能需要和提升路径等内容
+
+
+
+# 2023-11-5
+
+- [x] 基本生活：暖房
+
+- [x] 技术实现：继续学习 [学习 golang](https://go.dev/tour/concurrency/7)
+
+- [x] 大方向：
+
+  - 继续回答产品经理面试经验（回答问题）
+    - 了解什么是硬件产品经理：
+      - [硬件产品经理是做什么的？和软件产品经理的区别是什么？](https://modao.cc/prototyping/hardware-product-manager.html)
+      - [一文了解“智能硬件产品经理”（七个角度）](https://zhuanlan.zhihu.com/p/567908876)
+
+  - 继续记单词
+
+  - 创业计划书：提供一个空间，但是空间有啥用是未知的
+
+
+
+# 2023-11-4
+
+日常计划
+
+- [x] 基本生活：LOL比赛，准备衣服和红包，去湖州
+- [x] 人本研究：继续学习 [Hobby engagement and mental wellbeing among people aged 65 years and older in 16 countries](https://www.nature.com/articles/s41591-023-02506-1?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_PF020_ENGM_AP_CNCM_002EA_weeklyS)
+  - engagement 参与
+  - **address** 参与（提案）：There is increasingly global interest in how **engagement** in psychosocial activities could **address** these challenges.
+  - **leisure** 闲暇
+  - imagination 遐想
+  - **novelty** 新奇的事物
+  - **sensory** 感官活动
+  - cognitive 认知
+  - **stimulation** 刺激
+- [x] 艺术设计：继续练习 [Blender 骷髅头](https://www.bilibili.com/video/BV1hj411i7fC/?spm_id_from=333.788&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)，选面时，太小的面不会被选中
+- [x] 技术实现：继续学习 [学习 golang](https://go.dev/tour/concurrency/7)，~~fetcher 练习~~ 额，它前面还有好多内容。
+- [x] 大方向：
+  - 继续回答产品经理面试经验（回答问题）
+  - 继续记单词
+  - 搜集创业计划书资料
+    - [创业计划书](https://core.ac.uk/download/41433778.pdf)
+    - [创业计划书](https://wiki.mbalib.com/wiki/创业计划书)
+    - [怎样写创业计划书？](https://www.zhihu.com/question/23979557)
+
+
+
+# 2023-11-3
+
+日常计划
+
+- [x] 基本生活：LOL比赛，和勒勒聊创业
+- [ ] ~~人本研究~~：继续学习 [Hobby engagement and mental wellbeing among people aged 65 years and older in 16 countries](https://www.nature.com/articles/s41591-023-02506-1?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_PF020_ENGM_AP_CNCM_002EA_weeklyS)
+- [ ] ~~艺术设计~~：继续练习 [Blender 骷髅头](https://www.bilibili.com/video/BV1hj411i7fC/?spm_id_from=333.788&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [x] 技术实现：分析触摸电路原理，通过计算，想要让初始电平高，就得让充电电阻足够小。想要让触发电压低，就得让触发充电速度也足够小。详细看电路分析。这样一来，确实是高频电路会好测量。
+- [ ] ~~大方向~~：
+  - 继续回答产品经理面试经验（回答问题）
+  - 继续记单词
+  - 创业计划书
+
+
+
+
+# 2023-11-2
+
+日常计划
+
+- [x] 基本生活：LOL比赛，我靠3：0结束了
+- [x] 人本研究：继续学习 [Hobby engagement and mental wellbeing among people aged 65 years and older in 16 countries](https://www.nature.com/articles/s41591-023-02506-1?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_PF020_ENGM_AP_CNCM_002EA_weeklyS)
+  - multi-morbidity 多重病症
+  - **mortality** 死亡率
+  - **advancement** 进步
+  - **expectancy** 期望
+  - **condition** 条件
+  - un-tenable 不可承受的
+  - **burdens** 负担
+  - **predicaments** 困境
+- [x] 艺术设计：继续练习 [Blender 骷髅头](https://www.bilibili.com/video/BV1hj411i7fC/?spm_id_from=333.788&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [x] 技术实现：继续学习 [学习 golang](https://go.dev/tour/concurrency/7)，等价二叉树
+- [x] 文化表达：继续了解那些社会共创的往日作品（留学？）感觉都好普通，留学还是考虑[CMU](https://zhuanlan.zhihu.com/p/123285928)？
+- [x] 大方向：
+  - 继续回答产品经理面试经验（回答问题）
+  - 继续记单词
+
+
+
+# 2023-11-1
+
+- [x] 基本生活：（不打羽毛球），看了LOL视频
+- [x] 人本研究：（学习其目标、调研方法和成果）
+  - 阅读学习 [[大鱼营造] 代际问答大交换 工具包](https://mp.weixin.qq.com/s/X4JnCWJuBQJveWmdF1DkJA)：感觉核心就是，不要把老年人当不会聊天、避讳变老的老年人。老年人比我们更清楚他自己。
+  - [Hobby engagement and mental wellbeing among people aged 65 years and older in 16 countries](https://www.nature.com/articles/s41591-023-02506-1?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_PF020_ENGM_AP_CNCM_002EA_weeklyS)
+  - [胡泳：被遗忘的老年人——信息时代的数字排斥和日益扩大的灰色数字鸿沟](https://mp.weixin.qq.com/s/uh09msIk4Qq5F29WX6bGAg)
+- [x] 艺术设计：练习 [Blender 骷髅头](https://www.bilibili.com/video/BV1hj411i7fC/?spm_id_from=333.788&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [x] 技术实现：继续学习 Minio 上传机制——[学习 golang](https://go.dev/tour/concurrency/1)
+- [x] 文化表达：了解那些社会共创的往日作品
+- [x] 大方向：
+  - 产品经理面试经验（回答问题）
+  - 记单词
+
+
+
+# 2023-10-31
+
+- [x] 基本生活：pokemon 游戏计划——不肝
+- [x] 人本研究：杭州老年人抱团养老。感觉是不是可以去了解以下杭州一些老小区的老年人群生活信息？
+  - 搜集一些老年社区调研文章，学习其目标、调研方法和成果
+- [x] 艺术设计：简单画一个[万圣节骷髅头](https://www.bilibili.com/video/BV1hj411i7fC/?spm_id_from=333.788&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)，云学习，没有动手练
+- [x] 技术实现：Alluvial OSS
+  - 学习 Minio 上传机制
+- [x] 文化表达：寻找一些社会共创人和组织
+- [x] 大方向：产品经理面试经验
+
+
+
+# 2023-10-30
+
+日常计划
+
+- [x] 基本生活：聊工作、聊找对象
+- [x] 技术实现：
+  - 了解 **ERP**、**PLM**、**SCADA**、~~PLC~~、**GTM**、**BI**、**WMS**、**GIS**、**BIM**、**AEC**、TAPD、~~APS~~、OMS等系统简称
+  - [TAPD-腾讯敏捷产品研发平台](https://hook.tapd.cn/)
+  - [四大系统：ERP,CRM,OMS,WMS - Leq](https://www.jianshu.com/p/f0ea434e789a)
+  - 电路发现，小电容无用。根据这个[技术方案](https://zhuanlan.zhihu.com/p/422364625)选取了 nF 的电容,3KHz 正常出现，方波样子也很好。但是如果改电阻会出现
+- [x] 大方向：工作筛选（每日）
+
+| 公司                               | 职位                                                         | 薪资   | 地点         |
+| ---------------------------------- | ------------------------------------------------------------ | ------ | ------------ |
+| [中科信软](http://www.zksoft.org/) | [技术讲师](https://m.zhipin.com/mpa/html/weijd/weijd-job/25dd15afbf9b659e1HV80ty5GFBY?date8=20231030&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 24-30k | 西湖区学院路 |
+| 异想科技                           | [硬件产品经理](https://m.zhipin.com/mpa/html/weijd/weijd-job/b44ecb325705b8aa1HR70t2_FVJW?date8=20231030&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 15-25k | 滨江建业路   |
+
+今天还是提到了工作难找。我觉得当前工作公司确实不适合本人继续发展了。还是之前的话，需要有更高级的劳动技能。感觉无论是培训还是企业服务，都应该去尝试申请。对于公司而言，技术咨询和技术实现都需要继续推。即使离职了其实也不太要紧——毕竟真正的盈利点不在我。
+
+
+
+# 2023-10-29
+
+日常计划
+
+- [x] 基本生活：沟通户外。
+  1. 组织者不规范，说好的头脑风暴结果变成了牵线搭桥
+  2. 创业内容过于简单
+  3. 过于注重收益而不考虑技术和体验，不注重用户真实需求
+- [x] 技术实现：
+  - 了解 MES
+- [x] 大方向：工作筛选（每日）
+
+| 公司                                  | 岗位                                                         | 薪资   | 地点         |
+| ------------------------------------- | ------------------------------------------------------------ | ------ | ------------ |
+| 中国电子科技南湖研究院                | [硬件产品经理](https://m.zhipin.com/mpa/html/weijd/weijd-job/e46ee3c543d600b61HV-0ty0GFRY?date8=20231029&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 20-30k | 海创园附近   |
+| 古茗                                  | [产品经理（IOT）](https://m.zhipin.com/mpa/html/weijd/weijd-job/32ca9a4c84646cde1HR92dS6EVZV?date8=20231029&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 20-40k | 萧山科创中心 |
+| [玖欣物联](http://www.jiuxiniot.com/) | [工业互联网产品经理](https://m.zhipin.com/mpa/html/weijd/weijd-job/80b35b8bfe8f00e61HV92926GVVZ?date8=20231029&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 20-30k | 江陵路地铁站 |
+
+感觉玖欣物联不错哎。可以开始补足一些内容了：生产管控 MES、仓储管理 WMS、高级排程 APS、订单管理 OMS、ERP系统
+
+
+
+# 2023-10-28
+
+日常计划
+
+- [x] 基本生活：走亲戚
+
+- [x] 大方向：筛选AB工作
+
+  又挑选了很多工作，感觉还是产品经理适合我。而且智能制造、物联网还是有很多产品经理岗位的。感觉很多想法还是只能先当想法。
+
+
+
+# 2023-10-27
+
+日常计划
+
+- [x] 基本生活：羽毛球大赛
+- [x] 技术实现：
+  - [自己动手打造车模风洞，半小时省一个亿](https://www.bilibili.com/video/BV1MY4y1g7DZ/?spm_id_from=333.999.list.card_archive.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：函道、出风口、进风烟雾（纸烟），评论区有说可以用烟饼、干冰的。
+
+
+
+感觉要不要有C方向呢？继续推硬盒？
+
+
+
+# 2023-10-26
+
+日常计划
+
+- [x] 基本生活：羽毛球活动公告
+- [x] 人本研究：[年轻人最新相亲方式：饭搭子转正](https://mp.weixin.qq.com/s/RwwpIue-fRI2S5YdSk5S1w)！思如泉涌！
+  - 搭子
+  - 大家从来就没有亲密过，就算没成断了联系，也不会有压力
+  - 只要一起玩高兴就可以
+  - 羽球搭子基本原则
+
+- [x] 艺术设计：羽毛球活动海报？
+- [ ] 技术实现：~~UiI 完善与设计借鉴~~ 没有项目，没有设计，没有方向。换一个技术提升了
+- [x] 文化表达：羽毛球活动海报内容设计！！！！（划线）
+- [ ] 大方向：感觉产品经理才适合我？可以去掉其他工种感觉。感觉一旦有新工作来，被人需要的时候就很难继续下去呢。而且也觉得既然要做创意，当下的环境是好的。但是依旧是老问题——做不好，等于没有设计也没有技术。不要被理想屏蔽现实。还是往一些主流方向演进。
+  - 区分AB工种（主要备选工种）
+
+
+
+感觉人和人似乎根本不需要互相理解。所谓的互相理解是在当下需要「协同」工作，产生的「信任」等等。
+
+
+
+# 2023-10-25
+
+日常计划
+
+- [x] 基本生活：明确羽毛球装备现状
+- [x] 人本研究：[为什么一定要生男孩？](https://mp.weixin.qq.com/s/Ob1-akWxBIdnS_OyFZcWDg)，这篇文章和上一篇文章一样，都用了布迪厄的场域理论。但是这篇文章的学术性就比较弱，在论证方面比较单一。而且缺少上一篇文章的总领和学术价值。
+- [x] 艺术设计：[3D打印悬浮指针时钟 结构巧妙 思路清奇](https://www.bilibili.com/video/BV1QG4y1N7NC/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)，复刻（已经下单）
+  - [1min 看完，掌握不同形态石头的画法！！合集](https://www.bilibili.com/video/BV1Mm4y137sT/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [x] 技术实现：[LLMZoo](https://github.com/FreedomIntelligence/LLMZoo)，需要翻墙下载模型。而且8G显存爆了。
+- [x] 文化表达：[从知识渊博到创造知识——系列学术活动(一)](https://meia.me/course/170619)，非常好的视频，其实本质是分享一种「学术」的价值和「学术」的思维方式。这种认识世界、分析世界，总结经验，从而改变世界的一种文学性的方式。
+- [x] 大方向：
+  1. 评估公司，分类岗位和公司
+  2. 明确岗位的退出原则
+
+
+
+# 2023-10-24
+
+日常计划
+
+- [x] 基本生活：运动计划
+
+- [x] 人本研究：[合作共赢的婚姻策略:拆迁型赘婚](https://mp.weixin.qq.com/s/s3kMzQBvly_eySoAIqzHjA)，这篇文章主要从赘婚现象开始观察，根据历史脉络、社会交换论和场域理论进行分析，并总结出符合赘婚分析的「场域交换理论」，提出研究假设。然后采用「滚雪球抽样」进一步访谈，深入理解和验证假说，分析现状。从理论到实际，最后再到研究成果——从交换和现实中反思问题和价值——问题在与赘婚政策导致诸多投机者，使得出现一种社会不公平。同时赘婚也导致家庭对婚姻矛盾判断的缺失；但是价值体现在，男女权力关系的重组，而且因为户口导致的利益分配，一定程度上还反映了社会重男轻女的情况，也对社会发展具有重要参考价值。是一篇非常值得学习的文章。
+
+- [x] 艺术设计：整理照片
+
+- [x] 技术实现：
+  - [Asciidoc 与 Markdown 的比较](https://pdx.su/blog/2023-02-05-asciidoc-and-markdown/)：[Ascii Doc](https://asciidoc.org/#compare) 还支持 Videos 和 Audio,感觉比Markdown更有用？
+  
+  - [Anonymous Chat Room](https://github.com/velor2012/anonymous-chat-room)：借用了 LiveKit 的音视频能力
+  
+  - [LLMZoo](https://github.com/FreedomIntelligence/LLMZoo)：需要安装 Cuda、ninja；python 需要手动安装 `packaging`、`torch`、`wheel`和 `setuptools`
+  
+    清华镜像使用：`-i https://pypi.tuna.tsinghua.edu.cn/simple`
+    
+    CUDA：`export CUDA_HOME=/opt/cuda`
+  
+- [x] 文化表达：
+
+  - 数字化转型：两篇文章，第一篇文章[数字化转型，究竟难在哪里？](https://mp.weixin.qq.com/s/dmWke0G9I96QQqVFv8yTog)高屋建瓴，直接点出了数字化转型的根本难点——**生产关系重新达成共识之难**。文章还从华为、美的两家企业看数字化转型中遇到的问题。
+
+    当然，解决办法还是有的，华为的办法就是**朝着目标慢慢前进**。之字路数字化。
+
+  - 另一篇文章，其实也比较偏建议，包括「领导者需要了解数字化转型的价值」。而且比较新颖的是，他也会承认数字化转型是一种「工具革新」。强调工具的迭代、工具的传授、工具的理解，以及工具是否真的是用户需要的。
+
+- [x] 大方向：再选一波公司，然后筛一波公司
+  - 看了一波公司，主要领域大概是——解决方案、产品经理、项目经理和开发工程师。还是需要继续看
+  - IT行业产品经理，项目经理，解决方案工程师，这三个哪个更有前途？ - 黑马产品经理的回答 - 知乎 https://www.zhihu.com/question/317761467/answer/3190782554
+
+
+
+# 2023-10-23
+
+日常计划
+
+- [x] 基本生活：看电影
+
+- [x] 人本研究：重视调研，重视调研的深度和广度；重视组织；应用反事实思维，使思考全面；重视落地，考虑限制和依赖；构建者必须是你自己吗？
+
+- [x] 艺术设计：整理照片，Minio 没有本地存储数据，它还是会对数据进行转化。
+
+- [x] 技术实现：振荡电路频率验证，发现比计算值要大很多。发现是因为施密特触发器的电平不是理想的0～Vcc。计算出来，理论RC是 312KHz，实际需要扩大2.5倍，差不多780KHz，测出来是 833KHz。算是符合实际。
+
+  但是另一个电路，RC理论也是 312KHz，但是实际有1.92MHz。不清楚为什么。
+
+  然后发现 SS8050 的导通电压其实就 0.5v，然后施密特触发器又可能拉不低。所以需要考虑一下是不是这个问题。
+
+- [x] 文化表达：
+
+- [x] 大方向：转职技能弥补，只列了开头，还是应该先再选一波公司；然后筛一波公司；最后对岗位工作职责和内容仔细了解。
+
+
+
+想起来，佳雯的离职其实也象征了我这一年的努力的白费。结果如此，早该放手。现在的目标就是好聚好散了。
+
+
+
+# 2023-10-22
+
+日常计划
+
+- [x] 基本生活：买衣服
+- [x] 人本研究：[“文转腿”真能拯救找不到工作的年轻人吗？](https://mp.weixin.qq.com/s/DtWK6hMaERB1d14ws7N75g)
+- [x] 艺术设计：如何制作动态海报，一般用AE做，但是我不熟悉AE，感觉可以用 Blender 做。
+- [x] 技术实现：minio tag 技术实现和迁移可能？
+- [x] 文化表达：关于互联网相亲
+
+互联网相亲，就是通过互联网的手段，以相亲为名头的引流行为。本人27出头，人丑钱少，想找同样人丑钱少的人。感觉匿名社交太不安全，都很「脏」。但是这种线下相亲又太「公式化」——见面先了解家庭背景，然后说优点，然后谈价格，成了就交钱，不成就说哪儿哪儿不好什么的。
+
+工业流水线也非常完善，那些年轻的，负责和人沟通。引到线下算成功。然后线下就开始搜集资料，最终目标还是为了让客户当场付费。我厌恶的不是找对象给红娘钱这事儿。我厌烦的是他们为什么一定要当场付费的事儿。而且我不当场付费，红娘们就开始甩脸色，就这还服务业？
+
+都21世纪了，数字化匹配没可能吗？中国就真靠「人际关系」赚钱呗？最后都是红娘坑蒙拐骗骗到钱，然后随便数据库匹配一下。这不是诈骗是啥。
+
+- [x] 大方向：整理一些企业单位招聘信息
+
+| 岗位                                                         | 公司           | 工资   | 详情                                                         |
+| ------------------------------------------------------------ | -------------- | ------ | ------------------------------------------------------------ |
+| [Senior Solution Engineer](https://m.zhipin.com/mpa/html/weijd/weijd-job/7e9f6b3ce2d0057a1X1-29i-EVFQ?date8=20231022&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | [中控技术]()   | 20-35k | 英语口语；不考虑                                             |
+| [工程机器人产品经理](https://m.zhipin.com/mpa/html/weijd/weijd-job/4516acfd01101f3d1HR539i1FVdR?date8=20231022&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 网易           | 15-25k | 2-4年产品经验；熟练使用原型工具                              |
+| [物联网嵌入式高级开发/专家](https://m.zhipin.com/mpa/html/weijd/weijd-job/d6b38daf85bb06490Hd62Nu6F1Q~?date8=20231022&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 淘宝           | 20-40k | C/C++；熟悉工业接口，CAN总线、MODBUS；熟悉Linux              |
+| [物联网解决方案经理](https://m.zhipin.com/mpa/html/weijd/weijd-job/9d6e4b85e047c8841HV60tm0ElRS?date8=20231022&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 品铂科技       | 20-25k | 3年以上行业解决方案开发经验；                                |
+| [5G+工业互联网解决方案工程师](https://m.zhipin.com/mpa/html/weijd/weijd-job/1dc050ea4dc2c2f31XN42tu6EFFV?date8=20231022&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 联通产业互联网 | 12-20k | EMS、ERP、PLM、SCADA、PLC等相关产品                          |
+| [产品经理](https://m.zhipin.com/mpa/html/weijd/weijd-job/c256a97708483aca1X1y3t28GFBV?date8=20231022&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 华峰集团       | 15-25k | 有工业互联网、化工园区、政府园区经验；数字孪生、EHS行业市场分析 |
+| [智能技术研究部负责人](https://m.zhipin.com/mpa/html/weijd/weijd-job/b60da224d2a58b3e1HV53tW9ElFQ?date8=20231022&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 顾家家居       | 30-50k | 管理、领导；LCIA（简便自动化）                               |
+| [物联网产品专家](https://m.zhipin.com/mpa/html/weijd/weijd-job/f2fff55d5e3238ee1XV43NS_FFZW?date8=20231022&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 绿城           | 20-40k | 互联网、物联网产品设计经验；Photoshop、axure、visio          |
+| [产品与解决方案管理专家](https://m.zhipin.com/mpa/html/weijd/weijd-job/a934b30501cdaec81X1439W4EFJQ?date8=20231023&sid=tosee_jd_f9b00451ca250d7c031z3t24F1M~&fromSource=2) | 蚂蚁           | 40-60k | 数字化转型、科技服务型产品经验；商业模式设计经验；产品GTM能力；复杂项目管理能力；英语能力 |
+
+
+
+# 2023-10-21
+
+日常计划
+
+- [x] 人本研究：[全球教育目标面临多重挑战！](https://mp.weixin.qq.com/s/_KYUwRZ-PNLpvaqYHYtUWA)
+- [x] 艺术设计：海报设计
+- [ ] 技术实现：
+- [x] 文化表达：《河边的错误》观影
+- [ ] 大方向：
+
+
+
+# 2023-10-20
+
+日常计划
+
+- [x] 人本研究：搜集一些社会学、人类学学者、成果、媒体渠道
+- [x] 艺术设计：搜集一些优秀海报
+- [x] 技术实现：
+  - [x] 触摸电路问题排查：电路修改后重新下单了
+  - [x] 服务器 OSS 公开支持：怎么把图片路径映射啊，而且只能通过minio 上传，本地存储修改的文件，云端无法查看。
+    - [自定义看这里](https://gist.github.com/krishnasrinivas/2f5a9affe6be6aff42fe723f02c86d6a)
+- [x] 文化表达：照片整理
+
+
+
+# 2023-10-18
+
+日常计划
+
+- [x] 人本研究：
+  - [x] 什么是人类学，人类学的研究内容，人类学的贡献，人类学相关课程
+  - [x] 什么是社会学，社会学的研究内容，社会学的贡献，社会学相关课程
+  
+  刚发布收获一个喜爱。
+  
+- [x] 艺术设计：GIMP 平面设计熟悉（有目标啊宝贝）
+
+- [x] 技术实现：UiI 标准库化（简单，但是没有测试）
+
+- [x] 文化表达：搜集一些艺术类奖项社会征集组织或平台（也只是把现在知道的整理了一下）
+
+
+
+# 2023-10-14
+
+图书馆
+
+- 9:30 ~ 10:00：Plan Alluvial 定义
+- 10:00 ~ 13:00：Plan Alluvial 呈现认识与计划
+- 14:00 ~ 17:00：Plan Alluvial 管理认识
+
+
+
+# 2023-10-13
+
+明确一下后续的计划。
+
+1. 继续明确当下五要素发展主要思路
+2. 提高语言学习进度，提高文献阅读能力，为出国、研究等做准备
+3. 进一步提高文献阅读与积累水平，进一步提高专业能力素养
+4. 华为数字化转型作为备选求职方案
+
+当下工作的计划
+
+1. 继续推进应有的工作任务，包括项目中的技术要素和项目外的人才培养和人员沟通。但是需要减少精力投入。
+2. 在技术上和艺术表现上为主要工作投入。
+3. 主要以求职为目标进行个人提升和工作，辅以研究技能。求职应该每周分配时间，寻找机会。
+
+
+
+# 2023-10-12
+
+咋整呢。在我看来这完全是因为工作没有安排好而导致的一系列问题。当下几个根本的问题包括：
+
+- 具体工作流程问题和工作流程对应的工作安排问题：主要体现在，员工不知道如何工作，不知道如何配合工作，不知道谁应该干什么活。
+- 公司发展战略问题：主要表现为，员工不知道干什么样的活是正确的，不知道未来应该往哪些方面发展，拓宽自己的能力。
+- 公司奖惩制度问题：主要表现为，多干少干一个样。多干的要承担责任，累且无利；少干的不用承担责任，推卸责任，缺少沟通，缺少团队合作能力。
+
+但是最根本的还是营收问题。如何才能赚钱。
+
+
+
+# 2023-9-14
+
+我觉得Y他没有分析具体矛盾的能力。他会把一切当作外部常态，归结于外部客观因素，忽视了人的主观能力。在一个放弃主观能动性的环境中，依赖外部是改变不了的。
+
+Y所做的一切都是缓兵之计。不可信。
+
+
+
+# 2023-9-12
+
+如果法律是用来做「最低标准约束」的，那么「高标准追求」应该是什么？我觉得是「设计」。
+
+
+
+# 2023-9-1
+
+相机需求：高画质摄影，照片为主；视频能有回传PC的功能，类似UVC。预算1.5W内。希望配件耐操，便宜。
+
+电脑需求：Blender，用于做编译运算的。
+
+
 
 # 2023-8-11
 

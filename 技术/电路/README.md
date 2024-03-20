@@ -1,3 +1,7 @@
+> 参考资料
+>
+> - [电容充放电时间常数RC计算方法](https://blog.csdn.net/xuhao0258/article/details/116260327)
+
 # 电路相关
 
 - [画板子](./%E7%94%BB%E6%9D%BF%E5%AD%90/)
@@ -20,3 +24,11 @@
 
 - DIP (dual in-line package, 双列直插式封装技术)
 - SMT (Surface Mounted Technology, 表面贴装技术)
+
+
+
+## RC电路
+
+$$
+V_t = V_0 + (V_u - V_0)[1 - e^{-t/RC}]
+$$

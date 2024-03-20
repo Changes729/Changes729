@@ -13,3 +13,4 @@
 - Unity
 - [fusion360](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription)：机械机构设计。
 - **[lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)**：变音软件
+- AVAHI：零配置mDNS/DNS工具

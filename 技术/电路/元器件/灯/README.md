@@ -31,3 +31,12 @@
 
 - [陶瓷灯丝复古防钨灯丝光源](https://item.taobao.com/item.htm?spm=a230r.1.14.1.61e83f894m0ecY&id=657899815261&ns=1&abbucket=19#detail)
   - [斯迈得](https://www.smalite.com/proinfo13.html)
+
+
+
+## 红外
+
+- [**5mm红外线发射管+红外接收管F5红外发射接收对管940nm** ](https://detail.1688.com/offer/606476789388.html?spm=a26352.13672862.offerlist.329.f3d65116slasKB): 0.17/对，10mA
+- [3MM 红外发射管+红外接收管 红外对管 圆头 LED型 940nm 直径](https://item.taobao.com/item.htm?abbucket=19&id=600151831352&ns=1&skuId=4360469287588&spm=a21n57.1.0.0.400b523cbpQILD)：0.1/0.07
+- [富能电子企业店](https://item.taobao.com/item.htm?abbucket=19&id=734210102223&ns=1&skuId=5247378062087&spm=a21n57.1.0.0.400b523cbpQILD)：0.08/0.05
+

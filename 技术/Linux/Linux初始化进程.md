@@ -1,6 +1,7 @@
 > 参考资料
 >
 > - [内核模块](https://wiki.archlinuxcn.org/wiki/%E5%86%85%E6%A0%B8%E6%A8%A1%E5%9D%97)
+> - [How to create a Systemd service in Linux](https://www.shubhamdipt.com/blog/how-to-create-a-systemd-service-in-linux/)：有很多 service 编写的example
 
 # 初始化进程
 

@@ -7,6 +7,3 @@
 [submodule "工作/Workdir-box"]
 	path = 工作/Workdir-box
 	url = git@github.com:Changes729/Workdir-box.git
-[submodule "CAD库"]
-	path = CAD库
-	url = git@github.com:Changes729/cad_library.git

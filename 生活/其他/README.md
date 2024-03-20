@@ -127,6 +127,12 @@ rm -rf .git/modules/assets`
 
 `https_proxy="http://127.0.0.1:8118" yarn install`
 
+```
+npm install --global yarn
+```
+
+`yarn config set registry https://registry.npmmirror.com`
+
 #### [docker](https://docs.docker.com/network/proxy/)
 
 `ENV HTTP_PROXY="http://192.168.0.2:8118"`

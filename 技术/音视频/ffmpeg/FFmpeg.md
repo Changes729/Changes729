@@ -8,6 +8,9 @@
 > - [使用FFmpeg添加、删除、替换和提取视频中的音频](https://mp.weixin.qq.com/s/SFpdHo1IT3XA4xDm_XuA-g)
 > - [利用FFmpeg进行音频降噪](https://guohongyi.com/2020/09/28/%E5%88%A9%E7%94%A8FFmpeg%E8%BF%9B%E8%A1%8C%E9%9F%B3%E9%A2%91%E9%A2%84%E5%A4%84%E7%90%86/#%E5%85%B3%E4%BA%8Effmpeg)
 > - [如何使用FFmpeg精确剪辑视频](https://juejin.cn/post/6952762128600317966)：讲到了一个视频编码等问题，就是IBP帧的问题。
+> - [ffmpeg 带alpha透明层的视频编码](https://blog.csdn.net/ternence_hsu/article/details/99845214)：序列帧转视频
+> - [Convert Transparent PNGs to a Transparent Video](https://stackoverflow.com/questions/75455066/convert-transparent-pngs-to-a-transparent-video)：序列帧透明视频格式
+> - [What other build options exist to compile the most superior configuration of FFmpeg?](https://superuser.com/questions/1411015/what-other-build-options-exist-to-compile-the-most-superior-configuration-of-ffm)：介绍了 `--enable-gpl`和`--enable-nonfree`之间的关系。一般而言启用就行。
 
 # FFmpeg
 
@@ -86,6 +89,12 @@
 - 视频转码：
 
   - [mov格式转 vp8 webm](https://www.xuefei.net.cn/index.php/archives/138/)：`ffmpeg -i fg.mov -vcodec libvpx -auto-alt-ref 0 -acodec libvorbis out.webm`
+  - [序列帧](https://stackoverflow.com/questions/34974258/convert-pngs-to-webm-video-with-transparency)：`ffmpeg -framerate 25 -f image2 -i frames/%03d.png -c:v libvpx -pix_fmt yuva420p -auto-alt-ref 0 output.webm`
+    - `-auto-alt-ref 0` 用来
+    - `-metadata:s:v:0 alpha_mode="1"`
+    - `-start_number`：用来表示开始帧
+    - `-c:v prores -pix_fmt yuva444p10le logo.mov`
+    - `-c:v ffv1 -pix_fmt yuva420p logo.mkv`
   
 - 音频转码：
 

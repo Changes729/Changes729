@@ -4,3 +4,5 @@
 
 # NFC
 
+- [WS1850S](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/datasheet/unit/rfid2/WS1850S%20QFN-32.PDF)
+

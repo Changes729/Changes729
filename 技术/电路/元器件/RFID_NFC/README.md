@@ -104,6 +104,7 @@ SONY
 - [远距离RFID读卡器](https://detail.1688.com/offer/596280015623.html?spm=a26352.13672862.offerlist.54.1367404fK1h4yC)
 - [ISO14443 5x5mm](https://detail.1688.com/offer/648997064095.html?spm=a26352.13672862.offerlist.238.5fd2152fK4V3GS)
   - [NFC ISO14443 戒指](https://detail.1688.com/offer/696359667116.html?spm=a26352.13672862.offerlist.46.5fd2152fK4V3GS)
+- [CUID](https://item.taobao.com/item.htm?id=651509834469&spm=a21wu.12321156.go-detail.1)：5*8 大小，[参考工程](https://oshwhub.com/no_chicken/mo-neng-ka-pian-OV-Card)，需要外接天线。
 
 
 
