@@ -2,6 +2,7 @@
 >
 > - [【MOS管】防反接电路](https://www.bilibili.com/video/BV1tY4y1P7Kp)：二极管防反接、P沟道MOS管防反接、N沟道MOS管防反接（NCE4060K）
 > - [安规电容（X/Y电容）](https://zhuanlan.zhihu.com/p/350438523)
+> - 氮化镓方案
 
 # 电源
 

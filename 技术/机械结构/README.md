@@ -3,7 +3,10 @@
 > - [freeCAD齿轮画法](https://www.bilibili.com/video/BV1rK4y1b7WT/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
 > - [南台科技大学 FreeCAD教学](https://youtube.com/playlist?list=PLdrYbn8q6soMfeaGRczvvLAdBYIruMCdZ)
 > - [气膜体育馆项目施工流程](https://www.bilibili.com/video/BV1CT411N7a9/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：可以看到整个施工流程。其中也包含了后续内建的一些大设施。
-> - [“吹起来”的粮食气膜仓？中国首创的“白胖子”气膜仓它来了！](https://www.bilibili.com/video/BV1KY411Q782/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：PVDF膜
+> - [ ] [“吹起来”的粮食气膜仓？中国首创的“白胖子”气膜仓它来了！](https://www.bilibili.com/video/BV1KY411Q782/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：PVDF膜
+> - 有限元分析
+>   - [x] [使用FreeCAD进行有限元分析](https://blog.csdn.net/weixin_43530432/article/details/83444780)
+>   - [x] [如何在FreeCAD中执行有限元分析（应力，变形分析）](https://zsj.itdos.net/docs/freecad/freecad-010)
 >
 > 供应商：
 >

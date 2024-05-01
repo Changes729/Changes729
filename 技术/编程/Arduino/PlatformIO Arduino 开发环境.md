@@ -88,3 +88,8 @@ void loop()
     - 在 `C:\Users\[你用户的名字]\` 目录下删除 `.platformIO` 文件夹。（如果存在的话）
     - 在 `C:\Users\[你用户的名字]\Documents\` 目录下删除 `PlatformIO` 文件夹。（如果存在的话）
 
+
+
+## 网络情况
+
+如果遇到按照包特别慢的时候，可以在VSCode打开PIO终端，然后在终端设置代理，然后运行 `pio run --target upload` 重新配置

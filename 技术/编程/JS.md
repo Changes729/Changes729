@@ -6,6 +6,10 @@
 > - [WebAPI EventTarget](https://developer.mozilla.org/zh-CN/docs/Web/API/EventTarget)
 >
 > [How do I POST a x-www-form-urlencoded request using Fetch?](https://stackoverflow.com/questions/35325370/how-do-i-post-a-x-www-form-urlencoded-request-using-fetch)
+>
+> 代码显示器：[CodeMirror](https://codemirror.net/examples/)
+>
+> KiCAD 电路 Web 浏览器：[circuitjs1](https://github.com/sharpie7/circuitjs1)
 
 # JS
 

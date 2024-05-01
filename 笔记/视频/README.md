@@ -21,4 +21,8 @@
 - [举办技能大赛，支持中考分流，大力发展职业教育](https://www.bilibili.com/video/BV1Rh4y1h78f/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：职业教育，劳动教育相关。社会大众的价值观需要政府相关引导。
 - [体制内专家级工作留痕1-4级](https://www.bilibili.com/video/BV1KC411Y7Qx/?spm_id_from=333.1007.tianma.13-3-49.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：四级留痕（告知）、三级留痕（告知以及明确的验收标准）、二级留痕（全流程监督）、一级留痕（亲力亲为，必须完成任务）
 - [能聊的不能聊的，这里都聊了！没有尺度，敞开了聊！](https://www.bilibili.com/video/BV1az421X7B2/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [千万不要在阳台放坚果！](https://www.bilibili.com/video/BV1H2421c7rZ/?spm_id_from=333.1007.tianma.3-2-8.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：动物友好环境
+- [C++图形学作业-地形四叉树LOD优化简单实现](https://www.bilibili.com/video/BV1YA4m1c7ah/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：应该是有代码来源的——[3D数学基础：图形和游戏开发（第2版）](https://product.dangdang.com/28552828.html)
+- [绝不松手的溜溜糖球](https://www.bilibili.com/video/BV1pC411L7kJ/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：特别可爱的视频，想手工做一个帽子
+- [一分钟制作电路板](https://www.bilibili.com/video/BV1dF41127qr/?buvid=XU0D10701D6618587DE0844E4701C9FF448DF&from_spmid=united.player-video-detail.relatedvideo.0&is_story_h5=false&mid=YXXhfUoekNrv6GqxhqibMw%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=e7ecdd9a-05de-4f75-bd6e-39e84fa445f7&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1711898658&unique_k=vIB3Zb6&up_id=213206285&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：需要、热转印打印机、热转印纸、热转印机、单面覆铜板、稀盐酸、盐酸、摆动电机、丙酮
 

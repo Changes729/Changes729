@@ -15,6 +15,7 @@
 - 基础数学：线性代数、矩阵论、概率论
 - 基础方法：最优化、强化学习、深度学习
 - 具体应用：视觉、定位、规划
+- 基础工具：[PyTorch](https://pytorch.org/get-started/locally/#supported-linux-distributions)、[Tensorflow](https://www.tensorflow.org/?hl=zh-cn)
 
 
 
@@ -48,9 +49,11 @@
     - [dramatron](https://github.com/deepmind/dramatron)：但是依赖 Google AI 框架 Colab
   - 对话：
     - [chatglm-6b](https://huggingface.co/THUDM/chatglm-6b)：16G 显存
+- 文本转音频
+  - [x] [speechify](https://studio.speechify.com/dashboard)：亲测好用，无字数限制
+- [ ] [speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet)：还没试过
 - 图片转3D Mesh：
   - [One-2-3-45](https://github.com/One-2-3-45/One-2-3-45)
-
 - 声音克隆
   - [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
 

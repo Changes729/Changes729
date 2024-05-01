@@ -53,6 +53,9 @@
 - math
   - `log10`：等于数学中的 `log`
   - `log`：等于数学中的 `ln`
+- [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
+- [yutto](https://github.com/yutto-dev/yutto)：bilibili video download
+- [pytube](https://github.com/pytube/pytube)：youtube video download
 
 
 

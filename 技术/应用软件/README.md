@@ -14,3 +14,8 @@
 - [fusion360](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription)：机械机构设计。
 - **[lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)**：变音软件
 - AVAHI：零配置mDNS/DNS工具
+- QGIS：GIS软件
+  - [全国地理信息资源目录服务系统](https://www.webmap.cn/main.do?method=index)
+- strings：UNIX 环境可以查看应用程序的字符串。通过这个可以做逆向工程，一定程度上可以看到程序的BUG
+- [ida-free](https://aur.archlinux.org/pkgbase/ida-free)：逆向工程反汇编程序
+

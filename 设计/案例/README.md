@@ -44,6 +44,8 @@
 - [[线性] 城市经纬](https://mp.weixin.qq.com/s/Y4Lq9hwQQ0FcmX_uzcBgJA)
 - [杯弓鸟影](https://www.bilibili.com/medialist/play/watchlater/BV1rv4y1g7ux)：栅格化 + 物理动态
 - [盲文印刷](https://www.bilibili.com/medialist/play/watchlater/BV1HB4y1v7uH)：通过对墨滴成型的精确控制，实现精确打印图片、文字等效果。
+- [地图设计](https://www.xiaohongshu.com/explore/66022fc5000000000d00cda7?app_platform=android&ignoreEngage=true&app_version=8.28.0&share_from_user_hidden=true&type=normal&author_share=1&xhsshare=WeixinSession&shareRedId=N0lIMEU8Rjo2NzUyOTgwNjc6OTdJNTdB&apptime=1711672327&wechatWid=812deeca1ee46b9d16e2c6a24c1a8430&wechatOrigin=menu)
+- [东京移民博物馆](https://immigration-museum-tokyo.com/)
 
 
 

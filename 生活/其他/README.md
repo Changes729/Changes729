@@ -92,6 +92,14 @@ rm -rf assets
 rm -rf .git/modules/assets`
 ```
 
+```sh
+# git lfs
+brew install git-lfs
+git lfs install 
+git lfs track "*.psd"
+git lfs push --all origin
+```
+
 # Navigation
 
 - [List of graph visualization libraries](https://elise-deux.medium.com/the-list-of-graph-visualization-libraries-7a7b89aab6a6)

@@ -28,3 +28,14 @@
 
 所以在贡献上，社会学的贡献在于为社会的稳定提供管理方法或者政策方案；人类学则在与名族志发表，在于不同人类生活可能性的文化性探索。
 
+
+
+## 历史
+
+- [Blender的历史](https://docs.blender.org/manual/zh-hans/dev/getting_started/about/history.html)
+  - 1988年成立动画工作室
+  - 1998成立Not a Number（NaN）
+  - 2000年风头获得450万欧元
+  - 2002年开源社区筹资10万欧元，开始开源Blender
+  - 2004年[BlenderCN](https://www.blendercn.org/%e5%85%b3%e4%ba%8eblendercn) 成立
+

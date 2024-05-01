@@ -1,43 +1,1462 @@
-ddyNavigation: [TODO List](./TODO/)、[项目视图](./项目视图.md)
+Navigation: [TODO List](./TODO/)、[项目视图](./项目视图.md)
 
-日常计划
+日常计划：资料来源——「TODO-读书」、「微信收藏」、「小红书收藏」、「Bilibili稍后再看」
 
 - [ ] 基本生活：
-  - 《奇怪物语》、《暗黑》、《毒枭》、《纸钞屋》、《无神世界的神明活动》、《BanG Dream！It‘s MyGO》
+  - 《毒枭》、《纸钞屋》、《BanG Dream！It‘s MyGO》
+  - 院线电影：《年少日记》
 - [ ] 人本研究：
-  - 《落脚城市》、[《鲁迅评传》](http://product.dangdang.com/29547186.html)
+  - 《落脚城市》
 - [ ] 经济关系：
+  - [ ] 尝试公众号发表文章？
+  - [ ] 问爸妈要营业执照？
 - [ ] 艺术设计：
   - 读书：《世界文字设计之旅》[ 捷克 ] 琳 达· 库德尔、诺夫斯卡
-  - 科普和宣传
-    - [ ] 节约用水（3月22日）：[参考一](https://mp.weixin.qq.com/s/rl8E5BFs_3AgBtDEls3FOA)，学习一些科普海报制作工具和内容
+  - [ ] 设计思维：https://xxy-innovation.com/kc
+  - [ ] [溜溜糖球帽子](https://www.bilibili.com/video/BV1pC411L7kJ/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+  - [ ] 笔芯差异
 - [ ] [技术实现](./Plan%20Alluvial/技术规划（2023总结版本）.md)：智能化绿色化，生产性服务业
-  - 网页（ThreeJS，GLTF）
   - TinyML（3.20测量、5月出技术结论，6月后皮肤柔性电路到工作坊）
     - 霍尔传感器
     - 机器学习
-  - LED 电压指示灯
-    - 原理验证
+    - 语音识别
+  - 磁悬浮电路实现（下推式已经成功，需要上拉式）：下推式需要分立元件测试，工作室对照电路理解
+  - AI 镜子
+  - 学习 UE：设置目标
+  - USB 防反接与电流保护电路
+  - micropython
 - [ ] 文化表达：
-  - 产出社会需求和技术解决方案，社会技术支持
   - [《人件：项目与团队高效管理（第3版）》](http://product.dangdang.com/11448139434.html)
-- [ ] 大方向：
-  - TODO：创业、考研（学历证明）、投稿（内容分享）、设计咨询、技术咨询
-  - DOING：咨询（食见未来）
+- [ ] 大方向：现阶段目标是争取经济可持续
+  - TODO：创业、投稿（内容分享）、设计咨询、技术咨询
+  - DOING：咨询（食见未来）、西湖群山徒步导览、自习室
+  - 工作室：~~Quit~~ 时机不成熟、清理TODO
+
+2024-5-19（日）
+
+植物葬礼
+
+- [ ] 杭州布展 & 作品公开分享
+
+2024-5-18（六）
+
+植物葬礼
+
+- [ ] 参与者在杭州继续寻找一颗死去的植物
+
+2024-5-12（日）
+
+- [ ] 第二次线上讨论（分享植物故事）
+
+2024-5-6（一）
+
+硬盒
+
+- 红外触摸方案：设计方案（七天）（AD采样、算法设计）
+- 红外触摸方案：理解触摸方案的原理（三极管放大的原理和电压的关系）
+
+2024-5-5（日）
+
+2024-5-4（六）
+
+艺术设计
+
+- [ ] 打印1号整理的地衣美图
+
+植物葬礼
+
+- [ ] 第一次线上讨论（讨论工作坊议题）
 
 
 
-2024-3-30～2024-4-6
+2024-5-3（五）
 
-- [ ] 工作室：活动
+2024-5-2（四）
+
+MagEyes
+
+- [ ] FPCB 设计
 
 
 
-2024-3-21
+# 2024-5-1（三）
+
+人本研究
+
+- [x] 继续学习 [如何做好“深度访谈”？](https://mp.weixin.qq.com/s/jSaRUDgtMmdg3-wRe8RkLQ)
+- [x] 深入理解 [impacthubshanghai](https://shanghai.impacthub.net/about-us/#tuandui) 和行动平台 [makeable](https://www.makeable.cn/competition/)
+  - makeable 主要是可持续创新研究机构，进而形成媒体平台。本身不做创新。
+  - 从[这篇文章](https://mp.weixin.qq.com/s/U3V4_p32S28txDxLzVMHsA)看，impacthubshanghai还是有做实践的。
+    - [R.I.S.E. 可持续消费创新平台全新升级](https://mp.weixin.qq.com/s/KdTGeWwk3zmVFFyRpJV_Pw)：估计上海也要脱离 Impact hub，独自建立品牌。这个项目是他们一直在做且主推的。
+    - [Plastir减塑创新实验室](https://mp.weixin.qq.com/s/Go09O1W2o0EP_hVNeR5Sng)
+    - [1.5DO气候创新实验室正式发布](https://mp.weixin.qq.com/s/psJM6xURPGX3LGNMbjEcjQ)：**旨在推动从气候愿景出发的创新系统变革**
+      - 基于最终“加速气候创新，助力1.5度目标”的愿景使命，我们**希望通过<u>找到、推广和落地</u>更多零碳创新技术，进一步推动更多重点行业/区域通过创新技术的应用实现零碳转型**
+
+艺术设计
+
+- [x] [地衣，永恒的大地艺术](https://mp.weixin.qq.com/s/BXYloZ-dwXZxqFrbzXoaTA)：收集照片，4号打印；整理艺术家、其中提到的文献资料
+- [x] 思考[植物葬礼工作坊](https://mp.weixin.qq.com/s/0sk7Zt3ezCQ3YNeMbSYSYg)：4号开会，4号再说。
+
+
+
+# 2024-4-30（二）
+
+艺术设计
+
+- [x] 参观[数字艺术大展](https://mp.weixin.qq.com/s/FLga-wgYghpI2IxVWHKF8Q)
+- [x] 了解 [ohs-2024-talk](https://github.com/theacodes/ohs-2024-talk)：[Open Hardware Summit](https://2024.oshwa.org/)
+
+人本研究
+
+- [x] 学习[如何做好“深度访谈”？](https://mp.weixin.qq.com/s/jSaRUDgtMmdg3-wRe8RkLQ)：还得再学一遍。
+
+大方向：
+
+- upbeing合作可能，现在还不知道它们的5.1计划
+- 发现了 [impacthubshanghai](https://shanghai.impacthub.net/about-us/#tuandui)、他们也有行动平台 [makeable](https://www.makeable.cn/competition/)
+
+
+
+# 2024-4-29（一）
 
 技术实现
 
-- TinyML：带磁铁、固体胶
+- [x] 调研，如果想要从互联网联系到真人应该怎么办？（不同国家，地区）自媒体渠道。
+- [ ] ~~了解 Linux FileSystem 设计实现~~：ext4；可以暂时用替代方案
+
+咨询（食见未来）
+
+- [x] 访谈回顾：**每个人的使命都藏在自己的痛苦里**。
+
+西湖群山徒步导览
+
+- [x] 2点左右去查看现状、并准备复盘
+- [ ] 晚上复盘
+- [ ] 准备复盘会：「世界不缺答案」
+
+经济关系
+
+- [x] 对706方荣事件的反思：组织方式与合作机制很重要
+
+
+
+# 2024-4-28（日）
+
+MagEyes
+
+- [x] 硬件焊接与测试：A0\A1问题
+
+
+
+# 2024-4-27（六）
+
+日常生活：看电影（19:30）
+
+西湖群山徒步导览
+
+- [x] 部署
+
+大方向
+
+- [x] 了解guanyuhan726：426也是一位认真的人。「交易」获利，但不富裕。
+
+咨询（食见未来）
+
+- [ ] ~~下午4点会议~~
+
+<svg
+   width="97.157608mm"
+   height="78.560127mm"
+   viewBox="0 0 97.157608 78.560127"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-56.421197,-36.681765)">
+    <rect
+       style="fill:#2e65bd;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+       id="rect7"
+       width="97.157608"
+       height="14.243135"
+       x="56.421196"
+       y="36.681767"
+       ry="7.1215677" />
+    <g
+       id="g8"
+       transform="translate(17.261322)">
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:1.5;font-family:GEETYPE-KaiTiGBT-Flash;-inkscape-font-specification:GEETYPE-KaiTiGBT-Flash;text-align:center;letter-spacing:0px;word-spacing:0px;text-orientation:upright;text-anchor:middle;fill:#d6d6d6;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+         x="60.334652"
+         y="46.387558"
+         id="text1"><tspan
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'UbuntuMono Nerd Font';-inkscape-font-specification:'UbuntuMono Nerd Font';fill:#000000;stroke-width:0.411"
+           x="60.334652"
+           y="46.387558">Youtube</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.5;font-family:'UbuntuMono Nerd Font';-inkscape-font-specification:'UbuntuMono Nerd Font';text-align:center;letter-spacing:0px;word-spacing:0px;text-orientation:upright;text-anchor:middle;fill:#000000;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+         x="113.63987"
+         y="46.387554"
+         id="text2"><tspan
+           id="tspan2"
+           style="font-size:7.05556px;stroke-width:0.411"
+           x="113.63987"
+           y="46.387554">Bilibili</tspan></text>
+    </g>
+    <g
+       id="g10"
+       transform="translate(16.876795,-13.57432)">
+      <rect
+         style="fill:#2ebc82;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+         id="rect2"
+         width="78.468948"
+         height="13.88673"
+         x="48.888729"
+         y="75.661354"
+         ry="6.6266069" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.5;font-family:'UbuntuMono Nerd Font';-inkscape-font-specification:'UbuntuMono Nerd Font';text-align:center;letter-spacing:0px;word-spacing:0px;text-orientation:upright;text-anchor:middle;fill:#ffffff;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+         x="88.183174"
+         y="85.010666"
+         id="text3"><tspan
+           id="tspan3"
+           style="font-size:7.05556px;fill:#000000;stroke-width:0.411"
+           x="88.183174"
+           y="85.010666">Download</tspan></text>
+    </g>
+    <g
+       id="g9"
+       transform="translate(18.539562,-42.036752)">
+      <rect
+         style="fill:#bda72e;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+         id="rect3"
+         width="92.938248"
+         height="28.56389"
+         x="39.99131"
+         y="128.71475"
+         ry="13.097201" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.5;font-family:'UbuntuMono Nerd Font';-inkscape-font-specification:'UbuntuMono Nerd Font';text-align:center;letter-spacing:0px;word-spacing:0px;text-orientation:upright;text-anchor:middle;fill:#2ebc82;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+         x="86.266403"
+         y="139.53947"
+         id="text4"><tspan
+           id="tspan4"
+           style="font-size:7.05556px;fill:#000000;stroke-width:0.411"
+           x="86.266403"
+           y="139.53947">FileSystem</tspan><tspan
+           style="font-size:7.05556px;fill:#000000;stroke-width:0.411"
+           x="86.266403"
+           y="150.12282"
+           id="tspan6">With Tag</tspan></text>
+    </g>
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="m 105,50.924904 v 11.16213"
+       id="path7" />
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 105,75.97376 V 86.678"
+       id="path8" />
+  </g>
+</svg>
+
+
+
+# 2024-4-26（五）
+
+工作室
+
+- [ ] 设计区，参考区，实践区现有项目补足
+
+大方向
+
+- [x] 吴秋玲沟通（心理咨询）：是的，一方面是心理咨询，另一方面可能还是想争取行动村网页的技术运营。
+
+硬盒
+
+- [x] 档案桌：添加触摸参数调节支持（存在问题）已经解决，由于昨天没有接MPR121导致
+- [x] 整理物料
+
+西湖群山徒步导览
+
+- [x] 添加一些杭州俱乐部
+
+
+
+我没想到自己还会被噩梦惊醒。梦里想起自己在意的「真诚」，那回不去的，让我惊醒需要继续前进。动物就是如此，不动就会死。
+
+我早上又翻到426的视频，想起N年前跟他结缘——不知道他现在在干嘛，靠什么活着。
+
+昨天还想着跟upbeing去聊天，但是早上翻开后又觉得无用。
+
+无论是社会主流，还是创新创业，资金问题永远都是问题。
+
+虽然觉得可能对不起身边的朋友们，但是确实不能一直拉着他们走。找到合作的伙伴可能是最重要的。
+
+我发现每天设计工作内容，并不能带来长远的视野，也不太能进行短期的反思（其实是有帮助的）。
+
+我觉得回到过去吧。那个只对自己有信心的时候——只需要付出自己，而不考虑其他人的所有行动。
+
+
+
+# 2024-4-25（四）
+
+日常生活：看电影（19:30）
+
+硬盒
+
+- 档案桌：
+  - [x] Web工程重新设计
+  - [x] 添加日志支持
+  - [ ] 添加触摸参数调节支持（存在问题）
+  - [x] 硬件焊接：PN5180没有了。
+    - 100nF 快没了
+    - DC接口也没了
+    - 13p弯针需要
+  - [x] 触摸板、LED板子重新下单
+
+工作室
+
+- [ ] 思考城市大脑和 OpenMooc
+
+
+
+# 2024-4-24（三）
+
+硬盒
+
+- [x] 档案桌：Web工程重新设计
+
+艺术设计
+
+- 社会资源的竞争性和垄断性——私人物品、自然垄断品（俱乐部产品）、公共资源、公共物品
+- 公共服务
+- 社会设计可以通过社会整合，促进社会治理，促进社会发展。**社会整合的关键在社会互动和社会认同**。
+
+<svg
+   width="166.61681mm"
+   height="108.77214mm"
+   viewBox="0 0 166.61681 108.77214"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowTriangleStylized"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowTriangleStylized-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path4-8" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-21.691592,-85.636037)">
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.5;font-family:GEETYPE-KaiTiGBT-Flash;-inkscape-font-specification:GEETYPE-KaiTiGBT-Flash;letter-spacing:0px;word-spacing:0px;text-orientation:upright;fill:#000000;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+       x="50.499813"
+       y="94.505676"
+       id="text1"><tspan
+         id="tspan1"
+         style="font-size:11.2889px;stroke-width:0.411"
+         x="50.499813"
+         y="94.505676">社会政策 + 社会工作</tspan></text>
+    <g
+       id="g7"
+       transform="translate(-12.239841,-10.402258)">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.5;font-family:GEETYPE-KaiTiGBT-Flash;-inkscape-font-specification:GEETYPE-KaiTiGBT-Flash;letter-spacing:0px;word-spacing:0px;text-orientation:upright;fill:#000000;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+         x="65.880974"
+         y="126.31314"
+         id="text2"><tspan
+           id="tspan2"
+           style="stroke-width:0.411"
+           x="65.880974"
+           y="126.31314">社会互动</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.5;font-family:GEETYPE-KaiTiGBT-Flash;-inkscape-font-specification:GEETYPE-KaiTiGBT-Flash;letter-spacing:0px;word-spacing:0px;text-orientation:upright;fill:#000000;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+         x="135.7247"
+         y="126.31314"
+         id="text3"><tspan
+           id="tspan3"
+           style="stroke-width:0.411"
+           x="135.7247"
+           y="126.31314">社会认同</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="translate(-19.742134,-10.402258)">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.5;font-family:GEETYPE-KaiTiGBT-Flash;-inkscape-font-specification:GEETYPE-KaiTiGBT-Flash;letter-spacing:0px;word-spacing:0px;text-orientation:upright;fill:#000000;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+         x="41.113686"
+         y="161.16856"
+         id="text4"><tspan
+           id="tspan4"
+           style="stroke-width:0.411"
+           x="41.113686"
+           y="161.16856">社会治理</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.5;font-family:GEETYPE-KaiTiGBT-Flash;-inkscape-font-specification:GEETYPE-KaiTiGBT-Flash;letter-spacing:0px;word-spacing:0px;text-orientation:upright;fill:#000000;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+         x="107.651"
+         y="161.20943"
+         id="text5"><tspan
+           id="tspan5"
+           style="stroke-width:0.411"
+           x="107.651"
+           y="161.20943">社会整合</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.5;font-family:GEETYPE-KaiTiGBT-Flash;-inkscape-font-specification:GEETYPE-KaiTiGBT-Flash;letter-spacing:0px;word-spacing:0px;text-orientation:upright;fill:#000000;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+         x="174.36166"
+         y="161.14769"
+         id="text6"><tspan
+           id="tspan6"
+           style="stroke-width:0.411"
+           x="174.36166"
+           y="161.14769">社会发展</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.5;font-family:GEETYPE-KaiTiGBT-Flash;-inkscape-font-specification:GEETYPE-KaiTiGBT-Flash;letter-spacing:0px;word-spacing:0px;text-orientation:upright;fill:#000000;fill-opacity:0.907752;fill-rule:evenodd;stroke-width:0.411001"
+       x="82.61927"
+       y="193.1848"
+       id="text7"><tspan
+         id="tspan7"
+         style="font-size:11.2889px;stroke-width:0.411"
+         x="82.61927"
+         y="193.1848">社会设计</tspan></text>
+    <path
+       style="fill:none;fill-opacity:0.907752;fill-rule:evenodd;stroke:#000000;stroke-width:0.373379;stroke-opacity:1;marker-start:url(#ArrowTriangleStylized)"
+       d="m 40.536017,156.44299 c 42.168692,36.22347 42.574549,32.90603 42.574549,32.90603"
+       id="path8" />
+    <path
+       style="fill:none;fill-opacity:0.907752;fill-rule:evenodd;stroke:#000000;stroke-width:0.411001;stroke-opacity:1;marker-end:url(#ArrowTriangleStylized)"
+       d="M 105,182.12319 V 155.85542"
+       id="path9" />
+    <path
+       style="fill:none;fill-opacity:0.907752;fill-rule:evenodd;stroke:#000000;stroke-width:0.411001;stroke-opacity:1;marker-end:url(#ArrowTriangleStylized)"
+       d="m 126.954,189.36166 44.66999,-34.89137"
+       id="path10" />
+    <path
+       style="fill:none;fill-opacity:0.907752;fill-rule:evenodd;stroke:#000000;stroke-width:0.420735;stroke-opacity:1;marker-start:url(#ArrowTriangleStylized);marker-end:url(#ArrowTriangleStylized)"
+       d="m 58.22178,147.77677 26.621001,2e-5"
+       id="path11" />
+    <path
+       style="fill:none;fill-opacity:0.907752;fill-rule:evenodd;stroke:#000000;stroke-width:0.420735;stroke-opacity:1;marker-start:url(#ArrowTriangleStylized-5);marker-end:url(#ArrowTriangleStylized-5)"
+       d="m 124.99644,147.77678 26.621,2e-5"
+       id="path11-0" />
+    <path
+       style="fill:none;fill-opacity:0.907752;fill-rule:evenodd;stroke:#000000;stroke-width:0.411001;stroke-opacity:1;marker-end:url(#ArrowTriangleStylized-5)"
+       d="m 70.37535,119.60227 34.53163,21.40001"
+       id="path12" />
+    <path
+       style="fill:none;fill-opacity:0.907752;fill-rule:evenodd;stroke:#000000;stroke-width:0.411001;stroke-opacity:1;marker-end:url(#ArrowTriangleStylized-5)"
+       d="m 139.92186,119.42759 -35.01488,21.57469"
+       id="path13" />
+  </g>
+</svg>
+
+工作室
+
+- [ ] 组建社会设计社群？明确周六安排，考虑是否先在上午去跟美院同学会面。
+
+
+
+# 2024-4-23（二）
+
+硬盒
+
+- [x] 红外触摸方案：接收LED（七天）（结构、搭建、测试）确实是模拟的。
+- [x] 修改算法，网络查看触摸参数
+
+技术实现：
+
+- 磁交互装置
+  - [x] 下单电路和外围元器件
+
+文化表达：
+
+- [ ] ~~「如何窃取他人的劳动成果」：咨询柯大美女，活动可行性~~
+- [ ] ~~「接受与改变」：咨询九五一安排~~
+
+西湖群山徒步导览
+
+- [x] 制作手册
+
+日常生活
+
+- [ ] ~~计划五一~~
+
+人本研究
+
+- 新工科教育
+  - 如何和工作室的范畴结合？是否有参考？是否仍然有不足？
+
+工作室
+
+- 绘制图表：新工科与工作室关系
+
+
+
+# 2024-4-22（一）
+
+硬盒
+
+- [x] 红外触摸方案：接收LED（七天）（结构、搭建、测试）
+- [x] 修改算法，网络查看触摸参数
+- [ ] ~~结构件下单~~ 不下单
+
+文化表达：
+
+- [x] 五一前，设计思维工具包，「如何窃取他人的劳动成果」，认知实验室—《神游八方》；如品牌，如滴滴打车平台
+  - 设计思维工具包：「我想窃取（具体什么劳动果实）」、「我的经验（能窃取什么劳动果实）」、「我要质疑（Anything）」
+  - 引言：音乐被抄袭，艺术理念被剽窃，品牌被盗用，项目成果被转移...为什么别人可以成功窃取我的劳动成果，而我只能任人宰割？俗话说，打不过就加入！在这个特殊的日子，我们一起学习窃取他人劳动果实的方式方法和特殊技巧。我们将邀请专业律师对各位的“专业手法”进行专业的可行性评估！
+  - 活动流程：相关视频播放（年会不能停、学生作业）；活动介绍、规则介绍、发起人介绍；借用工具包，自我介绍并记录感兴趣的问题（需要Example）；开放讨论；活动总结收尾
+  - Example：我是做xxx的，如何不劳动赚大钱；问大家的职业，询问有没有可能窃取同事的劳动成果；
+- [x] 五四青年节，「接受与改变」，感知不同青年的困境，感知实验室—《千变万化》
+  - 活动流程：徒步聊天？跟「西湖群山徒步导览」联动？
+
+技术实现：
+
+- 磁交互装置
+  - [x] 询问 JLC FPCB下单，和补强层如何提示：需要在丝印层显示，并最终截图打包上传。
+  - [x] 下单芯片
+
+工作室：
+
+- [x] 思考以开放社群为目标的工具平台（日本社团经验）
+
+- 招募几个人进行一次自我的纪录和分享，验证「空间」产品的体验、需求、设计方案
+
+
+
+# 2024-4-21（日）
+
+西湖群山徒步导览
+
+- [ ] ~~部署手册~~
+- [ ] ~~沟通创业安排~~
+  - 为什么需要沟通？沟通什么？
+    1. 身份问题：烧酒作为投资人，投资的是从硬盒离职的退路？还是自己的理想？两者是不一样的。
+    2. 上面的问题会更涉及到多方面问题，如果是理想，那么理想是什么？如果不是理想，或者理想还不够具体，那么这次「投资」对烧酒而言收获了什么？
+    3. 面对当下沟通不畅的根本原因和根本问题是什么？不清不楚才是问题。所有人都有自己不同的想法，如果我们没有合资工作室，如果我们好像没有共同的理念和方向，我们不会有相交，这是清楚的。所谓的沟通，更多是对他人有需求。
+- [x] 再尝试设计：用A6透明活页夹，算是成功制作出一本了。
+
+技术实现：
+
+- AI 镜子
+  - [x] 再次沟通需求：无进度。
+  - [x] 找寻技术方案：感觉还是先用麦克风实现。唤醒词 + Web Audio
+
+- 磁交互装置
+  - [x] 设计电路
+- CH552电路：已经下单，已经采购物料
+
+
+
+# 2024-4-20（六）
+
+咨询（食见未来）
+
+- [x] 项目启动会（线下）
+- [x] 咨询恩派情况（还有初善）：大家都苟着。
+
+工作室
+
+- [ ] ~~商业计划书：创新创意工作室（6.30截止）~~
+
+- 变更逻辑，回归战略逻辑。
+- 硬盒那边，走的理由包括了之前旧硬盒、沟通不畅、组织杂乱，对个人来说确实无法再以初心审视当下的工作，已经开始出现明显的敌意了。但是我个人又需要硬盒的工作。刚入职没多久，我不是六点走吗，然后说我必须要六点半走。那我这里就提一点，要求灵活办公，而且工资要能匹配市场上嵌入式开发5年工龄的最低工资 15000。这是第一要求，还能谈。
+- 第二要求，在双方同意第一要求的前提下，明确公司战略方向和执行策略。
+- 如果谈崩了，双方不同意，那么我只好找下家。再找一下类似的独立工作室。
+
+~~初善~~
+
+- [ ] ~~社会活动（全天）~~
+
+
+
+# 2024-4-19（五）
+
+西湖群山徒步导览
+
+- [x] 物料下单打印
+- [x] 制作成品：太难看了，等明天JW制作情况吧
+- [ ] ~~问佳雯要小红书链接~~
+
+- 豆豆的言论让我感到不舒服，她的本意是觉得这个项目完全没有「共创」的过程，好像完全就是我一个人在做，是一种独裁。我觉得事实也不用去争辩，这是目的上认识的区别，豆豆可能更在意过程，更在意社群活动过程的体验，她本身就对结果没有什么期待。
+
+工作室
+
+- [x] 整理工作室
+
+- 什么是共创。我们说共创是一个团队共同创造某个事物。那这么说，我们企业难道不也是共创吗？那为什么共创却被社会设计相关的组织提起，而少被企业提起呢？为什么又有那么多参与共创的人最终没能承认其参与了某共创项目呢？为什么又有那么多共创项目却最终没有结果呢？
+
+  首先，共创很难，就跟企业一样，想要集中人力办事都是一件难事。这其中的认知偏差更来自于「实践者」与「认知者」的差距，看客可以随意的发表评论，但实践者却要对实践和产出负责。我们说人与人的不理解也好，拿来主义不尊重实践也好，都是一样的。
+
+  其次，「共创」当下被社会认识为一种社会底层合作模式——所有人零成本投入，以期望获取高价值的产出。甚至在中国这个特殊环境下，不少人会选择参与共创项目给自己贴金，所谓的共创项目对他们来说只是一个无所谓结果的过程。
+
+  我自认为很幸运的了解到Github，也从事相关计算机行业工作，逐渐意识到了共创的问题，组织的问题。为什么Github这个共创平台能影响世界？为什么没有直接经济利益驱动的论坛、贴吧能产出优质的内容？为什么社会组织有经济利益驱动却还是没有一个好的结果？我觉得我们必须要重新认识共创。
+
+- 共创不是大家一起做，是自己做的同时，看看有没有别人也在做。
+
+- 共创不是零和博弈，是共建共享。
+
+- 共创不全是和睦，也有竞争和利益冲突。
+
+硬盒
+
+- [x] 红外触摸方案，设计 CH552 辅助型电路
+  - [x] 验证软件I2C
+
+浙大交互项目
+
+- [x] 进度同步
+
+咨询（食见未来）
+
+- [x] 修改PPT
+
+
+
+# 2024-4-18（四）
+
+西湖群山徒步导览
+
+- [x] 设计完成
+- [x] 文案审核
+
+咨询（食见未来）
+
+- [x] 绘制PPT（交稿）
+
+技术实现
+
+- 两组排针，边缘到边缘10mm，可以横跨面包板
+
+硬盒
+
+- [x] 红外触摸方案，点亮LED（三天）
+  - 接收LED（七天）（结构、搭建、测试）
+  - 设计方案（七天）（AD采样、算法设计）
+- [x] 档案桌：
+  - 明确迭代方案：啥都不改，直接下单
+    - 3D打印件-转盘抬高下单
+    - 3D打印件-主轴修改下单
+    - ~~3D打印件-槽修改下单~~
+    - 转盘支撑轴下单
+  - ~~根据无线充电方案，明确无线触摸反射方案~~
+
+
+
+# 2024-4-17（三）
+
+西湖群山徒步导览
+
+- [x] 测试成品效果，包括硬值纸板封面：打孔机打不了硬纸板
+- [x] 笔下单
+
+咨询（食见未来）
+
+- [ ] 绘制PPT（交稿）：从调查，到结构化数据，到内容提取，再到可视化呈现，其中种种连贯，确实需要设计计划以及技术辅助。
+- [x] 访谈：我完全不知道我应该说什么；老师们人都很好。
+
+技术实现
+
+- [x] 学习 UE：[lyra](https://github.com/google/lyra)，Google开源的射击游戏母版
+
+浙大交互项目
+
+- [ ] ~~磁性增强材料~~
+
+硬盒
+
+- 可以分一下几个原因：不留下的原因，从硬盒的角度，从自我的角度；
+  - 硬盒的好：创意产品，创新设计与商业化；
+  - 硬盒的不好：制度与管理、低信任度、低归属感；
+  - 自我的好：我重视设计也重视技术；我将社会创新作为人生目标；
+  - 自我的不好：
+    - 行为发散难以被人理解，在商业企业环境下会做出许多意料之外的事情；
+    - 得追求普世意义上的成功，我也得追求地位和经济这种普世意义上的成功；
+- [x] 红外触摸方案
+- [x] 档案桌迭代
+
+
+
+# 2024-4-16（二）
+
+咨询（食见未来）
+
+- [x] 绘制PPT：需要明确方向是否正确。
+
+磁感应电路
+
+- [x] 方案验证：二极管没焊
+
+工作室
+
+- [x] 创新创意产品的一般研发流程
+
+
+
+# 2024-4-15（一）
+
+工作室
+
+- [x] 带便签
+- [x] 采购磁铁（长条形）
+
+德稻
+
+- [x] 反正最后都要移交给中亚，那干脆早点技术交接
+- [x] 技术交接
+
+- 公司上头的矛盾最终会落到底层人头上，这SB公司，SB领导层。
+
+~~技术实现~~
+
+- [ ] [~~stream-whisper~~](https://github.com/ultrasev/stream-whisper) 测试
+  - PyAudio
+  - [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
+  - Webrtcvad：静音检测
+
+西湖群山徒步导览
+
+- [x] 继续绘制导览
+
+人本研究
+
+- [ ] ~~策划活动——如何窃取劳动成果（劳动节特辑）~~
+
+LED 电压指示灯
+
+- [x] 原理验证：有一点问题已经标记了
+
+档案桌
+
+- [x] 维修桌面抖动问题
+- [x] 当前存在误触问题
+
+咨询（食见未来）
+
+- [x] 访谈提纲：良食基金（主）
+
+
+
+# 2024-4-14（日）
+
+咨询（食见未来）
+
+- [x] 团建：10:00～17:00
+  - 真实当下的自己、静心
+  - 了解食物，感受生命
+  - 食物的制作是存在危险的
+  - 杭州三生谷
+    - [我要吐槽三生谷（上）：5日亲子夏令营后感](https://mp.weixin.qq.com/s/l7rJdtmesZ7aobnZHFOSGg)
+- [x] 社会调查研究院
+
+西湖群山徒步导览
+
+- [x] 制作导览
+- [x] 活页圈
+
+
+
+# 2024-4-13（六）
+
+西湖群山徒步导览
+
+- [ ] 采购 活页圈
+
+工作室
+
+- [x] 根据商业计划书，构思创业方向，不足之处和补足办法；几个方向都更好的进行了思考，但是现在问题是**商业计划书**
+  - 计划做这个——下层：创新创意工作室
+
+技术实现
+
+- [x] 了解AI配音
+
+咨询（食见未来）
+
+- [x] 下午2:00～3:00会议
+
+艺术设计
+
+- [x] 东山集活动下午2:00～5:00
+  - 食育相关内容：
+    - 借由吃来感受自己和世界
+    - 可食社区
+    - 台湾生态村 
+  - 社会设计相关：
+    - 口述史，茶室是一个很好的地方
+    - 不做活动很难量化
+    - 科普可以商业化
+    - [妳想煮意Festyle](https://www.festyle.hk/)（社会创新案例）
+
+基本生活
+
+- [ ] [台湾电影《孤味》，拍出中国家庭的隐痛](https://mp.weixin.qq.com/s/5t3DgrbJe-aqqOw-IiJKLQ)
+
+
+
+# 2024-4-12（五）
+
+咨询（食见未来）
+
+- [x] 根据要求，过滤并整理调研信息
+- [x] 准备访谈问题
+
+工作室
+
+- [x] 解决锡膏没头的问题
+- [x] 缺剪刀
+- [x] 缺尺子/电池
+- [x] AI魔镜项目 （/月）
+  - 场地租赁（4000）
+  - ~~人员工资（15000+）*3~~
+  - 开发设备一套（3070电脑+屏幕，10000）
+  - 结构搭建（？，3000/套）
+  - ~~差旅~~
+  - AI 软件服务（2000）
+  - 总计：`4000 + 10000 + 3000*2 + 2000 = 22000`
+
+技术实现
+
+- [x] 磁感应电路修改：LM324 4路运算放大器
+  - 采购LM324 和 贴片二极管
+
+
+
+# 2024-4-11（四）
+
+咨询（食见未来）
+
+- [x] 搜寻方向：https://www.goodfoodchina.net/zh/actionhub
+- [x] 阅读中国食育2021发展报告：[食育网](https://www.foodeducation.cn/)
+
+西湖群山徒步导览
+
+- [x] 绘制具体导览：太慢了，周六要出来明天得去打印了
+
+艺术设计
+
+- [x] 速写练习（地铁上）：太随便了，无法静心去绘画
+
+工作室
+
+- [x] 采购
+  - 元器件本
+  - 0402/0603电阻排阻
+  - 49E霍尔传感器
+  - ~~MMC5603NJ霍尔传感器~~（太贵）
+  - USB-C/Micro-USB
+- [x] 把5050LED带回来一些
+- [x] 检查锡膏情况：没头
+
+
+
+# 2024-4-10（三）
+
+咨询（食见未来）
+
+- [x] 晚上9:00品牌会议
+
+西湖群山徒步导览
+
+- [x] 会议
+- [x] 素材找寻：路、建筑、标识物
+- [x] 把地图打印出来
+
+技术实现
+
+- [x] 确认FPC转直插板子：FPC转直插板子不在需要重新采购
+
+艺术设计
+
+- [x] 杀死那个充满创意的人
+
+工作
+
+- [x] 整理报销
+
+今天yoogle跟我聊。正好帮我确认了一些事情。
+
+1. 我的人生职业诉求是成为设计师去做自己想做的产品。
+2. 我的根本职业诉求是做好的产品。
+
+
+
+# 2024-4-9（二）
+
+工作室
+
+- [x] 了解初善创投：组织创新方向，可以搞，创投，可以投。现在缺详细的项目计划书和开发人员。
+- [x] 晚上7:30 线上聊
+- [x] 采购硫酸纸
+
+咨询（食见未来）
+
+- [x] 根据昨天定的不足之处，思考搜索方向和案例
+  - 搜寻方向：https://www.goodfoodchina.net/zh/actionhub
+- [x] 晚上9:00会议
+
+艺术设计
+
+- [x] [温暖人心的12款——“无障碍”设计！](https://mp.weixin.qq.com/s/ukzB1TbDD7yBKTULWQKJCQ)：设计类的内容需要分类，日后都可以存数据库，感兴趣的；待理解的；待尝试的。
+
+技术实现
+
+- 支持 FBX 渲染，FBX 体积会大一点，适合高质量渲染；GLTF 体积小，适合网络传输。要注意FBX导出最好应用修改器。
+
+西湖群山徒步导览
+
+- [x] GIS测试：失败，不会用啊
+- [x] 合页测试
+
+红外触摸方案
+
+- [x] 方案理解：他们红外发射管，用 HC138、HC164实现单个控制；红外接收管，用HC164实现组激活，8个一组进行读取；发射是绝对单个发射的，接收时是八个一组接收的，比如如果两个模块连一起，那么其实两个模块的前八个都是短接的。 
+
+  需要注意的是，他们的红外读取是模拟的。电路还有 HC4051 8选1；4052 双路 4选1 两个； 2502 双路运算放大器两个
+
+
+
+# 2024-4-8（一）
+
+咨询（食见未来）
+
+- [x] 整理调研的不足之处
+  - 其他地区的食育进校园活动案例
+  - 其他地区的食育实践活动
+  - 非食育的其他课外活动引入，我记得有个第三方教师中介来着的
+
+西湖群山徒步导览
+
+- [x] 页面设计方案选择、模拟练习：要么用ink画矢量图，要么用procreate画手绘。现在手绘还不熟练，也得多找找元素参考。
+
+呈现计划
+
+- 发现一写一些给别人看的文章就不会写字了。慢慢写吧，多练练。
+- [x] 回顾呈现的渠道
+
+人本研究
+
+- [x] 读书会方案设计
+
+艺术设计
+
+- 今天看了Voicer的推文，配的一些图片，艺术性确实得多练习。
+
+- [x] 打印[美图](https://mmbiz.qpic.cn/mmbiz_jpg/bdP0FjwqAibNmTOcMaaib6dTVzBK6tSecqb3sj0SnY4HpMCDQWTgMJgdeZsDDUzjY2I3ickcrNQhw1lL2xY09eMJQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+- [x] 采购美纹纸 + 回形针 + 磁铁
+
+技术实现
+
+- [x] 考虑电压指示器实现
+  - 电路绘制好了；有几点不足：LED范围太小，相比全电路而言，PCB就很大了。拓展性也不是非常好。
+  - 这个电路其实非常简单，但是我没有LM339，而且要贴片。所以需要补充一点LM339。
+- [x] 了解超声波刀头技术实现
+
+工作室
+
+- [x] 检查 LM358 和 LM339 存货情况
+
+
+
+# 2024-4-7（日）
+
+咨询（食见未来）
+
+- [x] 继续外部整理，产品包的内容
+
+技术实现
+
+- [x] 磁性感应装置
+  - 方案设计完成
+  - [x] 检查元器件
+
+艺术设计
+
+- [x] 照片裁切练习并发表
+
+
+
+# 2024-4-6（六）
+
+人本研究
+
+- [x] 万松书院调研：早上9:00～11:00，万松书院7:00开门
+
+西湖群山徒步导览
+
+- 后续工作内容
+  - [x] 采购打孔设备和合叶环
+  - [x] 选择并采购绳子
+  - [x] 数字化设计：InkScape
+
+咨询（食见未来）
+
+- [x] 继续整理
+
+工作室
+
+- 综合来看现在全职投入还是不够可持续，还是应该用业余时间孵化。但是大方向应该还是对的——不是不能做，只是非常难。
+
+
+
+# 2024-4-5（五）
+
+日常生活：晚上回杭州
+
+咨询（食见未来）
+
+- [x] 外部调研整理：当前目标一方面是得出自己的答案，另一方面是有选择的向团队输出
+
+工作室
+
+- 现在需要有一款可持续的核心产品，可供选择的方向有：
+  - 云平台：Upbeing、GitHub For Social Innovation、Hackday
+  - 功能软件：Typora、GitHub For Social Innovation
+  - 创意硬件：（A Lot......）
+
+- 现代人的压力也太大了。说给自己说是不够上进，对数上级来说却是压榨的根本。
+- 我感觉沟通真的非常困难。无论是现在公司，还是ABC。
+
+
+
+# 2024-4-4（四）
+
+西湖群山徒步导览
+
+- [x] 头脑风暴，进一步细化导览除内容外的设计细节。
+  - 纸张大小以无印双环笔记本大小为参考
+  - 基本确定用打孔合叶的方案了
+  - 笔打算用多彩色的，然后用绳子绑起来
+  - 内容今天也有简单设计了，后续要做的是数字化编辑
+
+人本研究：
+
+- [x] 万松书院相亲局
+
+艺术设计：
+
+- [x] 706自习室：为自我成长寻找可持续的空间
+
+咨询（食见未来）
+
+- [x] 会议（21:00～22:00）：跟食物、可持续的一些奖项、评奖、背书等；农场端和学校端；沟通比较被动，没有达到客户的刚需，还是客户对食育的认知也在不断成长。
+
+  跟九阳、益点田信息同步。
+
+  不熟悉市场，有一点傲慢在里面。有一点理想在。
+
+  内部讨论，客户问题收集，内部不动摇。不用严谨。
+
+日常生活：
+
+- 昨天开车回来遇到两个需求，一个是职校、一个是货车手机位置和交互问题。
+
+
+
+# 2024-4-3（三）
+
+日常生活：
+
+- 晚上回老家过清明
+- [x] 整理wx收藏和《读书》内容：需要持续整理
+
+万松书院调研
+
+- [x] 明确目标，设置调研内容
+
+技术实现
+
+- [x] 下推式磁悬浮方案深化
+  - [x] 整理第一版本的元器件
+  - [x] 抄板理解第二版本电路原理
+- [x] 学习UE：构建框架，学习基本界面操作——[初识虚幻引擎5.2课程介绍](https://dev.epicgames.com/community/learning/courses/QRY/unreal-engine-5-2/pv1G/unreal-engine-5-2)
+
+大方向
+
+- [x] 就业问题：究竟是继续走技术路线还是换路线？——明确现阶段路线是追求经济可持续。
+
+
+
+# 2024-4-2（二）
+
+技术实现
+
+- [x] [学习 UE](https://dev.epicgames.com/community/learning/tutorials/OR8/beginners-intro-to-ue5-create-a-game-in-3-hours-in-unreal-engine-5)
+
+咨询（食见未来）
+
+- [x] 从现有国内食育供应商反向寻找产业链情况：凡朴农场、野趣童年、野声 WildBound、Keru 课儒
+- [x] 从国外相关食育机构寻找产业链情况
+
+西湖群山徒步导览
+
+- [x] 清理一些选品采购的TODO：打孔机+合叶环
+
+  导览的太多东西没有定下来，还是得头脑风暴一波。
+
+万松书院调研
+
+- [x] 设计海报
+
+大方向
+
+- [x] 思考如何和 upbeing 合作，现在是渠道方；持续关注，渠道共享吧。
+- [x] 思考如何和 自习室合作，已经表明我的态度了。后续发群里做提案吧。
+
+
+
+# 2024-4-1（一）
+
+环幕桌
+
+- [x] 电路板制作 & 测试
+
+咨询（食见未来）
+
+- [x] 思考非同质化项目的商业模式参考
+  - 学校采买的逻辑
+  
+  - 研学基地的逻辑
+  
+    政府侧找到了招标文件，也找到了具体公司，但是资料还是比较少。
+  
+    研学侧没有找到具体招标文件。感觉得从供应商反向寻找。
+  
+    感觉需要去国外相关机构寻找合作方式了。
+
+西湖群山徒步导览
+
+- [x] 产品设计思考，同大方向进行结合考虑
+
+大方向
+
+- [x] 挑选并进一步完善部分项目，了解行动村的模式和核心利益
+
+
+
+# 2024-3-31（日）
+
+- [x] 工作室：活动，~~编写技术说明文档~~ 不修改了
+
+咨询（食见未来）
+
+- [x] 晚上开会，案例
+
+人本研究
+
+- 本周最佳话：特种兵也得吃我炊事班烧的饭呐。
+
+大方向
+
+- [x] 继续思考后续安排，以创业项目为重点。
+  1. 设计项目，以项目寻求行动村支持。
+  2. 在获取行动村支持后，向硬盒提出离职。
+  3. 设计社会项目，扩大社群和社会影响力，开始步入社会项目循环过程
+     - 此过程会以社会创新设计为主导，ABC项目和定制开发项目、咨询项目等为辅
+  4. 借社群进一步发展社会技术共创，最终通过技术沉淀自身核心产品
+
+
+
+# 2024-3-30（六）
+
+
+经济关系：
+
+- [ ] ~~深入理解NESTA~~
+
+人本研究
+
+- [x] 继续完善分析内容
+
+艺术设计
+
+- [x] 参与东山集活动（14:00～17:00）
+- [x] 图书馆下载文献（装饰、美术研究、社会创新等）
+
+咨询（食见未来）
+
+- [x] 整理资料，拟提炼出~~内部能力（目标和实践能力）~~和社会相似行动者、利益相关者
+- [x] 整理访谈内容
+
+
+
+# 2024-3-29（五）
+
+咨询（食见未来）
+
+- [x] 打印PPT，充分理解内部能力（目标和实践能力）、假设外部需求（战略目标对象的一般需求），考虑社会动机（战略目标对象的相关需求），利益相关者的核心需求等，反思到产品包需求。
+
+技术实现
+
+- [x] 磁悬浮电路实现：先实现下拉式的
+  - [x] 阅读并理解电路
+  - [x] 抄电路板
+- [x] 视频播放器产品调研：设计数字电路视频播放器
+- [x] ESP-S2 USB-HID测试：lolin_s2_mini板子，`Adafruit TinyUSB Library`
+
+人本研究
+
+- [x] 模拟商业分析的内外部分析，重新思考个人需求和外部合作方的合作模式。重点一，明确自身需求和能力；二理解合作的基础，并进一步分析合作基础上的其他需求点。
+
+
+
+# 2024-3-28（四）
+
+西湖群山徒步导览：
+
+- [x] 根据现有资料进行第一轮初步设计；明确不足和内容
+- [x] 需要了解合叶制作工艺
+
+PlanAlluvial
+
+- [ ] ~~设计网页（侧边栏文件导航）~~：学习JS组件设计——Menu
+
+草台
+
+- [x] 完善项目描述
+- [ ] ~~根据反馈修改描述~~：突然觉得想的太多了，现在可以先不用完善草台，还是先以培训外化的角度进行实践学习。
+
+咨询（食见未来）
+
+- [x] 阅读资料，总结关键词和重点内容，为双休日详细调查和深入理解做准备（晚上）
+
+现在的情况，一方面觉得食见未来进度缓慢，把握不到要领；另一方面浙大项目延期，以及本职工作得不到提升和成长；最后就是工作室，虽然说是练习，但还是参与度不高，未来无期。
+
+首先，工作室的项目还是得做，**自我的重点可以放在艺术练习上，全流程把控**。落地时间很有可能是4月13日（因为中间都要上班），当然也有可能是交给烧酒去完成落地。
+
+工作室的核心问题还是可持续。原本的需求是做练习空间用的，现在烧酒重心转移，还是没有一个核心能让她定在这里——因为这是工作室的下一步，而不是第一步。
+
+当前阶段，工作室用于沉淀和实验。下一步则是在沉淀和实验的基础上开拓业务。
+
+> 突然发现跟硬盒的劳动合同是到25年的7月份。
+
+我自己究竟想做什么。自己的又如何变成别人的。我在烦恼什么呢。
+
+我觉得我好想在苦恼烧酒作为合伙人所能给予的帮助太少，甚至如果作为合伙人在专业和精力上的投入也有限。换句话说，究竟什么才是好的合作，我一直没能得到答案。
+
+从市场而言，互利是合作的根本。如何实现互利，商业的做法是沟通进而达成阶段性共识。但是实际上还有其他的路径——跨时空的付出与回报。
+
+认真做自己的事情吧。在硬盒太伤人了。必须要脱离硬盒，恢复一些过去的精神，一种奉献精神。
+
+
+
+# 2024-3-27（三）
+
+咨询（食见未来）
+
+- [x] KO会议——准备访谈提纲、参与访谈
+
+草台：
+
+- [x] Git/MD教学方案——进一步搜集资料
+
+  只设计课程非常简单，但是课程有课程之外的内容。标准课程包括了课件、教材、问题和路径。
+
+  教材，就是Git、Github的使用方式；课件就是我所准备的内容；而问题是什么，路径又是什么。
+
+- [x] 成本估算
+
+  - 场地费（包含网络、电费）：200（市场价）
+  - 讲师费：100～1000/小时，预计2小时
+  - 讲师交通费：按实际报销
+  - 讲师餐饮费：50以内
+  - 物料费：水2元/人
+  - 运营费：总费用抽10%
+  - 利润占比：总费用抽10%，（商业30%～50%）
+  - 总成本：
+    - 按照100块钱每小时计算，`(200+200+50+20)/80*100 = 587.5`，其中运营费58.75，利润58.75，按5招募人算，人均成本 <u>117.5</u>
+    - 若按照最低标准计算，去除场地费和餐饮费和利润，`(200+20)/90*100 = 245`，按招募5人算，人均 <u>49</u>
+  
+- [x] 项目描述
+
+西湖群山徒步导览
+
+- [x] 寻找素材
+
+技术实现
+
+- [x] ~~CH552 编码器（电路和软件）~~ 只有下降沿触发放弃；但是ESP-S2可以支持USB设备，买回来试一下
+
+
+
+# 2024-3-26
+
+硬盒
+
+- [x] 明确档案桌是~~米塑档案桌~~ 非地档案桌
+  - [ ] ~~设计并实现 CH552 编码器~~
+  - [x] 准备RFID读卡器
+- [x] 重新制作转盘：需要优化转盘
+- [x] 修改德稻模型，准备下单
+
+咨询（食见未来）
+
+- [x] 咨询周冉，关于访谈的技巧，关于访谈的红线
+
+草台：
+
+- [x] Git/MD教学方案
+  - 重新尝试 LFS
+  - 框架
+
+
+
+# 2024-3-25
+
+草台：Markdown 与 Git 协作实践教学计划
+- [x] 验证 Github 的 LFS 模式
+
+咨询（食见未来）
+
+- [ ] ~~KO会议准备~~：准备加入A/C组，了解真实需求
+
+西湖群山徒步导览
+
+- [x] 设计成品（PAD）：明确设计成品内容和方法
+- [x] 建立项目仓库
+
+技术实现
+
+- [x] 了解磁悬浮原理：有开源资料，无MCU，纯电路
+- [x] 询问浙大同学项目进度
+- [x] 暂时归档 TinyML 资料
+
+PlanAlluvial
+
+- [x] 设计网页（侧边栏文件导航）
+
+工作室
+
+- 会议（3-25，周一）：Normal-日常、可线上；Major-重要内容，推荐线下，需要资料辅助说明；New-新内容，线下；Minor-不重要，有时间就提
+
+  | 类型   | 内容                                     |
+  | ------ | ---------------------------------------- |
+  | Normal | 成员一周大致安排                         |
+  | Normal | 「群山导览」项目进度同步与后续安排       |
+  | Major  | 工作室项目管理方案                       |
+  | New    | 「草台」共学/教学计划 —— **git md 教学** |
+  | Minor  | 「Plan Alluvial」                        |
+
+
+
+# 2024-3-24
+
+西湖群山徒步导览
+
+- 早10点爬山，路程拍照，路上咨询
+- [x] 整理访谈资料
+- [x] 设计方案
+
+- 开放社群还是需要「公告」来进行「定位」的
+
+
+
+# 2024-3-23
+
+日常生活：图书馆看书
+
+咨询（食见未来）
+
+- 下午14:30-17:00启动会（PM需13:30）
+
+基本生活
+
+- 晚上6点去吃大餐
+
+
+
+# 2024-3-22
+
+咨询（食见未来）
+
+- 晚8点会议
+
+技术实现
+
+- TinyML：带磁铁、固体胶；测试磁铁
+
+
+
+# 2024-3-21
+
+技术实现
+
+- [x] TinyML：带磁铁、固体胶
+
+咨询（食见未来）
+
+- [x] 了解客户
+
+西湖群山徒步导览
+
+- [x] 深化方案（问卷&设计）
+
+Plan Alluvial
+
+- [x] 商业宣传计划
 
 
 
