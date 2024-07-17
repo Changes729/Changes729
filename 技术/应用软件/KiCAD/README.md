@@ -6,6 +6,8 @@
 > - [KiCad-9分钟速成系列](https://www.bilibili.com/video/BV12J411z7j7?spm_id_from=333.337.search-card.all.click)
 > - [技术指导：下单前技术员必看](https://www.jlc.com/portal/server_guide_112.html)
 > - [Kicad6.0中使用立创EDA导出的封装和3D模型](https://zhuanlan.zhihu.com/p/576608333)
+> - [KiCad Library Conventions](https://gitlab.com/kicad/libraries/klc)：KLC，Kicad 规范指北
+> - [Custom design rule examples](https://docs.kicad.org/8.0/en/pcbnew/pcbnew.html#custom_design_rule_examples)：自定义 DRC
 
 # KiCAD
 
@@ -56,3 +58,4 @@
   - V：90%
   - H：50%
   - 曲线点（10）
+

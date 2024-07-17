@@ -4,7 +4,11 @@
 
 # 数学
 
-线性代数
+**抽象代数、拓扑学、泛函分析**是整个现代数学科学的主体部分。
+
+
+
+## 线性代数
 
 > 参考资料：
 >
@@ -30,9 +34,19 @@ $e^{ix} + 1 = 0$
 
 
 
+## 泛函分析
 
+[卷积](https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%A7%AF)：$$\displaystyle (f*g)(t)\triangleq \int _{-\infty }^{\infty }f(\tau )g(t-\tau )\,\mathrm {d} \tau $$
 
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Convolution3.svg/468px-Convolution3.svg.png)
 
+![img](https://upload.wikimedia.org/wikipedia/commons/6/6a/Convolution_of_box_signal_with_itself2.gif)
+
+- 离散卷积：$$\displaystyle (f*g)[n]\ \ \triangleq \ \sum _{m=-\infty }^{\infty }{f[m]g[n-m]}=\sum _{m=-\infty }^{\infty }f[n-m]\,g[m]$$
+
+  ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Konvolutsioon.png/200px-Konvolutsioon.png)
+
+- 多维离散卷积：[一维卷积与多维卷积概念介绍](https://www.jianshu.com/p/7eb0fa5517c0)
 
 
 

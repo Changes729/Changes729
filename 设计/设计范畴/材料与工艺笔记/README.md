@@ -43,4 +43,6 @@
   - [硫酸纸](https://item.taobao.com/item.htm?ali_refid=a3_430582_1006:1103943246:H:wXuiVluyiqjMcOtVU4e0dg==:795cf48fd7a3de6987553cdf507fa853&ali_trackid=282_795cf48fd7a3de6987553cdf507fa853&id=18076064925&skuId=4008990831376&spm=a21n57.1.0.0)
   - [道林纸](https://detail.tmall.com/item.htm?abbucket=19&id=634669349443&ns=1&skuId=4714433443871&spm=a21n57.1.0.0.5d95523cIvOJH5)
   - [蒙肯纸](https://item.taobao.com/item.htm?abbucket=19&id=619781677673&ns=1&skuId=4819013900777&spm=a21n57.1.0.0.5d95523cIvOJH5)
+  
+- [磁性白板](http://xhslink.com/KQDB9H)
 

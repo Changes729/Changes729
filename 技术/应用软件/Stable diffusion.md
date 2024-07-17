@@ -1,6 +1,7 @@
 > 参考资料：
 >
 > - [Stable Diffusion 转自我在公司内部的一次分享](https://www.bilibili.com/video/BV17M411R73u/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+> - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
 # Stable Diffusion
 

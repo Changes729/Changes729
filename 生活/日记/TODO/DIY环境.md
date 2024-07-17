@@ -35,3 +35,5 @@
 > *参考资料*
 >
 > [通过编写一个3D打印机固件来理解3D打印机的工作原理](https://github.com/arnosolo/simple_3d_printer)
+>
+> [纺织](https://www.youtube.com/watch?v=L8yWb4swe_w)

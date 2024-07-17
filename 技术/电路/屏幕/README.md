@@ -32,3 +32,17 @@
     - [奕力官网](https://www.ilitek.com.tw/page/about/index.aspx?kind=10)
   - [EETI控制卡](https://www.wiwotouch.com/cn/product/products-6-26)
 
+
+
+## 器件整理
+
+> 供应商：
+>
+> - [汉昇](http://www.hslcm.com/)
+> - [Newvision(新智景)](http://www.jxwisevision.com/)
+
+| 屏幕                 | 价格                                                         | 体积 | 分辨率 | 色彩空间 | 接口 |
+| -------------------- | ------------------------------------------------------------ | ---- | ------ | -------- | ---- |
+| X050-8848TSWYG02-H14 | [6](https://item.szlcsc.com/19915584.html?kw=catalog&fromZone=l_b) |      |        |          |      |
+| HS96F04BF            | [9](https://item.szlcsc.com/5751919.html?kw=catalog&fromZone=l_b) |      |        |          |      |
+

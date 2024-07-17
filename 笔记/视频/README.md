@@ -25,4 +25,8 @@
 - [C++图形学作业-地形四叉树LOD优化简单实现](https://www.bilibili.com/video/BV1YA4m1c7ah/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：应该是有代码来源的——[3D数学基础：图形和游戏开发（第2版）](https://product.dangdang.com/28552828.html)
 - [绝不松手的溜溜糖球](https://www.bilibili.com/video/BV1pC411L7kJ/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：特别可爱的视频，想手工做一个帽子
 - [一分钟制作电路板](https://www.bilibili.com/video/BV1dF41127qr/?buvid=XU0D10701D6618587DE0844E4701C9FF448DF&from_spmid=united.player-video-detail.relatedvideo.0&is_story_h5=false&mid=YXXhfUoekNrv6GqxhqibMw%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=e7ecdd9a-05de-4f75-bd6e-39e84fa445f7&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1711898658&unique_k=vIB3Zb6&up_id=213206285&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：需要、热转印打印机、热转印纸、热转印机、单面覆铜板、稀盐酸、盐酸、摆动电机、丙酮
+- [是什么让“牢大”，成了中文互联网最热门的流量密码？](https://www.bilibili.com/video/BV1pf42127MT/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：互联网时代流量密码反思
+- [【宣传】中国经济的挑战与基石【温铁军对谈卢麒元】](https://www.bilibili.com/video/BV1Sw4m1a72U/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：另一条现代化的道路
+- [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1/?t=6&spm_id_from=333.1007.tianma.1-1-1.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：有人整理的诸神史，老祖宗起名真好听啊
+- [【马戏之王】《This Is Me》第一次成功彩排震撼主题曲—by Keala Settle](https://www.bilibili.com/video/BV1rW411H7xm/?share_source=copy_web&vd_source=9fc47b63ad1f716c72b5d4de0c6a803b)：歌曲很好听，但是很容易就听厌了
 

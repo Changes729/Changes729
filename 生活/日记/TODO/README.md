@@ -22,28 +22,18 @@
 
 - [读书](./%E8%AF%BB%E4%B9%A6.md)
   - [网页笔记工具](网页笔记工具.md)
-    - [学习前端制作PPT](学习制作前端PPT.md)
-    - [学习JS库](../../技术/编程/JS.md)
-  - [学习ThreeJS](./Learn%20ThreeJS.md)
   - [学五笔打字](学五笔打字.md)
-  - 学习[TOUCHDESIGNER](https://derivative.ca/download)
-  - 学习[MadMapper](https://madmapper.com/madmapper/software)
   - 学习[Unity](https://unity.com/cn/download#how-get-started)
 - 创业与设计
-  - [了解DAO](../../技术/WEB/Web3.0.md)
   - [收集信息](./RSS%20Information%20Well.md)
-  - [完成全地区PokeMMO种树脚本](../游戏/PokeMMO_tools)
-  - [帐单APP设计](帐单APP设计.md)
-  - [DIY环境](DIY环境.md)
   - [自制电脑](自制电脑.md)
   - [解析ISBN](https://baike.baidu.com/item/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7/3271472)
 - 杂项
   - 自行车APP
-  - [学习视频制作](视频制作/)
-  - [购买一个属于自己的商铺](./商铺.md)
   - 买相机：可以做图像识别、做演示视频等
     - 方案一：RTMP 直播流
     - 方案二：相机
+  - [溜溜糖球帽子](https://www.bilibili.com/video/BV1pC411L7kJ/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
 
 
 

@@ -7,6 +7,7 @@
 > - [VDSR、DRRN、LapSRN、RCAN、DSRN…你都掌握了吗？一文总结超分辨率分析必备经典模型（二）](https://mp.weixin.qq.com/s/hK3cXIhr-BUhn2WDYIjquQ)：超分辨率分析。
 > - [如何快速稳定地从huggingface下载模型](https://zhuanlan.zhihu.com/p/647843635)：下载到本地
 > - [OpenLMLab](https://github.com/OpenLMLab)/[MOSS](https://github.com/OpenLMLab/MOSS)：复旦模型，两张 3090。中文文档
+> - [Hugging Face Documentations](https://huggingface.co/docs)
 
 # AI与统计
 
@@ -51,6 +52,11 @@
     - [chatglm-6b](https://huggingface.co/THUDM/chatglm-6b)：16G 显存
 - 文本转音频
   - [x] [speechify](https://studio.speechify.com/dashboard)：亲测好用，无字数限制
+- 语音转文本
+  - [ ] [whisper](https://github.com/openai/whisper)：openAI whisper 模型
+  - [ ] [whisperX](https://github.com/m-bain/whisperX)：能加时间戳的 whisper 模型
+  - [ ] [whisper_streaming](https://github.com/ufal/whisper_streaming)：长时间语言转文本
+  - [ ] [faster-whisper](https://github.com/SYSTRAN/faster-whisper)：快速语言转文本
 - [ ] [speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet)：还没试过
 - 图片转3D Mesh：
   - [One-2-3-45](https://github.com/One-2-3-45/One-2-3-45)

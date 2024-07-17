@@ -40,3 +40,14 @@
 - [3MM 红外发射管+红外接收管 红外对管 圆头 LED型 940nm 直径](https://item.taobao.com/item.htm?abbucket=19&id=600151831352&ns=1&skuId=4360469287588&spm=a21n57.1.0.0.400b523cbpQILD)：0.1/0.07
 - [富能电子企业店](https://item.taobao.com/item.htm?abbucket=19&id=734210102223&ns=1&skuId=5247378062087&spm=a21n57.1.0.0.400b523cbpQILD)：0.08/0.05
 
+
+
+## 器件整理
+
+| 型号                                                         | 类型         | 工作电压 | 工作电流  | 流明                                                         | 价格 |
+| ------------------------------------------------------------ | ------------ | -------- | --------- | ------------------------------------------------------------ | ---- |
+| [APA102-2020](https://item.taobao.com/item.htm?abbucket=19&id=670110181471&ns=1&priceTId=2147bf1517164533933895533e7465&spm=a21n57.1.item.4.637b523cWGHRXR&skuId=5081028110488) | 可编程灯     | 5V       | 24.5mA    | R：300-330 mcd<br />G：420-460 mcd<br />B：160-180 mcd<br />W：880-970 mcd<br />A：170<br />lm：5.52 - 6.09 lm | 0.2  |
+| [**WS2812B**](https://item.szlcsc.com/3033136.html)          | 可编程灯     | 3.5~7.5V | 12mA      | R：200-500 mcd<br />G：800-1800mcd<br />B：200-700mcd<br />W：1200-3000mcd<br />A：170<br />lm：7.3-18.4 lm | 0.1  |
+| [P9813](https://pmdway.com/products/p9813-12v-rgb-led-strip-mosfet-controller) | RGB 灯控制器 | 4.5-9V   | 60mA      |                                                              |      |
+| [CSLNM1超聚光10-20W](https://item.taobao.com/item.htm?ali_refid=a3_430582_1006:1503840122:H:eNBsnDfkd5GfYoJYqZTI8A==:d68684e7d280eb430378e4d0a5f5b522&ali_trackid=283_d68684e7d280eb430378e4d0a5f5b522&id=798000566813&sku_properties=1627207:32575267420&spm=a21n57.1.item.3)<br />[ref1](https://ams-osram.com/products/leds/white-leds/osram-osram-ostar-projection-compact-kw-cslnm1-tg) | 单色灯       | 3V       | 3A（MAX） | 400lm                                                        |      |
+

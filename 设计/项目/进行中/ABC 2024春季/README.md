@@ -32,6 +32,8 @@
 > 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=43a49905-187e-4c52-b207-6bfc7c5fa414&from=3
 >
 > 密码：R5CB
+>
+> [石墨文档](https://shimo.im/space/KlkKvZoyDWsXm2qd)
 
 # ABC 2024 春季项目 食见未来
 

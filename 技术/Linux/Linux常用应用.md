@@ -13,22 +13,38 @@
 ## 常用命令
 
 - zip 打包命令：`zip -q -r html.zip /home/html`
+
+  递归压缩符号链接：`zip -y -r foo.zip foo/`
+
 - 基于Github的版本同步：`wget -N $(wget -qO- https://api.github.com/repos/[Changes729/MediaWallTest]/releases/latest | grep browser_download_url | cut -d'"' -f4)`
+
 - 代理：`export https="http://127.0.0.1:8118"` 让https走http代理。不清楚具体什么意思，但是这样设置 TLS 可以通过
+
 - [Linux 下制作 Windows 系统盘](https://superuser.com/questions/1290568/create-windows-10-usb-installation-drive-with-linux-only)：`woeusb  --target-filesystem NTFS --device path/to/windows.iso /dev/sdX`
+
 - 查看某目录大小：`du -h --max-depth=1 [PATH]`
+
 - 查看磁盘格式：`df -hT`
+
 - tar 压缩文件夹：`tar -zcvf [xahot].tar.gz [xahot]`
+
 - sed
   - 替换某一行的信息：`sed -i '/^lang=JAVA*/c\lang=RUST' hello.txt`，查找以 `lang=JAVA` 开头的行，然后`c\` 替换为 `lang=RUST`
   - 把1.jpg ..... 9.jpg 变换为001.jpg .... 009.jpg `rename 's/^/00/' [0-9].jpg`
   - 把10.jpg ..... 99.jpg 变换为010.jpg ..... 090.jpg `rename 's/^/0/' [0-9][0-9].jpg` 
   - 把 old- 开头的文件替换为 new- 开头的文件`rename 's/old-/new-/' old-*`
+  
 - `export TMPDIR=./tmpdir` 当下载目录过小的时候，可以用这个方式拓展临时文件夹
+
 - `>`重定向，主要是用作文件输入的。
+
 - `|`管道将一个程序的结果作为另一个程序的输入。如果管道被关闭，那么 `read` 会直接返回，并且读取到的返回值为 0。
+
 - 查看安装包：`pacman -Qqe`
+
 - 递归删除孤立软件包及其配置文件：`pacman -Qtdq | pacman -Rns -`
+
 - 列出软件包拥有的文件并带大小：`pacman -Qlq package | grep -v '/$' | xargs -r du -h | sort -h`
+
 - 挂载ISO：`mount -o loop /path/to/image.iso /media/mountpoint`
 

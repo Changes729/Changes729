@@ -43,19 +43,27 @@
 
   
 
-
-
 ## Python库
 
 - [asyncinotify](./asyncinotify.md)：异步文件监听库。类似 Linux 下的 epoll。
+
 - [Getopt module in Python](https://www.geeksforgeeks.org/getopt-module-in-python/)
+
 - [pyshark](https://github.com/KimiNewt/pyshark)：Python 抓包库
+
 - math
   - `log10`：等于数学中的 `log`
   - `log`：等于数学中的 `ln`
+  
 - [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
+
 - [yutto](https://github.com/yutto-dev/yutto)：bilibili video download
+
+  `yutto [url] -c SESSDATA`
+
 - [pytube](https://github.com/pytube/pytube)：youtube video download
+
+  需要代理
 
 
 
@@ -63,8 +71,20 @@
 ## 小技巧
 
 - 获取 Python 运行文件路径：`os.path.dirname(os.path.abspath(__file__))`
+
 - Python 搭建临时 HTTP 服务器：`python3 -m http.server 5678`
+
 - 导出 requirements 文件：`pip freeze > requirements.txt`
+
+- python 运行文本<sup>[ref](https://stackoverflow.com/questions/61879097/executing-string-of-python-code-within-bash-script)</sup>：`python -c 'commands'`
+
+  ```sh
+  python << EOF
+  print("hello world")
+  EOF
+  ```
+
+  
 
 
 

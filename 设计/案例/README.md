@@ -19,6 +19,7 @@
 - [电动溜溜笛子](https://www.bilibili.com/medialist/play/watchlater/BV1pa411W7j4)
 - [折纸机器人](https://mp.weixin.qq.com/s/C1axGyS-mm6Fig_qp7pR1A)
 - [遮阳伞](https://www.bilibili.com/video/BV17V411T7ak/?spm_id_from=333.1007.tianma.1-3-3.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [走走植](https://tnc.org.cn/content/details27_1432.html)
 
 
 
@@ -67,3 +68,4 @@
 
 - [佳明骑行尾灯](https://www.garmin.com.cn/products/sports-recreation/varia-rct715/)
 - [Interactive Flip-Dot Display 互动翻点艺术装置](https://www.bilibili.com/video/BV1SW411C7wR/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：[淘宝](https://item.taobao.com/item.htm?spm=a21n57.1.0.0.5066523cVe6jeC&id=733921128721&ns=1&abbucket=1#detail) 999，[flipdots](https://flipdots.com/en/home/)
+
