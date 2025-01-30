@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "工作/Workdir-projects/README.excalidraw"
+                "file": "Alluvial Projects/README.excalidraw"
               },
               "icon": "excalidraw-icon",
               "title": "README"
@@ -175,45 +175,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "floating": {
-    "id": "df0d362bea9aba5f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e1fa02ac5818351f",
-        "type": "window",
-        "children": [
-          {
-            "id": "eeb40da3ee47b965",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "64b21a5e0bc4a474",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "生活/日记/README.excalidraw"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "README"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 63,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "64b21a5e0bc4a474",
+  "active": "9518a5ccb36e83b7",
   "lastOpenFiles": [
+    "生活/日记/README.excalidraw",
     "游戏/PokeMMO_tools/特殊宝可梦.md",
     "游戏/PokeMMO_tools/src/tools/shark.py",
     "游戏/PokeMMO_tools/src/test/走路.py",
@@ -250,7 +214,6 @@
     "README_OLD.md",
     "游戏/琉璃/番号~.md",
     "游戏/琉璃/README~.md",
-    "生活/创业/eMux Studio/README~.md",
     "截屏2024-07-27 11.17.18.png",
     "截屏2024-07-27 12.41.00.png",
     "Pasted Image 20240628141500_307.png",

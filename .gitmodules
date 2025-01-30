@@ -1,9 +1,0 @@
-[submodule "游戏/PokeMMO_tools"]
-	path = 游戏/PokeMMO_tools
-	url = git@github.com:Changes729/PokeMMO_tools.git
-[submodule "技术/LeecodeMarkBook"]
-	path = 技术/LeecodeMarkBook
-	url = https://github.com/Changes729/LeecodeMarkBook.git
-[submodule "工作/Workdir-box"]
-	path = 工作/Workdir-box
-	url = git@github.com:Changes729/Workdir-box.git
