@@ -4,6 +4,18 @@
 
 
 
+## 电阻电容电感
+
+### 材质（温度系数）
+
+> [一文详解MLCC电容的介质类别和温度系数](https://www.eet-china.com/mp/a134733.html)
+
+- 单位：ppm(Parts Per Million)/°C
+- 材料：
+  - C0G（NP0）
+
+
+
 ## 杂项
 
 - 碳膜电位器万向油门

@@ -8,6 +8,7 @@
 >   - [Async timer](https://stackoverflow.com/questions/45419723/python-timer-with-asyncio-coroutine)
 > - [Python 二进制，十进制，十六进制转换](https://blog.csdn.net/u012063703/article/details/42609833)
 > - [python 路径](https://note.nkmk.me/en/python-script-file-path/)
+> - [Update/Install specific Python on Raspberry Pi](https://hub.tcno.co/pi/software/python-update/)
 
 # Python
 

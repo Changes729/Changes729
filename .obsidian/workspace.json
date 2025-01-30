@@ -13,11 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "工作/Workdir-projects/nanomics/7_6_new_module.excalidraw"
-              }
+                "file": "工作/Workdir-projects/硬盒/红外触摸框/box_touch_plan_b.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "box_touch_plan_b"
+            }
+          },
+          {
+            "id": "9518a5ccb36e83b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "工作/Workdir-projects/README.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,7 +52,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -52,7 +69,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -60,14 +79,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e1ad08b02e90497",
@@ -83,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/日记/README.excalidraw",
+                "file": "工作/Workdir-projects/README.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -100,10 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/日记/README.excalidraw",
+                "file": "工作/Workdir-projects/README.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
             }
           },
           {
@@ -114,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -123,8 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/日记/README.excalidraw"
-              }
+                "file": "工作/Workdir-projects/README.excalidraw"
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
             }
           }
         ]
@@ -164,7 +194,9 @@
                   "type": "excalidraw",
                   "state": {
                     "file": "生活/日记/README.excalidraw"
-                  }
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "README"
                 }
               }
             ]
@@ -172,36 +204,7 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 43,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "147841711a171bcc",
-        "type": "window",
-        "children": [
-          {
-            "id": "6b342fb1c9d20805",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "618253a989467a62",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "工作/Workdir-projects/README.excalidraw"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 43,
+        "y": 63,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -211,43 +214,52 @@
   },
   "active": "64b21a5e0bc4a474",
   "lastOpenFiles": [
-    "设计/产品总集/电池.md",
-    "设计/产品总集/生物医药实验室.md",
-    "设计/产品总集/无线通信.md",
-    "设计/产品总集",
-    "Pasted Image 20240628141500_307.png",
-    "技术/文件格式/README~.md",
+    "README~.md",
+    "README_OLD~.md",
+    "README.md",
+    "Untitled.md",
+    "README_OLD.md",
+    "游戏/琉璃/番号~.md",
+    "游戏/琉璃/README~.md",
     "工作/Workdir-projects/README.excalidraw",
-    "技术/WEB/mDNS~.md",
-    "技术/WEB/mDNS.md",
-    "技术/WEB/Untitled.md",
-    "技术/电路/元器件/霍尔传感器~.md",
-    "工作/Workdir-projects/nanomics/7_6_new_module.excalidraw",
-    "技术/工业工程/线材~.md",
-    "生活/创业/产品总集/生物医药实验室~.md",
-    "生活/创业/产品总集/生物医药实验室.md",
-    "生活/创业/产品总集/Untitled.md",
     "生活/日记/README.excalidraw",
-    "技术/电路/通用接口/窄间距连接器.md",
-    "技术/电路/通用接口/Untitled.md",
-    "笔记/视频/README~.md",
-    "笔记/视频/BACKUPS~.md",
-    "工作/Workdir-projects/nanomics/nanomics.excalidraw",
-    "工作/Workdir-projects/nanomics",
-    "工作/Workdir-projects/box_touch_plan_b.excalidraw",
-    "笔记/公众号/知识分子/从福岛核废水排放危机，看公众科学的困境~.md",
-    "笔记/公众号/知识分子/从福岛核废水排放危机，看公众科学的困境.md",
-    "笔记/公众号/知识分子/Untitled.md",
-    "技术/电路/元器件/陀螺仪~.md",
-    "技术/电路/元器件/陀螺仪.md",
-    "技术/电路/元器件/Untitled.md",
-    "技术/电路/元器件/RFID_NFC/Untitled.md",
-    "设计/项目/进行中/光疗/README~.md",
-    "技术/机械结构/滑板结构~.md",
-    "技术/机械结构/滑板结构.md",
-    "笔记/代码/Suno-API",
-    "笔记/代码/Untitled Folder",
-    "工作/Workdir-projects/光疗/发刊.excalidraw",
+    "生活/创业/eMux Studio/README~.md",
+    "工作/Workdir-projects/WebViewer/Ver1.0.0.md",
+    "工作/Workdir-projects/WebViewer/Ver 1.0.0.md",
+    "工作/Workdir-projects/WebViewer/README~.md",
+    "工作/Workdir-projects/WebViewer/README.md",
+    "工作/Workdir-projects/WebViewer/Untitled.md",
+    "工作/Workdir-projects/WebViewer",
+    "工作/Workdir-projects/Untitled Folder",
+    "生活/日记/README~.md",
+    "index.html",
+    "工作/Workdir-projects/空无一物/动物友好/【2025.1.26】开源项目比对~.md",
+    "工作/Workdir-projects/空无一物/动物友好/【2025.1.26】开源项目比对.md",
+    "工作/Workdir-projects/空无一物/动物友好/Untitled.md",
+    "工作/Workdir-projects/工业互联网/README~.md",
+    "技术/Linux/Archlinux私用电脑配置过程~.md",
+    "生活/创业/eMux Studio/商业模式（2025.1）.md",
+    "生活/创业/eMux Studio/商业模式~.md",
+    "生活/创业/eMux Studio/商业模式.md",
+    "生活/创业/eMux Studio/Untitled.md",
+    "工作/Workdir-projects/硬盒/红外触摸框/项目阶段总结~.md",
+    "工作/Workdir-projects/硬盒/红外触摸框/项目阶段总结.md",
+    "工作/Workdir-projects/硬盒/红外触摸框/Untitled.md",
+    "工作/Workdir-projects/硬盒/红外触摸框/Untitled Folder",
+    "工作/Workdir-projects/硬盒/红外触摸框/box_touch_plan_b.excalidraw",
+    "工作/Workdir-projects/点点",
+    "笔记/网页/Milkdown",
+    "笔记/网页/Untitled Folder",
+    "截屏2024-07-27 11.17.18.png",
+    "截屏2024-07-27 12.41.00.png",
+    "Pasted Image 20240628141500_307.png",
+    "截屏2024-07-27 11.18.24.png",
+    "截屏2024-07-27 12.19.16.png",
+    "截屏2024-07-27 12.19.02.png",
+    "截屏2024-07-27 12.17.50.png",
+    "截屏2024-07-27 11.48.21.png",
+    "截屏2024-07-27 11.41.33.png",
+    "截屏2024-07-27 11.31.33.png",
     "未命名.canvas"
   ]
 }

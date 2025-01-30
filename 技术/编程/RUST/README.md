@@ -4,6 +4,7 @@
 > - https://doc.rust-lang.org/reference/
 > - [Rust for C++ programmers](https://github.com/nrc/r4cppp)
 > - [Rust by Example](https://doc.rust-lang.org/rust-by-example/#rust-by-example)
+> - [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html#the-rust-programming-language)：有很多案例
 
 # RUST
 

@@ -33,7 +33,7 @@ Archlinux操作系统需要你手动操作进行分区、软件包安装、启�
     - `wq`
     - 分区方案：
         - EFI启动：512M
-        - 交换分区：4G
+        - ~~交换分区：4G~~ ：请考虑使用 [zram](https://wiki.archlinux.org/title/Zram#Usage_as_swap)
         - 根目录：100G+
         - home目录：剩余（和根目录配合好）
 - 分区格式化：
@@ -50,7 +50,7 @@ Archlinux操作系统需要你手动操作进行分区、软件包安装、启�
     - `ln -sf /usr/share/zoneinfo/Region/City /etc/localtime`
     - `hwclock --systohc`
 - 本地化：
-    - `vim /etc/locale.ge`
+    - `vim /etc/locale.gen`
     - `locale-gen`
     - `vim /etc/locale.conf`, 写入 `LANG=en_US.UTF-8`
     - `vim /etc/vconsole.conf`, 写入 `KEYMAP=de-latin1`

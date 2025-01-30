@@ -4,7 +4,6 @@
     vertical-align: top;
     border-color: inherit;
   }
-
   .mainpagediv {
     font-size: 85%;
     line-height: 1.2em;

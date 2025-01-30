@@ -1,3 +1,5 @@
+> 
+>
 > 参考资料
 >
 > - [电容充放电时间常数RC计算方法](https://blog.csdn.net/xuhao0258/article/details/116260327)
@@ -24,6 +26,16 @@
 
 - DIP (dual in-line package, 双列直插式封装技术)
 - SMT (Surface Mounted Technology, 表面贴装技术)
+- 品质因素：根据物理学，Q因子等于2π乘以系统储存的总能量，除以单一周期损失的能量，也可以表示为系统储存的总能量和单位弪度损失能量的比值。
+
+
+
+## 电路原理
+
+- [电抗](https://zh.wikipedia.org/wiki/%E7%94%B5%E6%8A%97)
+- [品质因子](https://zh.wikipedia.org/wiki/%E5%93%81%E8%B3%AA%E5%9B%A0%E5%AD%90)：串联电路 - $$Q = \frac{1}{R}\sqrt{\frac{L}{C}} = \frac{\omega_0L}{R} = \frac{1}{\omega_0RC}$$；并联电路 - $$Q = R\sqrt{\frac{C}{L}} = \frac{R}{\omega_0L} = \omega_0RC$$
+- [Basic network theory](https://www.microwaves101.com/encyclopedias/basic-network-theory)
+  - [S-parameters](https://www.microwaves101.com/encyclopedias/s-parameters)
 
 
 

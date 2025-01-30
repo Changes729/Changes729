@@ -19,15 +19,32 @@
 
 
 
+⚠️注意：USB低成本开发默认选用沁恒微的CH32F103；通用开发板请选择ESP32-S2
+
+
+
 ## 沁恒微系列
 
 > - [E8051 USB系列](https://www.wch.cn/products/productsCenter/mcuInterface?categoryId=72)
 
-| 系列  | 主频  | FLASH | RAM    | DataFlash | TIMER | UART | SPI  | IIC  | I/O  | 其他 | 价格 | 渠道                                                         |
-| ----- | ----- | ----- | ------ | --------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ |
-| CH552 | 24MHz | 16K   | 1K+256 | 128       | 3*16b | 2    | 1    | -    | 17   |      | 1.65 | [1688-1](https://detail.1688.com/offer/730950770195.html?spm=a26352.13672862.offerlist.30.3d847bf0DOOcAr) |
+| 系列                                                      | 主频  | FLASH | RAM    | DataFlash | TIMER | UART | SPI  | IIC  | I/O  | 其他    | 价格                                                         | 渠道                                                         |
+| --------------------------------------------------------- | ----- | ----- | ------ | --------- | ----- | ---- | ---- | ---- | ---- | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| CH552                                                     | 24MHz | 16K   | 1K+256 | 128       | 3*16b | 2    | 1    | -    | 17   | USB     | 1.65                                                         | [1688-1](https://detail.1688.com/offer/730950770195.html?spm=a26352.13672862.offerlist.30.3d847bf0DOOcAr) |
+| [CH32V003F4U6](https://www.wch.cn/products/CH32V003.html) | 48MHz | 16K   | 1K     |           |       | 1    | 1    | 1    | 6~18 | NO-USB  | [QFN20-0.68](https://item.taobao.com/item.htm?abbucket=19&id=702260750651&ns=1&pisk=fzUqhJOKuV2WLFQ65juZay9wca0xlqXCuPMss5ViGxDmh5ci7821MxNGHRzZE5EfMc6v_IUzLFTfHiFM7VgGd9_CRSdxWVXByENMmIhs6dcDCAVlrmARNa_CRSFyGjfQZw1t3UttThYgImDuZfMoiAmms_ooOf0MocYDqLD-EA0inxxorfGMjKmin_Jo6fGMjVYDr7cETj0iSRVo1nwgH_ktm6So_s7G8UitKSD0GSUl1mtYGYktCzc4aMFjUbG7zjoqK0SUdt4UtS4K_PCHbAP_m-G8QwWrrry4o0uN7U3bTu2q4oWwz0Eu9Pmz29-L9S24xD4cz_eaEWEKorX9lxEgZPD7o1TZKkNKzbU1eEDaql4jDVpc3bz4TPrN4OvtZG48WoJMbmc-av1PakOgP6y8f0neXhnP2bkCsFxMjdaB5nzZRhKt4scrd1YG.&priceTId=2147812317261089775084717e0c2d&spm=a21n57.1.item.2.6b39523cbjXKDG&utparam=%7B%22aplus_abtest%22:%22c2ffab76b6b1c9b590951582b9fd0c77%22%7D)<br />[QFN20-1.58~0.84](https://item.szlcsc.com/6049934.html?fromZone=l_c__%2522catalog%2522) |                                                              |
+| CH32F103C8T6                                              | 72MHz | 32K   | 10K    |           |       | 3    | 2    | 2    | 37   | USB/CAN | [3.79](https://item.taobao.com/item.htm?abbucket=19&id=680708878129&ns=1&pisk=fParKOAtz22bieQBRbuEgPMo5ug-k4X1zyMItWVnNYDoFWcn8-2CwYNheJzEnWE5wD6JTQU4QeT5egFH82ghCO_157d-J2X1Dt1gZQhI9HxHdYvDn0AAGZ_157F2Nbf_iN1KUtMs9HY3K0mcoXDDKb03KqDmwxYotUcHnskxt2cH-0YcofcnZv2ntIVmsXvHKUYnomcSnv0n-UG_K8Cqp0fNmmGnhOgo4AVVXeYElFioIbDD-O4qaOHgZx8H-YbFMLN3K98ISle48c218E37_o0mao5HmYmaq8GYLN8oErPurYalhUMuySq_R-fH-vr0jcZgZttqgoV7umaGQeo8m8EtYy6fW4Z_1yngraJthchUQ4qVnUyG4tvKiM4YJuJHY0cxgA1VglO3l1yYAmnwvHnVDjk1texHxpa6R3zE5HKK0_cqC6Yh.&priceTId=2147801817261104955013109e6d2a&skuId=5052752843020&spm=a21n57.1.item.2.561f523cW5OvTy&utparam=%7B%22aplus_abtest%22:%22bea83603e7c6927a3dc7c2c1ec942563%22%7D)<br />[3.3](https://detail.1688.com/offer/757608886762.html?spm=a26352.13672862.offerlist.1.c7f01e62ESM9Ds)<br />[9.3-7.2](https://so.szlcsc.com/global.html?k=CH32F103C8T6) | [开发板](https://item.taobao.com/item.htm?abbucket=19&id=644529403934&ns=1&pisk=fpwZKJt-Qx4Q3C6XhckqY8OmHRDtQAb5Q-gjmoqmfV0i5omm3y4fXVZcWryq-oF1Xj_90heUzK91W1ED3xMcPa65FlKtHxbWXhLrIhnj4FxMlqX3xfxdA965FlEefcj7xTsx7M9-DIv0ofchKm0Hodvgov0nf2vimdmD-MuKmxxioqvhK0momK4mmDmnVmtMnx0GK2m--qDmnUw4oPIEkfjPtbC0-s3o_4qFwKvqZLGirquHna2Eba3uj2JDnVXVvFZ0oZJjE7UU3b453pH_4WDnbWSDtVczsPiLuTJiSJrgIVwGRdggBkV7hyjDnqP3ZbNujwOEYWq_LXwlzKlTtPF-g-_CeAN7V-huIO8-Rbn4zAVF-dzl4hYxxs2LH58DgfmKY4sFY7t0dgzLGXhyMIhF9Du5mKADiEwWhCyqFIdxTGmEPivc.&priceTId=2147826417261109129828066e5289&skuId=4806792146137&spm=a21n57.1.item.3.f8b2523cpDxAtS&utparam=%7B%22aplus_abtest%22:%22de4bd638f8a20dcf58150a67c27280d3%22%7D) |
 
 CH552 中断只支持低电平和下降沿。
+
+
+
+## GD系列
+
+| 系列                                                         | 主频   | FLASH | RAM  | DataFlash | TIMER | UART | SPI  | IIC  | I/O  | 其他    | 价格                                                         |
+| ------------------------------------------------------------ | ------ | ----- | ---- | --------- | ----- | ---- | ---- | ---- | ---- | ------- | ------------------------------------------------------------ |
+| [GD32F350 CBT6](https://www.gigadevice.com.cn/product/mcu/entry-level-mcus/gd32f3x0-series) | 108MHz | 128K  | 16K  |           |       |      |      |      |      | USB,IIS | [2.95](https://item.taobao.com/item.htm?abbucket=19&id=675059179113&ns=1&priceTId=2100c80817276882990617577e0bb4&spm=a21n57.1.item.1.f526523cXqTiwy&utparam=%7B%22aplus_abtest%22%3A%2236c7aa67a2212c7727466963a4b39ca8%22%7D&xxc=taobaoSearch) |
+| [GD32F103 C8T6](https://www.gigadevice.com.cn/product/mcu/mcus-product-selector/gd32f103c8t6) | 108MHz | 3M    | 96K  |           |       | 3    | 2    | 2    |      | USB,CAN | [4.7](https://item.taobao.com/item.htm?id=564707040509&pisk=f6Nm3qOVG0tIK0tmRTcfIoaEmRXRGnGszldtXfnNU0oWkm3v612i2kcTHiitQlqumSHZXtZiIlESQShYkumgXyyYDjHO_70t5nJ2gA5zzV0KQlnTkEw7vyRYMtG9sjGs_MId96LblfGNI4VkssMr5quN6xlwzzlheykc96UbrDFY45fLMITXvv3Z_xoqU0oS-n84bx-rz0gs7nlZ0a4yS6O9MkRYwIcsxnFLDkVBrBnLu0A3R70VhD1I4CPTwqk0_UiJ_4FooxmUuSuTIc0gLWDbYgpx0Jm_x2EAaIq3uo2ELS-Pqfa8Kl03gwJnjoazMYPVWpgS1-yEg5jH0zM3aShbEMAKY8aasYzfxpg8QyFYIg5DUp73pCgPW7J6CxuSrDnPLgtzYzol_abkpPMqPVyL6avohHOwslblrpIj34gap&spm=a1z10.5-c-s.w4002-24706531925.59.373d2ec7GzrMQ1) |
+
+
 
 ## ESP系列
 
@@ -51,6 +68,16 @@ CH552 中断只支持低电平和下降沿。
 | ESP32-S3R8                                                   |                                                              |           |        |         |           |      |      |      |      |      |      |             | [12](https://detail.1688.com/offer/734207473748.html?spm=a26352.13672862.offerlist.1.65324c41E79I2H) |                                                              |
 | **ESP32-S2FH4**                                              |                                                              |           |        |         |           |      |      |      |      |      |      |             | [8.19-7.05](https://detail.1688.com/offer/776782666965.html?_t=1719909188634&spm=a2615.7691456.co_1_0_wangpu_score_0_0_0_0_0_0_0000_1.0)<br />[8.74](https://item.taobao.com/item.htm?spm=a21n57.1.item.46.1757523c043RAq&priceTId=214781e717199098481132557eb326&utparam=%7B%22aplus_abtest%22:%22613e4f9ecb2bc4203dcd52bc9bfbd2f0%22%7D&id=674290370662&ns=1&abbucket=19&skuId=5150752566747)<br />[8.35](https://detail.1688.com/offer/734326006071.html?_t=1721119111113&spm=a2615.7691456.co_0_0_wangpu_score_0_0_0_0_1_0_0000_0.0) |                                                              |
 | **ESP32-S2FH2**                                              |                                                              |           |        |         |           |      |      |      |      |      |      |             | [5.5-3.5](https://detail.1688.com/offer/776826373278.html?_t=1719909174941&spm=a2615.7691456.co_1_0_wangpu_score_0_0_0_0_0_0_0000_0.0) |                                                              |
+| [ESP32-C3FH4](https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3_datasheet_en.pdf) |                                                              |           |        |         |           |      |      |      |      |      |      |             | [6.6](https://detail.tmall.com/item.htm?id=699044301863&ns=1&pisk=gTiShPjZFXnq0MbrWHp45J5lpCrIVXtNN9wKIvIPpuE89qMiO7JHruubOjhbwgJkryFIZuUnzWPzOkMn1KRwbhkoEkqJ_C-wRgt59ue8eyFpp-e3QC-W0EJ-EkqpOtSp7hMo6lVvgWeLHKwUKWIK9aFxHS2Cy6hLwrCYCRqL9XhLk-e3CJQ8JaExHS2NeTEL9-FYKJ1dJ7hKHKwHrBCbL_wqFKvwdRTvW7H8GMIK23471q_FAMG7eziKeSMq3mw7P5UX5fR-fAH-jJiHBwNIL4hznXt6GonSN0UbAHs04AgxNrgWOiamkAmLlqA1SAD-NVUt2n9mOjHiSunJtgPoJxnLg0pFA53ZIowmYIj8Oq3K4zqhwQwjVAiIRgzAb5aKFw6bSMwb_K9f-wxWjvNfiUD1Gze0ehJXhsohsMIMuDJfoQU8n8h2hK1qx&priceTId=213b804917285570529843093e1645&skuId=5076339592482&spm=a21n57.1.item.1.4713523c7Ndpnm&utparam=%7B%22aplus_abtest%22%3A%22a6924f300e2c9ef7759aebceed09d15f%22%7D&xxc=ad_ztc) |                                                              |
+
+
+
+## 博通系列
+
+| SOC                                                          | 主频 | FLASH | RAM  | 价格 |
+| ------------------------------------------------------------ | ---- | ----- | ---- | ---- |
+| BK7231N                                                      | 120M | 4M    | 256k |      |
+| [BK7238](https://www.bekencorp.com/index/goods/detail/cid/42.html) | 160M | 2M    | 288k |      |
 
 
 
@@ -64,10 +91,11 @@ CH552 中断只支持低电平和下降沿。
 
 ## STM32 系列
 
-| SOC           | 主频         | FLASH | RAM     | DataFlash | 其他 | 价格 | 渠道                                                         |
-| ------------- | ------------ | ----- | ------- | --------- | ---- | ---- | ------------------------------------------------------------ |
-| stm32f103c8t6 | 72MHz（MAX） | 64k   | 20k     |           |      | 5.5  | [1688-1](https://detail.1688.com/offer/44298483616.html?spm=a26352.13672862.offerlist.20.37511e62QiXBhU) |
-| stm32f031K6U6 | 48MHz        | 32k   | 4KBytes |           |      | 2.39 | [深圳市义胜电子网](https://item.taobao.com/item.htm?id=674309147831&skuId=4851113585535&spm=a1z10.3-c-s.w4002-21047669632.17.708f27e556W3yu) |
+| SOC                                                          | 主频         | FLASH | RAM     | DataFlash | 其他   | 价格                                                         | 渠道                                                         |
+| ------------------------------------------------------------ | ------------ | ----- | ------- | --------- | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| stm32f103c8t6                                                | 72MHz（MAX） | 64k   | 20k     |           |        | 5.5                                                          | [1688-1](https://detail.1688.com/offer/44298483616.html?spm=a26352.13672862.offerlist.20.37511e62QiXBhU) |
+| stm32f031K6U6                                                | 48MHz        | 32k   | 4KBytes |           |        | 2.39                                                         | [深圳市义胜电子网](https://item.taobao.com/item.htm?id=674309147831&skuId=4851113585535&spm=a1z10.3-c-s.w4002-21047669632.17.708f27e556W3yu) |
+| [stm32f030](file:///Users/fuhuaqian/Downloads/stm32f030f4.pdf) | 48MHz        | 16k   | 4k      |           | NO-USB | [3.72~2.26](https://item.szlcsc.com/90220.html?fromZone=l_c__%2522catalog%2522) |                                                              |
 
 
 

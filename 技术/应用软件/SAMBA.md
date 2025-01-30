@@ -1,9 +1,18 @@
 > 参考资料：
-> 
+>
 > - [Win10添加Samba共享失败？看完这篇你就能搞定了](https://www.pcoic.com/system/windows/2119.html)
+> - [在 Mac 上设置 SMB 文件共享](https://support.apple.com/zh-cn/guide/mac-help/mh14107/mac)
 # SAMBA
 
 NAS服务器也是使用SAMBA的。所以有些SAMBA问题会放在这里。
+
+## 部署 samba
+
+```
+useradd guest -s /bin/nologin
+```
+
+
 
 ## 常见问题
 
@@ -16,3 +25,6 @@ NAS服务器也是使用SAMBA的。所以有些SAMBA问题会放在这里。
   需要手动修改用户凭据。
 
 - [Linux 启动smb服务器，windows连接smb 服务器](https://blog.csdn.net/xuetaoxuetao/article/details/78857106)
+
+- [Linux Mount Mac Samba](https://wiki.archlinux.org/title/Samba)：需要使用 `cifs`，别忘记标记使用用户：`uid=username,gid=group`
+

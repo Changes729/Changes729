@@ -29,4 +29,15 @@
 - [【宣传】中国经济的挑战与基石【温铁军对谈卢麒元】](https://www.bilibili.com/video/BV1Sw4m1a72U/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：另一条现代化的道路
 - [时长两小时，一口气带你搞明白，中国诸神体系为什么搞不明白？【诸神简史纯享版】](https://www.bilibili.com/video/BV1SJ4m1T7c1/?t=6&spm_id_from=333.1007.tianma.1-1-1.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：有人整理的诸神史，老祖宗起名真好听啊
 - [【马戏之王】《This Is Me》第一次成功彩排震撼主题曲—by Keala Settle](https://www.bilibili.com/video/BV1rW411H7xm/?share_source=copy_web&vd_source=9fc47b63ad1f716c72b5d4de0c6a803b)：歌曲很好听，但是很容易就听厌了
-
+- [辛普森：美国制造 双语字幕 O.J. Made in America](https://www.bilibili.com/video/BV16F411W7ss/?p=4&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [【下架重制版】爆肝2小时3万字梳理，彻底解决困扰我多年的问题：为何禁止回汉通婚？基督教、犹太教和伊斯兰教的联系与区别](https://www.bilibili.com/video/BV15B1RYvEa5/?spm_id_from=333.1007.tianma.1-3-3.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [Family History Stands Between Two Friends | Holy Holocaust | The New Yorker Documentary](https://www.youtube.com/watch?v=Hb2ojGXNJSo)：一部动漫，讲二战之殇和友谊，歌曲还蛮好听的
+- [木板上打印彩色图片 DIY 自制彩色打印机](https://www.bilibili.com/video/BV19j411y7dX/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [给学生批发“葵花宝典”，西方LGBT宣传有多可怕【毒舌的南瓜】](https://www.bilibili.com/video/BV1V2421f7sv/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+  - [宁可亏大钱，马斯克都要灭了LGBT思想](https://www.bilibili.com/video/BV1rm421g75r/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [砒霜，为什么是历史上最受欢迎的毒药？【人类下毒史01】](https://www.bilibili.com/video/BV1U52hYoELd/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [【11月/上坂堇/匹诺曹P】谷歌Chrome 动画短片 01【MCE汉化组】](https://www.bilibili.com/video/BV1puzrYxEtN/?spm_id_from=333.1245.0.0&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [你 好 美 国](https://www.bilibili.com/video/BV1CqizYmEWG/?spm_id_from=333.1387.homepage.video_card.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [什么？！中国的土地一直在增长？【4K】](https://www.bilibili.com/video/BV1PFU9YWEzY/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [难啊！看食材单，还原美食](https://www.bilibili.com/video/BV1JSCnYGEb9/?spm_id_from=333.1007.tianma.2-2-5.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+- [《出走的决心》原型苏敏回应走红接广告质疑：想赚钱，没啥羞耻的](https://www.bilibili.com/video/BV1C7zmY5EvU/?spm_id_from=333.788.videopod.sections&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)

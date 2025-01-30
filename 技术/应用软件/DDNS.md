@@ -1,7 +1,7 @@
 > 参考资料：
 >
-> - [What Is Dynamic DNS (DDNS)?](https://www.checkpoint.com/cyber-hub/cyber-security/what-is-dns-domain-name-server/what-is-dynamic-dns-ddns/)
 > - [[Archlinux] Dynamic DNS](https://wiki.archlinux.org/title/Dynamic_DNS)
+> - [Get IPv4 and IPv6 with one command](https://stackoverflow.com/questions/23699306/get-ipv4-and-ipv6-with-one-command)：`dig` 工具，可以解析DNS
 
 # DDNS（dynamic DNS）
 

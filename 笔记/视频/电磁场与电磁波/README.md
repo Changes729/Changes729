@@ -14,13 +14,13 @@
 
 ## 麦克斯韦方程组
 
-全电流定律：$\nabla \times H = J + \frac{\partial D}{\partial t}$ ，$J$ 传导电流，可以产生磁场 $H$，变化的电场$D$，也可以产生磁场$H$。
+全电流定律：$\nabla \times H = J + \frac{\partial E}{\partial t}$ ，$J$ 传导电流，可以产生磁场 $H$，变化的电场$E$，也可以产生磁场$H$。
 
 电磁感应定律：$\nabla \times E = - \frac{\partial B}{\partial t}$ ，时变的磁场$B$，可以产生时变的电场$E$
 
-磁通连续性原理：$\nabla \cdot B = 0$ 
+磁通连续性原理：$\nabla \cdot B = 0$，封闭曲面的净磁通量为0
 
-高斯定理：$\nabla \cdot D = \rho$
+高斯定理：$\nabla \cdot E = \rho$，任何封闭面的电场通量与电荷成正比。此方程为微分形式
 
 
 

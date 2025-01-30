@@ -4,10 +4,19 @@
 > - [platformIO上传程序到stm32失败](https://blog.csdn.net/nick_young_qu/article/details/108217987)：解决方案修改工程配置文件，在工程配置文件`platformio.ini`中`[env...]`下添加`upload_flags = -c set CPUTAPID 0x2ba01477`
 > - [stm32duino](https://github.com/stm32duino)/**[wiki](https://github.com/stm32duino/wiki)**
 > - [stm32duino](https://github.com/stm32duino)/**[Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)**
+> - [dfu-util - Device Firmware Upgrade Utilities](https://dfu-util.sourceforge.net/)：STM32 USB Download
+>   - [lupyuen](https://github.com/lupyuen)/[bluepill-bootloader](https://github.com/lupyuen/bluepill-bootloader)
+> - https://stm32-base.org/assets/pdf/boards/original-schematic-STM32F103C8T6-Blue_Pill.pdf
 
 # STM32
 
 STM32 使用 HID 需要在 Platform.ini 中 配置 `PIO_FRAMEWORK_ARDUINO_ENABLE_HID`
+
+
+
+## 硬件相关
+
+STM32尽量[不要使用硬件IIC](https://blog.csdn.net/weixin_41101205/article/details/88723007?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPaidSort-1-88723007-blog-139848940.235%5Ev43%5Epc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPaidSort-1-88723007-blog-139848940.235%5Ev43%5Epc_blog_bottom_relevance_base7&utm_relevant_index=1)；使用软件IIC的时候出现了IIC-BUSY锁死的情况。
 
 
 

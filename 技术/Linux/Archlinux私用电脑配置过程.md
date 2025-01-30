@@ -46,7 +46,7 @@
      static domain_name_servers=192.168.1.1
      ```
      
-   - 修改host
+   - ~~修改host~~：`enable systemd-resolved.service`
 
    - [可选] WiFi 设置，编辑 `wpa_supplicant.conf`
 
@@ -63,7 +63,11 @@
 
    - [可选] 为新用户提供sudo权限，`visudo`，需要安装`sudo`
 
-     自动登陆
+     ```
+     export EDITOR=vim
+     ```
+
+   - 自动登陆
 
      - 创建文件`/etc/systemd/system/getty@tty1.service.d/autologin.conf`并写入，中括号不带：
 
@@ -79,6 +83,7 @@
 
    - 修改`/etc/pacman.d/mirrorlist`
    - 更新升级`pacman -Syyu`
+   - 添加 archlinuxcn 源：https://mirrors.ustc.edu.cn/help/archlinuxcn.html
 
 4. 安装`zsh`，将其作为默认shell程序，并选用一个适合的风格
 
@@ -99,7 +104,7 @@
      ```
      if [[ ! $DISPLAY && $XDG_VTNR -le 3 ]]; then  # le 3 可以支持多显示器
          case $(ps -o comm= -p $PPID) in
-             sshd | */sshd) echo "Welcome ssh." ;; # 判断终端是否是ssh登陆的
+             sshd-session | */sshd) echo "Welcome ssh." ;; # 判断终端是否是ssh登陆的
      	    *) exec startx ~/.xinitrc i3;;					  # 只允许电脑启动xserver
          esac
      fi
@@ -109,7 +114,9 @@
 
    - `pacman -S i3-wm`
 
-   - 修改`~/.xinitrc`
+   - `cp /etc/X11/xinit/xinitrc ~/.xinitrc`
+
+   - 修改`~/.xinitrc` 
 
      ```
      ...
@@ -250,11 +257,12 @@
 | htop                                                         |                  |                                                              |
 | nvtop                                                        |                  |                                                              |
 | Nvm                                                          | pikaur           | echo 'source /usr/share/nvm/init-nvm.sh' >> ~/.bashrc        |
-| nvidia (linux kernel)、nvidia-settings                       |                  | 需要重新生成 initcpio                                        |
-| bluez、bluez-utils                                           |                  |                                                              |
-| Pulseaudio、pulseaudio-bluetooth、pulseaudio-alsa            |                  | 蓝牙音频                                                     |
-| Pavucontrol                                                  |                  |                                                              |
+| nvidia (linux kernel) nvidia-settings                        |                  | 需要重新生成 initcpio                                        |
+| bluez bluez-utils                                            |                  |                                                              |
+| pulseaudio pulseaudio-bluetooth pulseaudio-alsa              |                  | 蓝牙音频                                                     |
+| pavucontrol                                                  |                  |                                                              |
 | udisks2                                                      |                  |                                                              |
+| polkit                                                       |                  |                                                              |
 | typora-free                                                  | pikaur           |                                                              |
 | Syncthing                                                    |                  | 文件同步（网络服务）                                         |
 | rsync                                                        |                  | 文件同步                                                     |
@@ -295,6 +303,7 @@
 | sdl2、sdl2_image、sdl2_mixer、sdl2_ttf、sdl2_gfx、sdl2_net   |                  |                                                              |
 | MariaDB                                                      |                  |                                                              |
 | [darktable](https://archlinux.org/packages/?name=darktable) \| [rawtherapee](https://archlinux.org/packages/?name=rawtherapee) |                  | raw 图像格式支持                                             |
+| warp                                                         |                  | cloudfare tunnal 服务                                        |
 
  
 
@@ -336,6 +345,38 @@ QEMU中使用 wayland，还需要安装 `phodav`。[Linux UTM Documentation](htt
 
 
 
+### terminator
+
+- 无法split：hostname问题，需要修改为 localhost
+- 透明背景
+
+
+
 ### suspend 支持
 
 - [Suspend/resume service files](https://wiki.archlinux.org/title/Power_management#Suspend/resume_service_files)
+
+
+
+### X11 熄屏
+
+- https://wiki.archlinux.org/title/Display_Power_Management_Signaling
+  - [How to disable screen going blank/off in X11? duplicate\]](https://unix.stackexchange.com/questions/638022/how-to-disable-screen-going-blank-off-in-x11)
+  - `xset s off -dpms`
+  
+- 触摸屏：
+
+  - `xinput --map-to-output [xinput id] [xrandr id]`
+  - `xinput : xorg-xinput`
+
+- 鼠标大小：
+
+  - ```
+    Xcursor.size: 48
+    ```
+
+
+
+### Chrome 插件
+
+- [volca](https://github.com/volca)/[markdown-preview](https://github.com/volca/markdown-preview)

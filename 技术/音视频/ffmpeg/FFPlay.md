@@ -8,6 +8,10 @@
 
 `-fs`：Start in fullscreen mode. 全屏模式
 
+`s`：步进
+
+`<-` ：10s回退
+
 
 
 ## C语言重定向获取 FFPlay 的视频播放信息

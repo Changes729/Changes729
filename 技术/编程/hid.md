@@ -6,6 +6,7 @@
 >   - [ZMK ( Zephyr™ Mechanical Keyboard Firmware )](https://github.com/zmkfirmware/zmk): [**hid.h**](https://github.com/zmkfirmware/zmk/blob/6dc436cb23ac361fd375725d60f638db3b1709da/app/include/zmk/hid.h)
 > - [STM32 HID](https://www.keil.com/download/docs/361.asp)
 > - [Arduino HID](https://www.arduino.cc/reference/en/libraries/hid-project/)
+> - [go-vgo](https://github.com/go-vgo)/[robotgo](https://github.com/go-vgo/robotgo)：Golang HID robot
 
 # Human Interface Device (HID)
 

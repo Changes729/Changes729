@@ -21,6 +21,15 @@
   }   
   ```
 
+- 任意文件转C数组：`xxd -i [file]`
+
+- [把C数组转成文件](https://stackoverflow.com/questions/11249859/how-to-save-a-byte-type-char-array-data-to-a-file-in-c)：
+
+  ```cpp
+  FILE* file = fopen( "myfile.bin", "wb" );
+  fwrite( array, 1, 100, file );
+  ```
+
 
 
 ## 数组定义

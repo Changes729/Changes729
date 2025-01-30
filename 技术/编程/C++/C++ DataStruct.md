@@ -1,5 +1,7 @@
 # C++ DataStruct
 
+- [列表初始化](https://zh.cppreference.com/w/cpp/language/list_initialization)
+
 - [优先队列（priority_queue）](https://zh.cppreference.com/w/cpp/container/priority_queue)
 
   - 构造函数：
@@ -39,6 +41,16 @@
   - [push_back](https://zh.cppreference.com/w/cpp/container/vector/push_back)：拷贝或**移动**value到容器末尾。
 
     **复杂度**：均摊常数。
+  
+- [元组（tuple）](https://zh.cppreference.com/w/cpp/utility/tuple)
+
+  - [C++17 结构化绑定](https://en.cppreference.com/w/cpp/language/structured_binding)：
+
+    ```cpp
+    const auto [gpa3, grade3, name3] = get_student(3);
+    ```
+
+    
 
 
 

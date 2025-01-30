@@ -7,6 +7,7 @@
 > - [HTTPS proxy tunnel](https://github.com/axios/axios/issues/925#issuecomment-359982190)：HTTPS-over-HTTP tunnel
 >   - [Node.js Axios behind corporate proxies](https://janmolak.com/node-js-axios-behind-corporate-proxies-8b17a6f31f9d)
 >   - [How to do proxy and TLS in golang](https://stackoverflow.com/questions/61401128/how-to-do-proxy-and-tls-in-golang)：介绍了如何使用 openssl 测试 TLS 连接。也有一些关于代理的知识
+> - [一步步生成一张 TLS 证书](https://0x00.cl/blog/2024/exploring-tls-certs/)
 
 # HTTPS
 

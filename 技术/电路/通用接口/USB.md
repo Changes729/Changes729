@@ -1,16 +1,34 @@
 > 参考资料：
 >
 > - [USB Document Library](https://www.usb.org/documents)
->- [Device Class Definition for Human Interface Devices](https://www.usb.org/sites/default/files/hid1_11.pdf)
+> - [Device Class Definition for Human Interface Devices](https://www.usb.org/sites/default/files/hid1_11.pdf)
 > - [HID Usage Tables](https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf)
+>   - [示例报告描述符 (touchscreen-sample-report-descriptors)](https://learn.microsoft.com/zh-cn/windows-hardware/design/compon)：微软触摸屏示例描述符
 > - [STM32 "USB Device" vs. "USB OTG HS" - what is the difference?](https://electronics.stackexchange.com/questions/234516/stm32-usb-device-vs-usb-otg-hs-what-is-the-difference)：Device 只能作为设备，而 OTG HS 就能作为主设备了。然后文章还说了一句：STM32 HS片上不支持HS，还需要外挂。
 > - [USB 之一 USB2.0 规范详解 第一部分](https://blog.csdn.net/ZCShouCSDN/article/details/79957404)
 > - [STM32 之三 标准外设版USB驱动库详解（架构+文件+函数+使用说明+示例程序）](https://blog.csdn.net/ZCShouCSDN/article/details/78936456)：这文章写的蛮好的
 > - [WCH选型说明](https://special.wch.cn/zh_cn/USBChips/#/)
 > - [[USB] VBUS](https://blog.csdn.net/muojie/article/details/7205275?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166910582416800213014551%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166910582416800213014551&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-7205275-null-null.142^v66^wechat,201^v3^control,213^v2^t3_control2&utm_term=usb%20vbus&spm=1018.2226.3001.4187)：说明了 VBUS 取电规范
 > - [USB Type-C接口PD协议解决方案](https://www.richtek.com/Design%20Support/Technical%20Document/AN056?sc_lang=zh-CN)
+> - [USB协议详解第28讲（USB硬件设计和热拔插原理）](https://blog.csdn.net/weiaipan1314/article/details/113447854)
 
 # USB
+
+## Wire
+
+- 90欧姆差分走线
+
+Low-speed：低速设备端在D-上集成1.5K上拉电阻。
+
+![img](https://i-blog.csdnimg.cn/blog_migrate/41a527ffb56f2df893625a53746da4b8.png)
+
+![img](https://i-blog.csdnimg.cn/blog_migrate/9ff1646c2bbc9beae34f581821490bae.png)
+
+Full-speed/High-speed：全速、高速设备端在D+上集成1.5K上拉电阻。
+
+![img](https://i-blog.csdnimg.cn/blog_migrate/2ee9f2a376e5b507202dabb6632fabd2.png)
+
+![img](https://i-blog.csdnimg.cn/blog_migrate/07713cf3641e316bad43ec30482b9e3f.png)
 
 ## HID
 

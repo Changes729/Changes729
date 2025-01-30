@@ -4,6 +4,8 @@
 > - [Start a New React Project](https://react.dev/learn/start-a-new-react-project)
 > - [Getting Started with React](https://nextjs.org/learn/react-foundations/getting-started-with-react)：这里介绍了如何在原生 HTML 中添加 React，一共三个库
 > - [Building UI with Components](https://nextjs.org/learn/react-foundations/building-ui-with-components)：很简单的阐释了 React UI，需要注意的是 React Properties 只能由父级传递到子级。
+> - [使用 Promise](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Using_promises)：一种很好的事务管理办法
+> - [React Router](https://reactrouter.com/)：客户端路由，防止过度请求服务器
 
 # React 前端
 
@@ -13,6 +15,7 @@
 | ------------------------------------------------- | ----------- | ---- | ----- |
 | [Next.js](https://nextjs.org/learn/dashboard-app) |             |      |       |
 | [Expo](https://expo.dev/)                         |             |      |       |
+| Vue                                               |             |      |       |
 
 
 

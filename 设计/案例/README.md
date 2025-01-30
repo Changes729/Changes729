@@ -61,6 +61,13 @@
 
 - [看见声音](https://mp.weixin.qq.com/s/s5wFCGeb0qwrh6N_zDJLjQ)
 - [同济大学信息艺研组](https://public.tableau.com/app/profile/tongjidataviz)：一些数据可视化Demo
+- [永盛开的机械郁金香](https://zh.mfgrobots.com/mfg/mpm/1005017516.html)：机械花
+
+
+
+## 社会设计
+
+- [社会创新案例](https://lib.3feng.im/venture-philanthropy/social-innovation-cases.html)
 
 
 

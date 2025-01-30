@@ -36,3 +36,18 @@
 - [锂电池保护](https://detail.tmall.com/item.htm?spm=a230r.1.14.38.5a7f959dfTi95x&id=558346048387&ns=1&abbucket=10)：这种是被动式平衡充，一般是充电IC+锂电池保护板配合
 - [AMS1117](https://so.szlcsc.com/global.html?k=AMS1117&hot-key=)：LDO 三端稳压芯片
 
+
+
+## 器件整理
+
+### 电池充电芯片
+
+| 类型                                                         | 输入电压   | 电池类型          | 电池数量 | 电流  | 价格                                                         |
+| ------------------------------------------------------------ | ---------- | ----------------- | -------- | ----- | ------------------------------------------------------------ |
+| [SGM40567-4.2XG/TR](https://www.sg-micro.com/rect/assets/e95e555a-a8a2-4761-b86a-6554dff2d8ed/SGM40567.pdf) | 3.65V-5.5V | Li-Ion            | 1S       | 700mA |                                                              |
+| [SGM4056-6.8YTDE8G/TR](https://www.sg-micro.com/rect/assets/61b5101c-30a6-422b-8008-05c116902865/SGM4056.pdf) | 6V         | Li-Ion\Li-polymer | 1S       | 900mA | [0.63](https://item.taobao.com/item.htm?spm=a21n57.1.item.6.27ae100fb2BfaO&priceTId=214781ac17213920959124383ee5e2&utparam=%7B%22aplus_abtest%22:%2210666f9cb2989d84a6cda9c236f06d00%22%7D&id=584245783298&ns=1&abbucket=19) |
+| [BQ25100AYFPR](https://www.ti.com/lit/ds/symlink/bq25100a.pdf?ts=1721321529151&ref_url=https%253A%252F%252Fwww.google.com%252F) | 30V        | Li-Ion            | 1S       | 250mA |                                                              |
+| [LGS4056HDA-4.2](https://www.lcsc.com/datasheet/lcsc_datasheet_2304071430_Legend-Si-LGS4056HDA-4-35_C5280698.pdf)/LGS4056HDA | 28V        | Li-Ion            | 1S       | 1A    | [0.67-0.33](https://item.szlcsc.com/5719294.html?fromZone=s_s__%2522LGS4056HDA-4.2%2522) |
+| TP4054                                                       | 7V         |                   | 1S       | 500mA | [0.12-0.06](https://item.szlcsc.com/5745573.html?fromZone=l_c__%2522catalog%2522) |
+| SLM6305                                                      | 4~26V      |                   | 1S       | 2.5A  | [2.46-1.3](https://item.szlcsc.com/750082.html?fromZone=l_c__%2522catalog%2522) |
+
