@@ -17,5 +17,3 @@
 ## 👏 欢迎合作
 
 email：changes729@163.com
-
-WeChat： Ankh0729
