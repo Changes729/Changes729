@@ -28,11 +28,9 @@
    - 修改`/etc/hostname`
 
      ```
-     127.0.0.1	localhost
-     ::1		localhost
-     127.0.1.1	myhostname.localdomain	myhostname # 主机名.本地域名 主机名
+     localhost
      ```
-
+     
    - 不要忘记修改root密码`passwd`
 
    - [可选] 配置静态IP
@@ -47,6 +45,9 @@
      ```
      
    - ~~修改host~~：`enable systemd-resolved.service`
+
+     - `ln -sf ../run/systemd/resolve/stub-resolv.conf /etc/resolv.conf`
+     - 修改 `/etc/systemd/resolved.conf` 添加 DNS
 
    - [可选] WiFi 设置，编辑 `wpa_supplicant.conf`
 
@@ -84,6 +85,7 @@
    - 修改`/etc/pacman.d/mirrorlist`
    - 更新升级`pacman -Syyu`
    - 添加 archlinuxcn 源：https://mirrors.ustc.edu.cn/help/archlinuxcn.html
+   - 安装 `archlinuxcn-keyring` 包
 
 4. 安装`zsh`，将其作为默认shell程序，并选用一个适合的风格
 
@@ -147,7 +149,7 @@
 
 8. 安装字体和浏览器
 
-   - 数学符号和表情：`pacman -S texlive-core texlive-fontsextra`
+   - 数学符号和表情：`pacman -S texlive-core texlive-fontsextra noto-fonts-emoji`
    - 思源字体：`pacman -S adobe-source-han-sans-otc-fonts adobe-source-han-serif-otc-fonts`
    - 编程字体：`pacman -S adobe-source-code-pro-fonts`
    - 安装浏览器：`pacman -S chromium`或从AUR下载`google-chrome`
@@ -211,21 +213,21 @@
       XMODIFIERS    DEFAULT=\@im=fcitx
       INPUT_METHOD  DEFAULT=fcitx
       SDL_IM_MODULE DEFAULT=fcitx
-      GLFW_IM_MODULE DEFAULT=ibus
+      GLFW_IM_MODULE DEFAULT=fcitx
       ```
 
     - 安装中文输入法`rime`：`pacman -S fcitx5-rime` 或者 `pacman -S fcitx5-chinese-addon`
 
 13. 安装截图软件，配置截图快捷键
 
-    - `pacman -S scrot`
+    - `pacman -S flameshot`
 
     - 修改`.config/i3/config`添加
 
       ```
       # Screen Capture
-      bindsym --release Shift+Print exec "scrot -l mode=edge -s -e 'mv $f [Your Dir]'"
-      bindsym --release Print exec "scrot -e 'mv $f [Your Dir]'"
+      bindsym --release Shift+Print exec "flameshot gui -c -p ~/Downloads"
+      bindsym --release Print exec "flameshot full -c -p ~/Downloads"
       ```
 
 14. 安装`rofi`
@@ -259,7 +261,8 @@
 | Nvm                                                          | pikaur           | echo 'source /usr/share/nvm/init-nvm.sh' >> ~/.bashrc        |
 | nvidia (linux kernel) nvidia-settings                        |                  | 需要重新生成 initcpio                                        |
 | bluez bluez-utils                                            |                  |                                                              |
-| pulseaudio pulseaudio-bluetooth pulseaudio-alsa              |                  | 蓝牙音频                                                     |
+| ~~pulseaudio pulseaudio-bluetooth pulseaudio-alsa~~          |                  | 蓝牙音频                                                     |
+| pipewire pipewire-audio  pipewire-alsa  pipewire-pulse       |                  | systemctl --user start pipewire.service pipewire-pulse.service |
 | pavucontrol                                                  |                  |                                                              |
 | udisks2                                                      |                  |                                                              |
 | polkit                                                       |                  |                                                              |
@@ -275,10 +278,10 @@
 | virtualbox                                                   |                  | https://wiki.archlinuxcn.org/wiki/VirtualBox，内核模块注意   |
 | scrcpy                                                       |                  |                                                              |
 | android-studio                                               | pikaur           |                                                              |
-| [remmina](https://archlinux.org/packages/?name=remmina) &  [libvncserver](https://archlinux.org/packages/?name=libvncserver) |                  | linux 远程 mac                                               |
+| [remmina](https://archlinux.org/packages/?name=remmina) &  [libvncserver](https://archlinux.org/packages/?name=libvncserver) & freerdp |                  | linux 远程 mac; windows; windows 可能需要安装 [rdpwrap](https://blog.csdn.net/u014552102/article/details/125985769)<br />https://blog.csdn.net/u014552102/article/details/125985769<br />https://github.com/sebaxakerhtc/rdpwrap.ini/blob/master/rdpwrap.ini<br />C:\Program Files\RDP Wrapper<br />net stop termservice |
 | [arch-install-scripts](https://archlinux.org/packages/?name=arch-install-scripts) |                  | genfstab                                                     |
 | cmake                                                        |                  |                                                              |
-| wps-office-cn                                                |                  | pdf 需要按照 [libtiff5](https://aur.archlinux.org/packages/libtiff5/) |
+| wps-office-cn                                                |                  | pdf 需要按照 [libtiff5](https://aur.archlinux.org/packages/libtiff5/);QT_IM_MODULE=fcitx wpp |
 | samba                                                        |                  | smbpasswd -a [samba_user]                                    |
 | unzip                                                        |                  |                                                              |
 | [minio](https://github.com/minio/minio)                      |                  |                                                              |
@@ -292,7 +295,7 @@
 | steam                                                        |                  |                                                              |
 | [p7zip](https://archlinux.org/packages/?name=p7zip)          |                  |                                                              |
 | [unrar](https://archlinux.org/packages/?name=unrar)          |                  |                                                              |
-| peek                                                         |                  |                                                              |
+| [peek](https://github.com/phw/peek)                          |                  | （截至2023-01年不再开发）                                    |
 | clang                                                        |                  |                                                              |
 | vi                                                           |                  |                                                              |
 | python-pdfminer                                              |                  | pdf2txt.py                                                   |
@@ -304,6 +307,13 @@
 | MariaDB                                                      |                  |                                                              |
 | [darktable](https://archlinux.org/packages/?name=darktable) \| [rawtherapee](https://archlinux.org/packages/?name=rawtherapee) |                  | raw 图像格式支持                                             |
 | warp                                                         |                  | cloudfare tunnal 服务                                        |
+| netease-cloud-music                                          | pikaur           |                                                              |
+| [zram-generator](https://archlinux.org/packages/?name=zram-generator) |                  | 配置 zram                                                    |
+| ddclient                                                     |                  | ddns 支持                                                    |
+| udisks2                                                      |                  | udisksctl mount -b /dev/sdc1                                 |
+| [screenfetch](https://archlinux.org/packages/extra/any/screenfetch/) |                  |                                                              |
+| mdadm                                                        |                  | RAID                                                         |
+| gdisk                                                        |                  |                                                              |
 
  
 

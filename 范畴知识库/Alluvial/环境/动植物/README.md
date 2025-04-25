@@ -5,6 +5,8 @@
 > - [人类怎样失去了挽救白鲟的最后机会？](https://mp.weixin.qq.com/s/Wxiy2AD75pmVq4BVbyBCLQ)
 > - [金盆洗手吧，植物杀手们！](https://mp.weixin.qq.com/s/R3O36xTqYVSr3ArjB0ZKFA)：空气凤梨、大叶植物、块根植物
 > - [男孩分猫系、犬系……和植物系](https://mp.weixin.qq.com/s/qpV6jd7iRF7azdmAOwHcSw)：布丰花，火灾是构成他们完整生态的一部分
+> - [[图解]植物的扦插繁殖方法](https://www.bilibili.com/video/BV1R54y1z7XJ/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+> - [绣球扦插实战教学，注意这几点，生根发芽特别快，来年开花爆满盆](https://www.bilibili.com/video/BV17h411v7tp/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
 
 # 动物
 
@@ -27,6 +29,8 @@
 - [温郁金](https://baike.baidu.com/item/%E6%B8%A9%E9%83%81%E9%87%91/5232627)
 
 - [柳叶马鞭草](https://baike.baidu.com/item/%E6%9F%B3%E5%8F%B6%E9%A9%AC%E9%9E%AD%E8%8D%89)
+
+- 五叶地锦星雨
 
 - 空气凤梨（多种凤梨一起种会有感觉）
 

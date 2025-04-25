@@ -8,3 +8,8 @@
 > - [Choosing an embedded Linux build system](https://web.archive.org/web/20220330073411/https://jumpnowtek.com/linux/Choosing-an-embedded-linux-build-system.html)：有说明 buildroot 与 yocto 的区别
 
 # Yocto
+
+## Archlinux 依赖
+
+**01 Docker 安装 Ubuntu**
+

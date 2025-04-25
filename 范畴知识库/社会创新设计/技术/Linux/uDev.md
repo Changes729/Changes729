@@ -32,5 +32,18 @@ looking at parent device '/devices/pci0000:00/0000:00:04.1/usb3/3-2':
   ...
 ```
 
+### devtype：
 
+```
+/sys/class$ ls
+
+atm        graphics       ieee1394_protocol  printer       thermal
+backlight  hidraw         input              rfkill        tty
+bdi        hwmon          mem                scsi_device   usb
+block      i2c-adapter    misc               scsi_disk     vc
+bluetooth  ide_port       net                scsi_generic  video_output
+dma        ieee1394       pci_bus            scsi_host     vtconsole
+dmi        ieee1394_host  power_supply       sound
+firmware   ieee1394_node  ppdev              spi_master
+```
 

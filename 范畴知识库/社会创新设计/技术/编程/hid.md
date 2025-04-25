@@ -5,6 +5,7 @@
 >   - [QMK ( Quantum Mechanical Keyboard Firmware )](https://github.com/qmk/qmk_firmware): [**usb_protocol_hid.h**](https://github.com/qmk/qmk_firmware/blob/e7931289918221081cbe2a7ea5df27a5d86324db/tmk_core/protocol/arm_atsam/usb/usb_protocol_hid.h)
 >   - [ZMK ( Zephyr™ Mechanical Keyboard Firmware )](https://github.com/zmkfirmware/zmk): [**hid.h**](https://github.com/zmkfirmware/zmk/blob/6dc436cb23ac361fd375725d60f638db3b1709da/app/include/zmk/hid.h)
 > - [STM32 HID](https://www.keil.com/download/docs/361.asp)
+>   - [STM32 keyboard](https://github.com/stm32duino/Arduino_Core_STM32/blob/main/libraries/Keyboard/CMakeLists.txt)：GD 32 HID 测试通过
 > - [Arduino HID](https://www.arduino.cc/reference/en/libraries/hid-project/)
 > - [go-vgo](https://github.com/go-vgo)/[robotgo](https://github.com/go-vgo/robotgo)：Golang HID robot
 

@@ -62,6 +62,8 @@
 
   `yutto [url] -c SESSDATA`
 
+  SESSDATA 从 application cookies 里面找
+
 - [pytube](https://github.com/pytube/pytube)：youtube video download
 
   需要代理

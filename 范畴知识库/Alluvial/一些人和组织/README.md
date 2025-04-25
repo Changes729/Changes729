@@ -29,6 +29,7 @@
 - [水光清弦 Cyanlibra](https://cyanlibra.notion.site/Cyanlibra-4609204221724f8f96b406e4ab1855e3)：这是一个个人小站，放了一堆我做的“了解世界，创造生活”的方式。我向你保证，也许你对这些概念曾经感到厌烦，但我以一种新的书写去重新组织了每个议题的结构。每一个链接，都是一扇通往新世界的大门。
 
   - [去哪儿串门 ：全国有趣空间漫游目录](https://cyanlibra.notion.site/b69055f077ef4124925a639c48ebbdf4?v=e195764eba604747b1d476da4311c803)
+  - [去哪儿串门？我们为你搜集了五百多个有趣空间……](https://mp.weixin.qq.com/s/Goi2d_1lvYtNeVBQtxpeYg)
 
 - 烧酒：但说实话，我也是首先想的是这个空间是我往外拓展资源的基础，能够**先去接触和尝试新的人新的东西**，**寻找一些共同创意做事的机会**，后面的事情感觉会有很多不确定性，我对此也是积极的，谁知道什么时候做着做着突然有了很好的机会
 
@@ -63,6 +64,10 @@
 - 绿色江河：三月之后会有动物研究开放申请
   - [“两个人的冬天”志愿者招募](https://mp.weixin.qq.com/s/m4DET37o1WRPQEj0_yCrhw)
 - [*Lean*' website_leanrada'](https://leanrada.com/)
+- [Katharina BRUNNER](https://www.katharinabrunner.com/): [cutterkom/generativeart](https://github.com/cutterkom/generativeart)
+- Antoine：https://wodniack.dev
+  - https://codepen.io/wodniack
+
 
 
 
@@ -77,5 +82,5 @@
   - [理大赛马会社会创新设计院 JCDISI](https://space.bilibili.com/1932539990?spm_id_from=333.337.search-card.all.click)
 - [上海创新创意设计研究院（DIIS）](https://diis.org.cn/Cn)：公众号「设计寰宇」。重点是教学和学习方法的教育创新。
 - [**网络社会研究所**](https://www.caa-ins.org/)：为华文出版届第一本关注技术哲学、网络社会、媒介文化研究的刊物。
-
+- [Human Computer Integration Lab](https://lab.plopes.org/)
 

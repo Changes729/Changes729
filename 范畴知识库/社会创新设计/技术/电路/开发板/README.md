@@ -19,7 +19,7 @@
 
 
 
-⚠️注意：USB低成本开发默认选用沁恒微的CH32F103；通用开发板请选择ESP32-S2
+⚠️注意：USB低成本开发默认选用沁恒微的CH32F103；~~通用开发板请选择ESP32-S2~~ ESP 的 USB-CDC 功能存在严重BUG
 
 
 
@@ -125,8 +125,9 @@ CH552 中断只支持低电平和下降沿。
 
 ## NRF系列
 
-| SOC      | BOARD | 主频   | FLASH | RAM   | DataFlash | 价格  | 渠道                                                         | 其他 |
-| -------- | ----- | ------ | ----- | ----- | --------- | ----- | ------------------------------------------------------------ | ---- |
-| NRF52810 |       | 64 MHz | 192k  | 24K   |           | 2.49  | [淘宝](https://item.taobao.com/item.htm?abbucket=19&id=661903965920&ns=1&priceTId=2150418117168866079921002eb0c0&spm=a21n57.1.item.47.3e2e523ciraGIb&skuId=4944997766993) |      |
-| nRF52840 |       | 64 MHz | 1M    | 256KB |           | 5～18 | [淘宝](https://item.taobao.com/item.htm?id=661903965920&skuId=4944997766999&spm=a1z10.3-c-s.w4002-21047669632.9.4aea27e5MQice1)<br />[1688](https://shop583v9w383o857.1688.com/page/offerlist_185921609.htm?spm=a261y.25179003.13772573013170.2.30d76f844ZvDw5&sortType=wangpu_score) | NFC  |
+| SOC                                                      | BOARD | 主频   | FLASH | RAM   | DataFlash | 价格  | 渠道                                                         | 其他 |
+| -------------------------------------------------------- | ----- | ------ | ----- | ----- | --------- | ----- | ------------------------------------------------------------ | ---- |
+| NRF52810                                                 |       | 64 MHz | 192k  | 24K   |           | 2.49  | [淘宝](https://item.taobao.com/item.htm?abbucket=19&id=661903965920&ns=1&priceTId=2150418117168866079921002eb0c0&spm=a21n57.1.item.47.3e2e523ciraGIb&skuId=4944997766993) |      |
+| nRF52840                                                 |       | 64 MHz | 1M    | 256KB |           | 5～18 | [淘宝](https://item.taobao.com/item.htm?id=661903965920&skuId=4944997766999&spm=a1z10.3-c-s.w4002-21047669632.9.4aea27e5MQice1)<br />[1688](https://shop583v9w383o857.1688.com/page/offerlist_185921609.htm?spm=a261y.25179003.13772573013170.2.30d76f844ZvDw5&sortType=wangpu_score) | NFC  |
+| [nRF52833](https://www.nordicsemi.com/Products/nRF52833) |       | 64 MHz | 512k  | 128kB |           |       |                                                              |      |
 

@@ -9,6 +9,9 @@
 > - [OpenLMLab](https://github.com/OpenLMLab)/[MOSS](https://github.com/OpenLMLab/MOSS)：复旦模型，两张 3090。中文文档
 > - [Hugging Face Documentations](https://huggingface.co/docs)
 > - [**吉尼斯啤酒厂如何发明科学中最重要的统计方法**](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)：t检验，小样本检验的历史
+> - [model context protocol（MCP）](https://github.com/modelcontextprotocol)
+>   - [Model Context Protocol (MCP), clearly explained (why it matters)](https://www.youtube.com/watch?v=7j_NE6Pjv-E)：传统的AI不能帮你去做事情，但是MCP的出现，
+>   - [Model Context Protocol: Introduction](https://modelcontextprotocol.io/introduction)
 
 # AI与统计
 
@@ -41,7 +44,42 @@
 
 ## AIGC（AI-generated Content）
 
-- [Hugging Face](https://huggingface.co/)：一个人工智能AI社群
+- [Hugging Face](https://huggingface.co/)：一个人工智能AI社群，AI的能力：
+  - 图片生成（Image Generation）
+  - 视频生成（Video Generation）
+  - 文本生成（Text Generation）
+  - 翻译（Language Translation）
+  - 音频合成（Speech Synthesis）
+  - 3D 建模（3D Modeling）
+  - 对象检测（Object Detection）
+  - 文本分析（Text Analysis）
+  - 图像编辑（Image Editing）
+  - 代码生成（Code Generation）
+  - 问答（Question Answering）
+  - 数据可视化（Data Visualization）
+  - 语音克隆（Voice Cloning）
+  - 背景去除（Background Removal）
+  - 图像放大（Image Upscaling）
+  - 文本识别（OCR）
+  - 文档分析（Document Analysis）
+  - 视觉问答（Visual QA）
+  - 图像字母（Image Captioning）
+  - 聊天机器人（Chatbots）
+  - 情感分析（Sentiment Analysis）
+  - 文本摘要（Text Summarization）
+  - 音乐生成（Music Generation）
+  - 医学成像（Medical Imaging）
+  - 财务分析（Financial Analysis）
+  - 游戏智能体（Game AI）
+  - 模型基准（Model Benchmarking）
+  - 微调工具（Fine Tuning Tools）
+  - 数据集创建（Dataset Creation）
+  - 姿态估计（Pose Estimation）
+  - 人脸识别（Face Recognition）
+  - 异常检测（Anomaly Detection）
+  - 推荐系统（Recommendation Systems）
+  - 角色动画（Character Animation）
+  - 风格迁移（Style Transfer）
 - [copilot](https://github.com/features/copilot)：代码人工智能辅助
 - 文本转图片：
   - [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)：人工智能制图

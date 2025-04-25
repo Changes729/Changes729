@@ -1,5 +1,5 @@
 > 参考资料
->
+
 > - [PhantomJS not found on PATH](https://github.com/xhlwill/blog/issues/11)：网络问题
 > - [npm ,yarn 更换使用国内镜像源，阿里源，清华大学源](https://zhuanlan.zhihu.com/p/623547625)
 
@@ -21,8 +21,6 @@ npm run build
 yarn create react-app app
 ```
 
-
-
 ## React 打包
 
 默认的话，可以直接 `yarn build`，当然可以先 `yarn eject` 然后再 `yarn build` 打包。
@@ -35,14 +33,10 @@ yarn add dev html-webpack-inline-source-plugin@1.0.0-beta.2
 
 > 说是这个插件[没有维护](https://markdowner.net/skill/215869806883246080)了，然后[文件配置](https://stackoverflow.com/questions/51949719/is-there-a-way-to-build-a-react-app-in-a-single-html-file)可以看这里。
 
-
-
 ### 其他打包器
 
 - Webpack（已经过时，请选用 esbuild）
 - [esbuild](https://esbuild.github.io/)：[esbuild-loader-examples](https://github.com/privatenumber/esbuild-loader-examples)
-
-
 
 ### electron 打包
 
@@ -51,8 +45,6 @@ npm install --save-dev @electron-forge/cli
 npx electron-forge import
 npm run make
 ```
-
-
 
 ## 一些工具
 
@@ -65,15 +57,11 @@ npm run make
 - Puppeteer：配合 chrome headless 自动化测试工具
   - [Headless Chrome](https://www.bilibili.com/video/BV1At41147EQ/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：可以实现截图，jpeg、PDF
 
-
-
 ### 中国源
 
 ```text
 yarn config set registry https://registry.npmmirror.com
 ```
-
-
 
 ## 一些库
 
@@ -98,8 +86,6 @@ yarn config set registry https://registry.npmmirror.com
 [icegl-three-vue-tres](https://github.com/hawk86104/icegl-three-vue-tres)：3d模型显示器
 
 [WebChat](https://github.com/molvqingtai/WebChat)：网页聊天
-
-
 
 ## 一些问题
 

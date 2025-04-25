@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28bbb072ce3dbb3e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "工作/Workdir-projects/硬盒/红外触摸框/box_touch_plan_b.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "box_touch_plan_b"
-            }
-          },
-          {
             "id": "9518a5ccb36e83b7",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,45 +162,45 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9518a5ccb36e83b7",
+  "active": "a0e76f54619ba980",
   "lastOpenFiles": [
-    "生活/日记/README.excalidraw",
-    "游戏/PokeMMO_tools/特殊宝可梦.md",
-    "游戏/PokeMMO_tools/src/tools/shark.py",
-    "游戏/PokeMMO_tools/src/test/走路.py",
-    "游戏/PokeMMO_tools/src/test/细胞.py",
-    "游戏/PokeMMO_tools/src/settings.py",
+    "日志/笔记/公众号/友成企业家乡村发展基金会/社创案例｜谈创新：在问题、解法和行动背后，还有很多看不见的软实力.md",
+    "范畴知识库/Alluvial/推文/社会创新遐想（2025-4）.md",
+    "范畴知识库/Alluvial/推文/Untitled.md",
+    "空无一物项目/良渚/村山.md",
+    "空无一物项目/良渚",
+    "日志/笔记/公众号/斯坦福社会创新评论/旧文新刊 | 变革理论：动态演变与实践探索.md",
+    "eMux Projects/eMux/商业合作问题总结（2025.4）.md",
+    "eMux Projects/eMux/Untitled.md",
+    "范畴知识库/社会创新设计/行动/行动案例表格.md",
+    "范畴知识库/社会创新设计/行动/Untitled.md",
+    "范畴知识库/社会创新设计/行动",
+    "Alluvial Projects/README.excalidraw",
+    "空无一物项目/生生之约/README.md",
+    "空无一物项目/生生之约",
+    "日志/笔记/书籍/《数据之美：一本书学会可视化设计》/07 可视化工具.md",
+    "日志/笔记/书籍/《数据之美：一本书学会可视化设计》/03 掌握可视化设计的原材料.md",
+    "日志/笔记/书籍/《数据之美：一本书学会可视化设计》",
+    "日志/笔记/书籍/Untitled Folder",
+    "范畴知识库/社会创新设计/技术/编程/ARM/STM32.md",
+    "范畴知识库/社会创新设计/技术/编程/ARM",
+    "eMux Projects/锴越/数字工厂/0.2.3 工厂终端扫描.md",
+    "eMux Projects/锴越/数字工厂/0.2.4 工厂实施方案（草案）.md",
+    "空无一物项目/行动村/行动村/活动探针.md",
+    "eMux Projects/eMux/外部支持系统.md",
+    "eMux Projects/硬盒/打卡机/01 产品设计.md",
+    "eMux Projects/硬盒/打卡机/Untitled.md",
+    "日志/笔记/视频/北大高等人文研究院/玛丽伊芙琳塔克（Mary Evelyn Tucker).md",
+    "日志/笔记/视频/北大高等人文研究院",
+    "空无一物项目/行动村/行动村/Untitled.md",
+    "日志/笔记/书籍/《游戏改变世界》/4 游戏化带给互联网时代的现实价值.md",
+    "日志/笔记/书籍/《游戏改变世界》/Untitled.md",
+    "日志/笔记/公众号/阮一峰的网络日志/科技爱好者周刊#344：制造业正在“零工化”.md",
+    "空无一物项目/SSIR社会设计/共学营/翻译文章/975 The Sound of No Music.md",
+    "日志/笔记/期刊/SSIR/The Sound of No Music.md",
+    "范畴知识库/社会创新设计/技术/编程/AI",
+    "日志/笔记/书籍/《人类知识演化史》",
     "游戏/PokeMMO_tools/src/image/seeds/GLACIA.png",
-    "游戏/PokeMMO_tools/resource/doc/视频脚本.md",
-    "游戏/PokeMMO_tools/resource/doc/树果脚本.md",
-    "游戏/PokeMMO_tools/resource/doc/搬砖队.md",
-    "游戏/PokeMMO_tools/resource/doc/捡拾队.md",
-    "游戏/PokeMMO_tools/resource/doc/捕获队.md",
-    "游戏/PokeMMO_tools/resource/doc/强盗队.md",
-    "游戏/PokeMMO_tools/resource/doc/地区稀有怪.md",
-    "游戏/PokeMMO_tools/resource/doc/交易记录.md",
-    "游戏/PokeMMO_tools/resource/doc/交易所.xlsx",
-    "游戏/PokeMMO_tools/resource/doc/Pokemmo种族值选取.xlsx",
-    "游戏/PokeMMO_tools/resource/doc/Pokemmo树果.xlsx",
-    "游戏/PokeMMO_tools/resource/doc/Pokemmo树果.csv",
-    "游戏/PokeMMO_tools/resource/doc/PVP精灵.md",
-    "游戏/PokeMMO_tools/resource/doc/2023年春节活动攻略.md",
-    "游戏/PokeMMO_tools/resource/doc",
-    "游戏/PokeMMO_tools/resource/conf/orchard/irrigation/unova_mistralton_only.json",
-    "游戏/PokeMMO_tools/视频脚本.md",
-    "游戏/PokeMMO_tools/树果脚本.md",
-    "游戏/PokeMMO_tools/搬砖队.md",
-    "游戏/PokeMMO_tools/捡拾队.md",
-    "游戏/PokeMMO_tools/捕获队.md",
-    "游戏/PokeMMO_tools/强盗队.md",
-    "游戏/PokeMMO_tools/交易记录.md",
-    "README~.md",
-    "README_OLD~.md",
-    "README.md",
-    "Untitled.md",
-    "README_OLD.md",
-    "游戏/琉璃/番号~.md",
-    "游戏/琉璃/README~.md",
     "截屏2024-07-27 11.17.18.png",
     "截屏2024-07-27 12.41.00.png",
     "Pasted Image 20240628141500_307.png",
