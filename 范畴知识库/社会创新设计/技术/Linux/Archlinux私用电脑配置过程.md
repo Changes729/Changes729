@@ -314,6 +314,7 @@
 | [screenfetch](https://archlinux.org/packages/extra/any/screenfetch/) |                  |                                                              |
 | mdadm                                                        |                  | RAID                                                         |
 | gdisk                                                        |                  |                                                              |
+| tesseract                                                    |                  | tesseract-data-eng 有一些 PDF 不能直接OCR,需要转成PNG然后OCR |
 
  
 
