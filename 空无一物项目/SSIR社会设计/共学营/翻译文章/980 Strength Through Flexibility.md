@@ -12,7 +12,7 @@ Development experts have long known that educating girls is one of the surest wa
 
 By Kim Jonker | Winter 2010
 
-作者：金·乔克 2010年冬季
+作者：金·琼克 2010年冬季
 
 
 
@@ -94,7 +94,7 @@ In selecting sites for its COEs, FAWE targeted normal government schools in Burk
 
 But reflecting its flexibility, FAWE has not created a franchise of cookie-cutter schools. Instead, the organization works with leaders in each community to customize its COE to local needs and sensibilities. “Because our communities are so different, our model schools have ended up being very different from one another,” explains Diaw. In the Kajiado District of Kenya, for example, the community recognized that it needed to offer girls refuge from abuse, forced marriage, and genital cutting. And so the Kajiado COE opened a rescue center to operate alongside the school. “The community led the initiative to create this rescue center,” says Diaw. “But we have resisted the temptation to push the concept onto other communities, because they are likely to have their own needs and priorities.”
 
-但是，为了体现其灵活性，FAWE 并没有创建一个 “一刀切 ”的特许经营学校。相反，该组织与每个社区的领导者合作，根据当地的需求和敏感性定制社区教育中心。“迪奥解释说：”由于我们的社区千差万别，因此我们的示范学校也大相径庭。例如，在肯尼亚的卡贾多地区，社区认识到需要为女孩提供庇护，使其免受虐待、强迫婚姻和切割生殖器之苦。因此，卡贾多社区教育中心（Kajiado COE）开设了一个救助中心，与学校一起运作。迪奥说：”社区主导了建立这个救助中心的倡议。迪奥乌说，“但我们抵制住了将这一概念推向其他社区的诱惑，因为他们很可能有自己的需求和优先事项”。
+但是，为了体现其灵活性，FAWE 并没有创建一个 “一刀切 ”的特许经营学校。相反，该组织与每个社区的领导者合作，根据当地的需求和敏感性定制社区教育中心。“迪奥解释说：”由于我们的社区千差万别，因此我们的示范学校也大相径庭。例如，在肯尼亚的卡贾多地区，社区认识到需要为女孩提供庇护，使其免受虐待、强迫婚姻和切割生殖器之苦。因此，卡贾多社区教育中心（Kajiado COE）开设了一个救助中心，与学校一起运作。迪奥说：”社区主导了建立这个救助中心的倡议。迪奥说，“但我们抵制住了将这一概念推向其他社区的诱惑，因为他们很可能有自己的需求和优先事项”。
 
 
 
@@ -170,7 +170,7 @@ To craft interventions for a continent with more than a thousand different langu
 
 “We couldn’t be successful in promoting girls’ education without constant efforts to involve teachers and principals at every turn in everything we do,” Diaw says. “We also constantly talk to children [both boys and girls] and solicit their views.”
 
-“如果不持续的努力，让教师和校长参与到我们所做的每一件事中，我们就不可能成功地促进女孩教育，”迪奥乌说。"我们还经常与儿童（包括男孩和女孩）交谈，征求他们的意见。
+“如果不持续的努力，让教师和校长参与到我们所做的每一件事中，我们就不可能成功地促进女孩教育，”迪奥说。"我们还经常与儿童（包括男孩和女孩）交谈，征求他们的意见。
 
 
 
@@ -182,11 +182,13 @@ In 2008, for example, FAWE organized a Girls’ Forum at its general assembly, w
 
 FAWE also solicits the voices of donors through an annual meeting, which includes as many as 40 different donor organizations and partners. At the 2007 meeting in Nairobi, for instance, FAWE asked meeting participants to comment on the organization’s strategic plan. Many of the donors felt that the plan placed too much emphasis on FAWE'’s organizational development and not enough emphasis on its program development. In response, FAWE increased its budget for its national chapter programs and decreased its budget for the Nairobi headquarters’ overhead, says de Comarmond.
 
-FAWE 还通过年度会议征求捐助者的意见，该会议包括多达 40 个不同的捐助组织和 合作伙伴。例如，在 2007 年内罗毕会议上，FAWE 请与会者对本组织的战略计划发表意见。许多捐助方认为，该计划过于强调 FAWE 的组织发展，而对其计划发展重视不够。作为回应，妇女教育学家联合会增加了全国分会计划的预算，减少了内罗毕总部管理费用的预算，de Comarmond 说。
+FAWE 还通过年度会议征求捐助者的意见，该会议包括多达 40 个不同的捐助组织和 合作伙伴。例如，在 2007 年内罗毕会议上，FAWE 请与会者对本组织的战略计划发表意见。许多捐助方认为，该计划过于强调 FAWE 的组织发展，而对其计划发展重视不够。作为回应，FAWE 增加了全国分会计划的预算，减少了内罗毕总部管理费用的预算，德-科马蒙说。
 
 
 
 ## ENCOURAGE COLLABORATION
+
+## 促进协作
 
 Including many voices is necessary but not sufficient for FAWE’s flexibility and, ultimately, its success. The organization must also cultivate a strong spirit of collaboration to keep from getting stuck in endless disagreements between its many stakeholders.
 
@@ -196,7 +198,7 @@ Including many voices is necessary but not sufficient for FAWE’s flexibility a
 
 To promote collaboration across its 35 national chapters, FAWE uses a four-pronged approach: emphasize learning from one another and working together, provide funds for chapters to visit each other, provide funds for projects between chapters, and codify the lessons learned in individual chapters and then share them with the other FAWE chapters.
 
-为了促进其 35 个全国分会之间的合作，妇女教育学家联合会采用了四管齐下的方法：强调相互学习和共同努力；为分会之间的互访提供资金；为分会之间的项目提供资金；将各个分会的经验教训编纂成册，然后与妇女教育学家联合会的其他分会分享。
+为了促进其 35 个全国分会之间的合作，FAWE 采用了四管齐下的方法：强调相互学习和共同努力；为分会之间的互访提供资金；为分会之间的项目提供资金；将各个分会的经验教训编纂成册，然后与 FAWE 的其他分会分享。
 
 
 
@@ -208,19 +210,19 @@ By 2001, for example, the FAWE chapter in Ghana had developed an impressive pube
 
 FAWE also has a long history of collaborating with governments. In developing countries, ngos and governments are often suspicious of one another, and so tend to work independently. Yet from its founding as an advocacy organization, FAWE has nurtured strong ties with the public sector, which help the organization quickly scale up its programs and magnify its impact. For instance, rather than taking over the management of its COE schools—which are government schools—FAWE works with the government to improve them. Governments continue to pay teachers’ salaries and supply basic infrastructure and curriculum, while FAWE works with community members to identify and respond to specific needs and provides additional teaching and learning programs.
 
-FAWE 与政府的合作也由来已久。在发展中国家，非政府组织和政府往往相互猜疑，因此往往各自为政。然而，作为一个倡导组织，FAWE 从成立之初就与公共部门建立了紧密的联系，这有助于该组织迅速扩大其项目规模并扩大影响。例如，妇联没有接管其 COE 学校（即公立学校）的管理，而是与政府合作改善这些学校。政府继续支付教师工资，提供基本的基础设施和课程，而非洲妇女教育基金会则与社区成员合作，确定和满足特殊需求，并提供额外的教学和学习计划。
+FAWE 与政府的合作也由来已久。在发展中国家，非政府组织和政府往往相互猜疑，因此往往各自为政。然而，作为一个倡导组织，FAWE 从成立之初就与公共部门建立了紧密的联系，这有助于该组织迅速扩大其项目规模并扩大影响。例如，妇联没有接管其 COE 学校（即公立学校）的管理，而是与政府合作改善这些学校。政府继续支付教师工资，提供基本的基础设施和课程，而 FAWE 则与社区成员合作，确定和满足特殊需求，并提供额外的教学和学习计划。
 
 
 
 Wherever possible, FAWE also works with other NGOs. For example, FAWE partnered with grassroots women’s groups (including savings groups and cooperatives) to form an allianc for the education of rural girls. In the five participating countries, this alliance helped an estimated 2 million girls obtain resources for schooling. At the same time, the girls taught literacy and numeracy to the women in the grassroots groups. In another partnership, FAWE collaborated with South Africa-based ActionAid International to distribute programs for reducing violence against girls.
 
-只要有可能，妇女教育学家论坛还与其他非政府组织合作。例如，FAWE 与基层妇女团体（包括储蓄团体和合作社）合作，成立了农村女孩教育联盟。在五个参与国中，该联盟帮助约 200 万女孩获得了上学的资源。同时，这些女孩还向基层团体的妇女传授识字和算术。在另一项合作中，FAWE 与总部设在南非的国际援助行动组织合作，分发减少针对女孩暴力的计划。
+只要有可能，FAWE 还与其他非政府组织合作。例如，FAWE 与基层妇女团体（包括储蓄团体和合作社）合作，成立了农村女孩教育联盟。在五个参与国中，该联盟帮助约 200 万女孩获得了上学的资源。同时，这些女孩还向基层团体的妇女传授识字和算术。在另一项合作中，FAWE 与总部设在南非的国际援助行动组织合作，分发减少针对女孩暴力的计划。
 
 
 
 “We can’t do everything, and if we tried it would take a long time to acquire expertise in all of the new areas associated with girls’ education,” says Diaw. “Collaborations with other nonprofits allow us to meet emerging and diverse needs while remaining focused on our own core competencies and mission.”
 
-“迪奥乌说：”我们不可能面面俱到，如果我们尝试的话，需要很长时间才能掌握与女孩教育相关的所有新领域的专业知识。“与其他非营利组织的合作使我们能够满足新出现的各种需求，同时继续专注于我们自己的核心能力和使命”。
+迪奥说：”我们不可能面面俱到，如果我们尝试的话，需要很长时间才能掌握与女孩教育相关的所有新领域的专业知识。“与其他非营利组织的合作使我们能够满足新出现的各种需求，同时继续专注于我们自己的核心能力和使命”。
 
 
 
@@ -230,25 +232,25 @@ Wherever possible, FAWE also works with other NGOs. For example, FAWE partnered 
 
 For many organizations, heeding so many voices and fostering so many collaborations could threaten effectiveness. But FAWE avoids this fate by hewing closely to its mission. In other words, FAWE is flexible within its mission. In practice, this means that FAWE has turned down many tempting opportunities because they fell outside the organization’s purview.
 
-对于许多组织来说，听取如此之多的意见，促进如此之多的合作，可能会危及效率。但非洲妇女教育学家论坛紧紧围绕自己的使命，避免了这种命运。换句话说，FAWE 在其使命范围内是灵活的。在实践中，这意味着非洲妇女教育学家论坛拒绝了许多诱人的机会，因为这些机会超出了该组织的职权范围。
+对于许多组织来说，听取如此之多的意见，促进如此之多的合作，可能会危及效率。但 FAWE 紧紧围绕自己的使命，避免了这种命运。换句话说，FAWE 在其使命范围内是灵活的。在实践中，这意味着 FAWE 拒绝了许多诱人的机会，因为这些机会超出了该组织的职权范围。
 
 
 
 For example, in 2002, the United Nations High Commissioner on Refugees (UNHCR) asked the Sierra Leone chapter of FAWE to work with children who were living in camps for people displaced by the civil war. FAWE Sierra Leone was suffering from scarce funds, and so it carefully considered the lucrative proposition. But because the project did not involve girls’ education, FAWE declined. Eventually, however, the UNHCR revised its program to include educational programming. With missions aligned, FAWE signed on, offering classes in literacy, numeracy, masonry, and weaving to the girls in the camps.
 
-例如，2002 年，联合国难民事务高级专员办事处（UNHCR）请非洲妇女教育学家 协会塞拉利昂分会与生活在内战流离失所者营地的儿童合作。当时塞拉利昂 FAWE 正面临资金短缺的问题，因此它慎重考虑了这一有利可图的提议。但由于该项目不涉及女孩教育，FAWE 拒绝了。但最终，联合国难民署修订了其计划，将教育项目纳入其中。由于任务一致，FAWE 签订了协议，为难民营中的女孩开设了识字、算术、石工和编织课程。
+例如，2002 年，联合国难民事务高级专员办事处（UNHCR）请 FAWE 塞拉利昂分会与生活在内战流离失所者营地的儿童合作。当时塞拉利昂 FAWE 正面临资金短缺的问题，因此它慎重考虑了这一有利可图的提议。但由于该项目不涉及女孩教育，FAWE 拒绝了。但最终，联合国难民署修订了其计划，将教育项目纳入其中。由于任务一致，FAWE 签订了协议，为难民营中的女孩开设了识字、算术、石工和编织课程。
 
 
 
 The organization has also withstood a great deal of pressure from various funders to alter its programming. For years, says Namuddu, one donor organization whose focus was on adult education refused to fund FAWE because FAWE would not expand its mission past girls’ education. FAWE did not cave in to this pressure, but rather kept on writing to the donor. Finally, “it was the donor that caved,” laughs Namuddu. Today, this donor is one of the most ardent supporters of FAWE’s work.
 
-该组织还顶住了来自不同资助方的巨大压力，改变了自己的计划。纳姆杜（Namuddu）说，多年来，一个以成人教育为重点的捐助组织拒绝为 FAWE 提供资金，因为 FAWE 不愿将其使命扩展到女孩教育之外。女教育家论坛没有屈服于这种压力，而是继续写信给捐助者。最后，“是捐助者屈服了”，Namuddu 笑着说。如今，这位捐助者已成为 FAWE 工作最热心的支持者之一。
+该组织还顶住了来自不同资助方的巨大压力，改变了自己的计划。纳姆杜（Namuddu）说，多年来，一个以成人教育为重点的捐助组织拒绝为 FAWE 提供资金，因为 FAWE 不愿将其使命扩展到女孩教育之外。女教育家论坛没有屈服于这种压力，而是继续写信给捐助者。最后，“是捐助者屈服了”，纳姆杜笑着说。如今，这位捐助者已成为 FAWE 工作最热心的支持者之一。
 
 
 
 FAWE has even returned money for a project that, once under way, drifted away from the organization’s mission. In 2007, FAWE headquarters began executing a $1 million grant (roughly 25 percent of FAWE’s budget) to empower girls in post-conflict areas. But activities such as operating childcare centers for the girls’ children and literacy programs for their mothers began to stretch the organization too thin. “We hated to risk jeopardizing our relationship with the funder, but we simply had to stay true to our mission,” explains Diaw. Later, the funder encouraged FAWE to reapply for a new grant that was more in line with FAWE’s mission.
 
-FAWE 甚至退还了一个项目的资金，因为该项目在实施过程中偏离了组织的使命。2007 年，FAWE 总部开始执行一笔 100 万美元的赠款（约占 FAWE 预算的 25%），用于增强冲突后地区女孩的能力。但是，为女孩的孩子开办托儿所、为她们的母亲开展扫盲计划等活动开始让该组织捉襟见肘。“Diaw 解释说：”我们不想冒险破坏与资助方的关系，但我们必须坚持自己的使命。后来，资助方鼓励 FAWE 重新申请一笔更符合 FAWE 使命的新赠款。
+FAWE 甚至退还了一个项目的资金，因为该项目在实施过程中偏离了组织的使命。2007 年，FAWE 总部开始执行一笔 100 万美元的赠款（约占 FAWE 预算的 25%），用于增强冲突后地区女孩的能力。但是，为女孩的孩子开办托儿所、为她们的母亲开展扫盲计划等活动开始让该组织捉襟见肘。迪奥解释说：”我们不想冒险破坏与资助方的关系，但我们必须坚持自己的使命。”后来，资助方鼓励 FAWE 重新申请一笔更符合 FAWE 使命的新赠款。
 
 
 
@@ -260,18 +262,20 @@ At the same time, FAWE has undertaken rather unorthodox projects precisely becau
 
 ## FLEX TO SCALE
 
+## 灵活调整
+
 FAWE’s flexibility not only makes its programs more effective, it also allows the organization to spread its programs quickly across sub-Saharan Africa—a continent blessed with much of the world’s cultural diversity, but burdened with much of the world’s social problems. To foster this flexibility, FAWE heeds a plurality of voices and encourages collaboration while sticking closely to its mission. Other nonprofits that serve diverse stakeholders would also likely benefit from these practices. But organizations that serve homogeneous communities with similar needs might find that scaling one-size-fits-all solutions is a more efficient strategy.
 
-非洲妇女教育学家论坛的灵活性不仅使其计划更加有效，还使该组织能够将其计划迅速推广到撒哈拉以南非洲地区--该大陆拥有世界上得天独厚的文化多样性，但也面临着世界上许多社会问题。为了培养这种灵活性，非洲妇女教育基金会在坚持自身使命的同时，听取不同声音，鼓励合作。其他为不同利益相关者服务的非营利组织也可能从这些做法中受益。但是，那些为具有类似需求的同质社区提供服务的组织可能会发现，推广 “一刀切 ”的解决方案是一种更有效的策略。
+FAWE 的灵活性不仅使其计划更加有效，还使该组织能够将其计划迅速推广到撒哈拉以南的非洲地区——该大陆拥有世界上得天独厚的文化多样性，但也面临着世界上许多社会问题。为了培养这种灵活性，非洲妇女教育基金会在坚持自身使命的同时，听取不同声音，鼓励合作。其他为不同利益相关者服务的非营利组织也可能从这些做法中受益。但是，那些为具有类似需求的同质社区提供服务的组织可能会发现，推广 “一刀切 ”的解决方案是一种更有效的策略。
 
 
 
 “We constantly reinvent ourselves so that FAWE can stay in business,” says Diaw. “But of course our hope is that our flexibility will enable us one day to go out of business, and for the right reason.” That reason, she says, is that all the girls in Africa are in school, receiving a quality education, and forging a good future for themselves and the continent.
-“Diaw 说：”我们不断自我革新，以便 FAWE 能够继续经营下去。"当然，我们也希望我们的灵活性能让我们有朝一日以正确的理由倒闭。她说，这个理由就是非洲所有的女孩都能上学，接受高质量的教育，为自己和非洲大陆创造美好的未来。
+迪奥：”我们不断自我革新，使得 FAWE 能够继续经营下去。当然，我们也希望我们的灵活性能让我们有朝一日以正确的理由倒闭。”她说，这个理由就是非洲所有的女孩都能上学，接受高质量的教育，为自己和非洲大陆创造美好的未来。
 
 
 
 **Kim Jonker** is a consultant to nonprofits and foundations on issues of strategy, board governance, and organizational effectiveness. She also serves as director of the Henry R. Kravis Prize in Leadership.
 
-**金-琼克**是非营利组织和基金会的战略、董事会管理和组织效率问题顾问。她还担任亨利-R-克拉维斯领导力奖（Henry R. Kravis Prize in Leadership）的主任。
+**金·琼克**是非营利组织和基金会的战略、董事会管理和组织效率问题顾问。她还担任亨利·R·克拉维斯（Henry R. Kravis）非营利领导奖的主任。
 

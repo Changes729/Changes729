@@ -46,3 +46,36 @@ fish
 
 ## System
 
+
+
+
+
+## SSL
+
+现在是使用 [acme.sh](https://github.com/acmesh-official/acme.sh) 自动生成了免费的。
+
+> 参考资料：
+>
+> - [SSL证书文件校验工具](https://www.chinassl.net/ssltools/decoder-ssl.html)
+> - [Aliyun domain API](https://github.com/acmesh-official/acme.sh/wiki/dnsapi#11-use-aliyun-domain-api-to-automatically-issue-cert)：未使用
+> - [DNS manual mode](https://github.com/acmesh-official/acme.sh/wiki/dns-manual-mode)：最后使用了 DNS 模式，需要登陆阿里云
+> - [Server](https://github.com/acmesh-official/acme.sh/wiki/Server)：最后还是zerossl成功了，用DNS的条件下
+
+参考命令：
+
+```sh
+/root/.acme.sh/acme.sh --issue  -d console.actionvillager.com --debug 2 --dns --yes-I-know-dns-manual-mode-enough-go-ahead-please
+```
+
+```sh
+/root/.acme.sh/acme.sh --renew  -d console.actionvillager.com --debug 2  --yes-I-know-dns-manual-mode-enough-go-ahead-please
+```
+
+```shell
+/root/.acme.sh/acme.sh --install-cert -d console.actionvillager.com --key-file /etc/nginx/cert/console.actionvillager.com.key --fullchain-file /etc/nginx/cert/console.actionvillager.com.pem
+```
+
+```sh
+/root/.acme.sh/acme.sh --set-default-ca --server letsencrypt_test
+```
+
