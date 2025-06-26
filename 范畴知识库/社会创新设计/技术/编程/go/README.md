@@ -101,7 +101,29 @@
 - `chan`：数据通道 `<-`，一定要进一个出一个
 - `select`：多通道阻塞，信号量唤醒，多个可调用时只会调用一个；`default` 不会阻塞
 
+- 对象方法：
 
+  ```go
+  type Once struct {
+  	m    Mutex
+  	done uint32
+  }
+  
+  func (o *Once) Do(f func()) {
+  	if atomic.LoadUint32(&o.done) == 1 {
+  		return
+  	}
+  	// Slow-path.
+  	o.m.Lock()
+  	defer o.m.Unlock()
+  	if o.done == 0 {
+  		defer atomic.StoreUint32(&o.done, 1)
+  		f()
+  	}
+  }
+  ```
+
+  
 
 ## 构建工程
 

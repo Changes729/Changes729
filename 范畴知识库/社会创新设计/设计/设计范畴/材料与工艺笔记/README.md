@@ -46,5 +46,7 @@
   
 - [磁性白板](http://xhslink.com/KQDB9H)
 
+- [引导画布](https://item.taobao.com/item.htm?abbucket=13&detail_redpacket_pop=true&id=672279025579&ltk2=1749042446887367jmqm1ky28a6xh5b25f3&ns=1&priceTId=215043bb17490424214122778e185f&query=%E5%BC%95%E5%AF%BC%E7%94%BB%E5%B8%83&skuId=5012105774117&spm=a21n57.1.hoverItem.2&utparam=%7B%22aplus_abtest%22%3A%228fdf6a3179878dc53ccc4fccd1ac93d1%22%7D&xxc=taobaoSearch)
+
 
 

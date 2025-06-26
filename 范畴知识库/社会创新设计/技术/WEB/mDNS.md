@@ -17,3 +17,5 @@
 ## Avahi
 
 配置mdns，在配置文件里面有一个`[host-name].[domain-name]`很简单。
+
+注意，IPv6 和 IPv4 不能并存。推荐本地还是使用 IPv4

@@ -17,8 +17,25 @@
 
 另一种就是隧道，通过在代理之间建立一个隧道，实际上的访问还是本机。
 
+> **[golang-tls.md](https://gist.github.com/denji/12b3a568f092ab951456)**
+
 
 
 ### openssl 连接测试
 
 `openssl s_client -connect [URL] -proxy [address:port]`
+
+
+
+## 不安全内容
+
+公司报了一个新的问题，我在本地构建了 HTTP 的服务器，但是公司使用 HTTPs 的网页连接本地 Websocket。这导致 chrome 直接拒绝了 HTTPs 下的 websocket 内容。下面连接是一个解决方案：
+
+wss 的连接需求，根本在于证书的可用。证书的可用性可以在本地浏览器中添加证书以支持 
+
+> [Allowing insecure WebSocket connections](https://www.damirscorner.com/blog/posts/20210528-AllowingInsecureWebsocketConnections.html)
+>
+> [Succeed creating webSocket with firefox, fails with Chromium](https://github.com/gorilla/websocket/issues/721)
+>
+> - [WebSocket connection fails on Chrome without SSL](https://stackoverflow.com/questions/50704614/websocket-connection-fails-on-chrome-without-ssl)
+
