@@ -48,5 +48,7 @@
 
 - 挂载ISO：`mount -o loop /path/to/image.iso /media/mountpoint`
 
+- 烧录 ISO：`dd [iso] [sdb] status=progress`
+
 - [硬盘坏块测试](https://wiki.archlinux.org/title/Badblocks)（[e2fsprogs](https://archlinux.org/packages/?name=e2fsprogs)）：`badblocks -wsv /dev/device`
 

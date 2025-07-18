@@ -1,0 +1,117 @@
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.7",
+	"elements": [
+		{
+			"id": "Z7m_UHIys387I4gITQU4Z",
+			"type": "rectangle",
+			"x": 601.6388292837107,
+			"y": -347.4537638583306,
+			"width": 217.58984375000009,
+			"height": 50.19921875000001,
+			"angle": 0,
+			"strokeColor": "#87746e",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "bJ7",
+			"roundness": {
+				"type": 3
+			},
+			"seed": 935630602,
+			"version": 113,
+			"versionNonce": 331434954,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "gIj48ea8"
+				}
+			],
+			"updated": 1734404793215,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "gIj48ea8",
+			"type": "text",
+			"x": 663.8737841176951,
+			"y": -334.8541544833306,
+			"width": 93.11993408203125,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#87746e",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "bJ7V",
+			"roundness": null,
+			"seed": 929789130,
+			"version": 79,
+			"versionNonce": 1509507722,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1734404793215,
+			"link": null,
+			"locked": false,
+			"text": "ESP32S2",
+			"rawText": "ESP32S2",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "Z7m_UHIys387I4gITQU4Z",
+			"originalText": "ESP32S2",
+			"autoResize": true,
+			"lineHeight": 1.25
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#87746e",
+		"currentItemBackgroundColor": "#ffffff",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 595.8963269662893,
+		"scrollY": 581.9693888583306,
+		"zoom": {
+			"value": 1
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		},
+		"objectsSnapModeEnabled": false
+	},
+	"files": {}
+}

@@ -4,6 +4,8 @@
 >   - [图元](https://threejs.org/manual/zh/primitives.html)
 >   - [材质](https://threejs.org/manual/zh/materials.html)
 >   - [纹理](https://threejs.org/manual/zh/textures.html)
+>   - [How to Render a 3D Model of You in React Using Three.js](https://blog.nourdinedev.com/how-to-render-3d-model-in-react/)
+
 
 # ThreeJS
 
@@ -23,7 +25,7 @@
     - 聚光灯（SpotLight）
 - 摄像机(Camera)
   - 正摄相机（OrthographicCamera）
-  - 
+  -
 
 - **fov** (视野范围，field of view)：垂直方向
 - aspect，画布宽高比
@@ -64,4 +66,3 @@ Three.js 默认使用*shadow maps（阴影贴图）*，**阴影贴图的工作�
 另一个解决方案就是使用光照贴图或者环境光贴图，预先计算离线照明的效果。这将导致静态光照，但是至少该方案渲染得非常快。在另一篇文章中将涵盖这两个解决方案。
 
 `.bias`：这里非常微小的调整（大约0.0001）可能有助于减少阴影中的**伪影**。
-

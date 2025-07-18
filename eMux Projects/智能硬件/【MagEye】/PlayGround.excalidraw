@@ -1,0 +1,131 @@
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.7",
+	"elements": [
+		{
+			"id": "VXum14oMSD64aKHp8ZT1g",
+			"type": "line",
+			"x": 1372.63671875,
+			"y": 394.8984375,
+			"width": 457.92578125,
+			"height": 223.61328125,
+			"angle": 0,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "#ffec99",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b0A",
+			"roundness": null,
+			"seed": 1930439741,
+			"version": 2038,
+			"versionNonce": 241394931,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1721381608569,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.30078125,
+					223.61328125
+				],
+				[
+					378.83203125,
+					223.61328125
+				],
+				[
+					377.98828125,
+					146.51171875
+				],
+				[
+					405.33984375,
+					145.48046875
+				],
+				[
+					405.51171875,
+					193.62890625
+				],
+				[
+					457.92578125,
+					194.98046875
+				],
+				[
+					457.92578125,
+					57.55078125
+				],
+				[
+					405.1640625,
+					57.4296875
+				],
+				[
+					405.375,
+					106.96484375
+				],
+				[
+					375.9765625,
+					105.94921875
+				],
+				[
+					377.23828125,
+					2.73828125
+				],
+				[
+					0,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#f08c00",
+		"currentItemBackgroundColor": "#ffec99",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 2,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 36,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": -466,
+		"scrollY": -30,
+		"zoom": {
+			"value": 1
+		},
+		"currentItemRoundness": "sharp",
+		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		},
+		"objectsSnapModeEnabled": false
+	},
+	"files": {}
+}
