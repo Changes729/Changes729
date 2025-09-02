@@ -5,10 +5,14 @@
 ## 关键词
 
 - government pullbacks（政府撤退）：政策逆转、政府支持减少或采取行动限制行动或进入
+- [**亚历山大·普蒂奥（T. Alexander Puutio）**](https://professional.dce.harvard.edu/faculty/alexander-puutio/)：法学博士、经济学博士。亚历山大的咨询工作涵盖私营和公共部门，专注于战略调整，运营效率和目的驱动的领导。
+- 发展机构（development agencies）
 - 千年发展目标（MDGs）
 - 可持续发展目标（SDGs）
-- William Easterly
-- Dambisa Moyo
+- 威廉·伊斯特利 (William Easterly)：美国经济学家
+- 丹比萨·莫约（Dambisa Moyo）：英国上议院议员
+  - 《Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa》
+  - 《死亡援助：为什么援助不起作用以及非洲如何有更好的出路》
 - Mercy Corps
 - US international development apparatus（美国国际发展机构）
 - USAID（美国国际开发署）

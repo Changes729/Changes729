@@ -316,6 +316,7 @@
 | gdisk                                                        |                  |                                                              |
 | tesseract                                                    |                  | tesseract-data-eng 有一些 PDF 不能直接OCR,需要转成PNG然后OCR |
 | xrdp、xorgxrdp                                               | pikaur           | ipad 使用 *Remote Desktop Mobile* 连接 linux                 |
+| mpd                                                          |                  | Music Player Daemon 音频播放软件                             |
 
  
 

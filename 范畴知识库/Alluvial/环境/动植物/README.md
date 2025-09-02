@@ -7,6 +7,8 @@
 > - [男孩分猫系、犬系……和植物系](https://mp.weixin.qq.com/s/qpV6jd7iRF7azdmAOwHcSw)：布丰花，火灾是构成他们完整生态的一部分
 > - [[图解]植物的扦插繁殖方法](https://www.bilibili.com/video/BV1R54y1z7XJ/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
 > - [绣球扦插实战教学，注意这几点，生根发芽特别快，来年开花爆满盆](https://www.bilibili.com/video/BV17h411v7tp/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+> - [中国植物图像库](https://ppbc.iplant.cn/)
+> - [中国两栖类](https://www.amphibiachina.org/)
 
 # 动物
 

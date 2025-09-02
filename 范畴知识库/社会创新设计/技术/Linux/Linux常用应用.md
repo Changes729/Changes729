@@ -52,3 +52,5 @@
 
 - [硬盘坏块测试](https://wiki.archlinux.org/title/Badblocks)（[e2fsprogs](https://archlinux.org/packages/?name=e2fsprogs)）：`badblocks -wsv /dev/device`
 
+- unzip 特定编码：`unzip -O <encoding> <filename> -d <target_dir>`
+

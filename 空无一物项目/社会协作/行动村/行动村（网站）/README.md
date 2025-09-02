@@ -132,6 +132,8 @@ fish
 
 参考命令：
 
+api.actionvillager.com
+
 ```sh
 /root/.acme.sh/acme.sh --issue  -d console.actionvillager.com --debug 2 --dns --yes-I-know-dns-manual-mode-enough-go-ahead-please
 ```
@@ -140,6 +142,8 @@ fish
 /root/.acme.sh/acme.sh --renew  -d console.actionvillager.com --debug 2  --yes-I-know-dns-manual-mode-enough-go-ahead-please
 ```
 
+renew 后需要在阿里云重新设置 域名内容。
+
 ```shell
 /root/.acme.sh/acme.sh --install-cert -d console.actionvillager.com --key-file /etc/nginx/cert/console.actionvillager.com.key --fullchain-file /etc/nginx/cert/console.actionvillager.com.pem
 ```
@@ -147,4 +151,16 @@ fish
 ```sh
 /root/.acme.sh/acme.sh --set-default-ca --server letsencrypt_test
 ```
+
+需要重启 Nginx
+
+
+
+[使用阿里云域名API自动颁发证书](https://github.com/acmesh-official/acme.sh/wiki/dnsapi#dns_ali)：成功
+
+```sh
+/root/.acme.sh/acme.sh --issue  -d console.actionvillager.com --debug 2 --dns dns_ali --yes-I-know-dns-manual-mode-enough-go-ahead-please
+```
+
+
 
