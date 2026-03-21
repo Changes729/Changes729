@@ -51,6 +51,10 @@
 
 
 
+`git merge --squash`
+
+
+
 ## 提交到远程：`git push [remote] [local[:remote]]`
 
 远程分支一般叫 `origin`，本地分支一般叫`main`，所以，一般提交到远程就是 `git push origin main`

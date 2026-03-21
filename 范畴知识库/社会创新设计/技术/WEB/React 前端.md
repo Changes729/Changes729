@@ -6,6 +6,9 @@
 > - [Building UI with Components](https://nextjs.org/learn/react-foundations/building-ui-with-components)：很简单的阐释了 React UI，需要注意的是 React Properties 只能由父级传递到子级。
 > - [使用 Promise](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Using_promises)：一种很好的事务管理办法
 > - [React Router](https://reactrouter.com/)：客户端路由，防止过度请求服务器
+>   - [一种 hash router 混合使用的办法](https://codesandbox.io/p/sandbox/suspicious-feather-09ijf?file=%2Fsrc%2Findex.js%3A4%2C1)
+> - [Implementing CSV Data Export in React Without External Libraries](https://dev.to/graciesharma/implementing-csv-data-export-in-react-without-external-libraries-3030)
+> - [How can I go to the implementation of something instead of its TypeScript declaration?](https://stackoverflow.com/questions/46893661/how-can-i-go-to-the-implementation-of-something-instead-of-its-typescript-declar)：F12 不会跳转到 源代码的问题，除非源代码库支持了一个文件，但是很多开源代码并没有。
 
 # React 前端
 
@@ -53,6 +56,7 @@ function HomePage() {
 ## CSS
 
 - [伪类](https://developer.mozilla.org/en-US/docs/Web/CSS/::before)： `::before`、`::after`
+- [`list-style-type`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/list-style-type)：列表的现实，可以设置为 `none`
 
 
 
@@ -172,3 +176,10 @@ useEffect 是一个在 React 渲染完毕之后调用的函数。比如某个元
 >
 > 比如需要重新计算对象的大小。
 
+
+
+**06 customElements.define**
+
+自定义类型，名称必须要有横线，这是为了[防止和系统类型冲突](https://dom.spec.whatwg.org/#valid-element-local-name)。
+
+另外，类型在 construct 中并没有加载完全，要等到 `connectedCallback` 才有 `attribute` 。所以，像一些 style 的初始化，不能放在 `construct` 中。

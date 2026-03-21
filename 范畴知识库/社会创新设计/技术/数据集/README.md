@@ -13,9 +13,9 @@
 
 **01 数据库类型**
 
-- 关系型数据库（Relational DBMS）：Oracle、MariaDB（MySQL）
+- 关系型数据库（Relational DBMS）：Oracle、MariaDB（MySQL）、SQLLite
 
-- 键值对存储（Key-value stores）：Redis
+- 键值对存储（Key-value stores）：Redis（Valkey）
 
 - 文档存储（Document stores）：MongoDB
 
@@ -32,3 +32,4 @@
 - 向量存储（Vector DBMS）：Elasticsearch
 
 - 资源描述框架存储（RDF stores）
+

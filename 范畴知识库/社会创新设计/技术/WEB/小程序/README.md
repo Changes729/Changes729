@@ -1,6 +1,14 @@
 > 参考资料：
 >
 > - [小程序代码构成](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/code.html#JSON-%E9%85%8D%E7%BD%AE)
+>   - [微信小程序设计指南](https://developers.weixin.qq.com/miniprogram/design/)：小程序设计按照宽度 375px设计，顶部系统栏 50px，小程序功能栏 38px。
+> - [从入门到实践：Taro + React 从0到1构建一个微信小程序](https://zhuanlan.zhihu.com/p/697369569)
+>   - [滑动和点击切换页面](https://www.bilibili.com/video/BV1QJ411W7JX/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)
+>   - [地图](https://developers.weixin.qq.com/miniprogram/dev/component/map.html)
+>   - [Taro + WXS 回调](https://github.com/NervJS/taro/issues/10744)：已验证
+>   - [Taro + WXS 传参](https://github.com/NervJS/taro/issues/17383)：未验证
+>   - [Taro Login](https://docs.taro.zone/docs/apis/open-api/login/)
+>     - [小程序登录凭证校验](https://developers.weixin.qq.com/miniprogram/dev/server/API/user-login/api_code2session.html)：服务端调用
 
 # 小程序
 
@@ -44,6 +52,7 @@ WX开发是顺应 MVVM 开发模式的。
 ## 小程序框架
 
 - 场景值：场景值用来描述用户进入小程序的路径。（从哪里进来的，比如公众号、APP分享）
+
 - JS部分：
   - app.js：[App 参考文档](https://developers.weixin.qq.com/miniprogram/dev/reference/api/App.html)
   - page.js：[Page 参考文档](https://developers.weixin.qq.com/miniprogram/dev/reference/api/Page.html) 
@@ -52,10 +61,26 @@ WX开发是顺应 MVVM 开发模式的。
   - [生命周期](https://developers.weixin.qq.com/miniprogram/dev/framework/app-service/page-life-cycle.html)
   - [页面路由](https://developers.weixin.qq.com/miniprogram/dev/framework/app-service/route.html)
   - [API](https://developers.weixin.qq.com/miniprogram/dev/framework/app-service/api.html#API)
+  
 - View部分：
   - 数据绑定：单个数据、列表数据、条件渲染
   - 模版
   - [事件系统](https://developers.weixin.qq.com/miniprogram/dev/framework/view/wxml/event.html)：冒泡事件、双向绑定
   - [组件文档](https://developers.weixin.qq.com/miniprogram/dev/component/)
+  
+- 用户登录：
 
+  - ```bash
+    https://api.weixin.qq.com/sns/jscode2session?appid=APPID&secret=SECRET&js_code=JS_CODE&grant_type=authorization_code
+    ```
+
+    ````
+    {"session_key":"xxxx","openid":"xxxx"}
+    ````
+
+  - ```
+    https://api.weixin.qq.com/wxa/checksession?access_token=${session_key}
+    ```
+
+    
 

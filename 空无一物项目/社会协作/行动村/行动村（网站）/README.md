@@ -164,3 +164,7 @@ renew 后需要在阿里云重新设置 域名内容。
 
 
 
+证书链不完全：需要添加服务器 `--server letsencrypt`
+
+- [证书检测网站](https://www.ssllabs.com/ssltest/analyze.html?d=api.actionvillager.com&hideResults=on)
+- https://github.com/acmesh-official/acme.sh/issues/801：证书责任链问题

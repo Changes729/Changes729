@@ -1,4 +1,6 @@
-> *参考资料：*
+> 
+>
+> 参考资料：*
 >
 > [[Arch Wiki] Installation guide](https://wiki.archlinux.org/title/Installation_guide)
 >
@@ -178,8 +180,10 @@
 
        - `git clone https://aur.archlinux.org/pikaur.git`
 
-       - `cd pikaur`
+         > 设置 git 默认编辑器 ：`git config --global core.editor "vim"`
 
+       - `cd pikaur`
+    
        - `makepkg -fsri`
 
 
@@ -317,6 +321,8 @@
 | tesseract                                                    |                  | tesseract-data-eng 有一些 PDF 不能直接OCR,需要转成PNG然后OCR |
 | xrdp、xorgxrdp                                               | pikaur           | ipad 使用 *Remote Desktop Mobile* 连接 linux                 |
 | mpd                                                          |                  | Music Player Daemon 音频播放软件                             |
+| audacity                                                     |                  | 音频剪辑软件。                                               |
+| cuda、cudnn                                                  |                  | AI 模型需要                                                  |
 
  
 

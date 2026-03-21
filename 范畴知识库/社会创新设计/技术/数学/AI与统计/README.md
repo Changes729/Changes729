@@ -12,6 +12,7 @@
 > - [model context protocol（MCP）](https://github.com/modelcontextprotocol)
 >   - [Model Context Protocol (MCP), clearly explained (why it matters)](https://www.youtube.com/watch?v=7j_NE6Pjv-E)：传统的AI不能帮你去做事情，但是MCP的出现，
 >   - [Model Context Protocol: Introduction](https://modelcontextprotocol.io/introduction)
+> - [零基础指南：从 Prompt 到上下文工程构建 AI Agent 【万字长】](https://mp.weixin.qq.com/s/LX-MUEPanZ8CWmkM82xA9w)
 
 # AI与统计
 
@@ -49,12 +50,14 @@
   - 视频生成（Video Generation）
   - 文本生成（Text Generation）
   - 翻译（Language Translation）
+    - [Tencent-Hunyuan](https://github.com/Tencent-Hunyuan)/[HY-MT](https://github.com/Tencent-Hunyuan/HY-MT)：小模型最佳
   - 音频合成（Speech Synthesis）
   - 3D 建模（3D Modeling）
   - 对象检测（Object Detection）
   - 文本分析（Text Analysis）
   - 图像编辑（Image Editing）
   - 代码生成（Code Generation）
+    - [qwen2.5-coder](https://ollama.com/library/qwen2.5-coder)
   - 问答（Question Answering）
   - 数据可视化（Data Visualization）
   - 语音克隆（Voice Cloning）
@@ -88,6 +91,7 @@
     - [civitai](https://civitai.com/)：有一些训练好的图像模型，加上评论可以出人物图
     - **[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**：`webui.sh` 安装和运行
   - [DALL·E 2](https://openai.com/product/dall-e-2)：文本转图片
+  - https://huggingface.co/Qwen/Qwen-Image：千问图片
 - 音乐：
   - [Magenta](https://magenta.tensorflow.org/)：由Google开发的Magenta项目是一个开源平台，专注于将机器学习应用于创造性音乐和艺术。Magenta提供了一系列的工具、模型和教程，可以用于生成、编辑和交互式地探索音乐创作。只支持特定开发环境的Python，和JS。
   - [MuseGAN](https://salu133445.github.io/musegan/)：MuseGAN是一个开源的深度学习项目，用于生成多轨的MIDI音乐。该项目基于生成对抗网络（GAN）架构，可以学习和生成具有多个乐器轨道的音乐作品。
@@ -107,7 +111,7 @@
   - [ ] [whisper](https://github.com/openai/whisper)：openAI whisper 模型
   - [ ] [whisperX](https://github.com/m-bain/whisperX)：能加时间戳的 whisper 模型
   - [ ] [whisper_streaming](https://github.com/ufal/whisper_streaming)：长时间语言转文本
-  - [ ] [faster-whisper](https://github.com/SYSTRAN/faster-whisper)：快速语言转文本
+  - [x] [faster-whisper](https://huggingface.co/openai/whisper-large-v3)：快速语言转文本，安装依赖请按照最新的模型文档。不要看过时的 github 留档
 - [ ] [speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet)：还没试过
 - 图片转3D Mesh：
   - [One-2-3-45](https://github.com/One-2-3-45/One-2-3-45)

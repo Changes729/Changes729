@@ -4,6 +4,7 @@
 > - [安规电容（X/Y电容）](https://zhuanlan.zhihu.com/p/350438523)
 > - 氮化镓方案
 > - [555芯片 - 自制无线充电 收发电路](https://www.bilibili.com/video/BV1qR4y1E7jn/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：介绍了直流电变交流电LC协振方案，以及整流桥的交流电转直流电方案。
+> - [电池充放电曲线知识介绍](https://www.eet-china.com/mp/a373443.html)
 
 # 电源
 
@@ -23,6 +24,7 @@
   
   标准充电方法：0.5C CC（恒流）充电至4.25V，再CV（恒压4.2V）充电直至充电电流≤0.05C
   
+- 胶体电池
 
 
 

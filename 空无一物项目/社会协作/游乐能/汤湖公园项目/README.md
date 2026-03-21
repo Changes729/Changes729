@@ -5,6 +5,14 @@
 > - [【目录】快乐汤湖公园](https://www.notion.so/25942139a94880dd99f4fe3548965103)
 > - [【产品部任务说明】汤湖公园-初步示意图 ](https://www.notion.so/25942139a9488056b5c1d9980eaf08e7?source=copy_link)
 > - [【产品部任务说明】快乐汤湖公园](https://www.notion.so/25e42139a9488085b41cd892e4c8bd12?p=25e42139a94880fd877bf8040bfd5bca&pm=s)
+>
+> 其他资料：
+>
+> - [【❁ 古代中国十八种经典传统纹样大赏 ❁】](https://www.bilibili.com/video/BV1ga411k73o/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：这里有比较完整的纹路平面图
+> - [春秋战国纹样（中国纹样发展史-第6集）](https://www.bilibili.com/video/BV1E7o8YAEdf/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：也介绍了一些春秋战国的纹路
+>   - [【河南博物院】蟠虺纹曲耳铜鼎](https://www.chnmus.net/ch/collection/appraise/details.html?id=512154283269213934)：介绍了为什么蟠虺纹象征了一种礼崩乐坏。
+> - [战国漆器：血与火中，大幕拉开](https://www.bilibili.com/video/BV1q24y1p7Lb/?spm_id_from=333.337.search-card.all.click&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：这个纹路解说蛮好的，凤鸟纹也有比较精简的平面图
+> - [青铜器到底是怎样炼成的？](https://www.bilibili.com/video/BV1dn4y1R7yi/?spm_id_from=333.788.recommend_more_video.2&vd_source=b736aa3d7f0fdf47b59ea3021dc810ab)：介绍
 
 # 信息整理
 

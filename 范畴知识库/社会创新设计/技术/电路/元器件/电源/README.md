@@ -2,6 +2,8 @@
 >
 > - [电池研究院：电池分类与命名大全](https://www.pcauto.com.cn/tech/2368/23689092.html)
 > - [常用1.5V圆柱型电池在中文圈的代号对照](https://zh.wikipedia.org/wiki/%E9%9B%BB%E6%B1%A0%E5%B0%BA%E5%AF%B8%E5%88%97%E8%A1%A8)
+> - [太阳能胶体蓄电池使用寿命](https://zhuanlan.zhihu.com/p/396386003)
+> - [电源困境：Lifepo4 电池与凝胶电池](https://www.lithiumbatterytech.com/zh-CN/lifepo4-batteries-vs-gel-batteries/)：还是磷酸铁锂电池好一点
 
 # 电源
 
@@ -17,6 +19,8 @@
 - 根据储能材料分类
   - 磷酸铁锂-锂离子电池
   - 碳锌锰干电池（碱性电池、一次性电池）
+  - 胶体电池（铅酸电池）
+    - [耐普蓄电池12v24AH](http://www.npp-battery.com/list_21/68.html)
 - 根据形状来分
   - 圆柱电池
   - 方形电池

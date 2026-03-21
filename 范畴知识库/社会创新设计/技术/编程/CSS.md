@@ -96,6 +96,12 @@ margin-top和padding-top为百分比时是相对于父元素的width计算的；
 
 
 
+## SCSS Module
+
+使用 [typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules) 可以支持 SCSS 模块解析。[这里](https://github.com/mrmckeb/typescript-plugin-css-modules/issues/94) 还需要添加本地 TS 库地址。
+
+
+
 ## 文本相关
 
 - `text-wrap:balance;` 字体平衡换行

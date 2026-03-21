@@ -14,8 +14,7 @@ Believing that the world is “flat,” many organizations attempt to solve pres
 
 > “flat”，取自于 “托马斯-弗里德曼” 《世界是平的（The World is Flat）》，指的是这样一种观念，即世界已经互联互通、融为一体，以至于地域差异和当地细微之处已经变得无关紧要，或者至少不那么重要了。 
 
-[
-![social_responsibility_different_globes](https://ssir.org/images/jcogs_img/cache/feature_globaloney1_-_abcdef_-_ec76adfb59d23efa05b4d7ecdd5601e6950c9f26.webp) ](https://ssir.org/images/ads/Feature_Globaloney1.jpg)
+[![social_responsibility_different_globes](https://ssir.org/images/jcogs_img/cache/feature_globaloney1_-_abcdef_-_ec76adfb59d23efa05b4d7ecdd5601e6950c9f26.webp) ](https://ssir.org/images/ads/Feature_Globaloney1.jpg)
 
  *(Illustration by OlIver Munday & Pablo Delcan)* 
 

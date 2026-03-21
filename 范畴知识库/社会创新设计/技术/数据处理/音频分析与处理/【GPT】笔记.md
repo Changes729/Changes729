@@ -25,7 +25,7 @@
 | **节拍或音符检测**（主要用于音乐）                | 按节拍分段                           | `librosa.onset_detect`, `madmom`                        |
 | **语音识别（ASR）**                               | 将语音转换成文本                     | HMM-DNN、CTC、Transformer、Whisper                      |
 | 说话人识别                                        | 判断/区分说话者身份                  | i-vector, x-vector, ECAPA-TDNN                          |
-| 说话人分离（Diarization）                         | 分辨出谁在说话，并分时间段           | pyannote-audio、Kaldi                                   |
+| 说话人分离（Diarization）                         | 分辨出谁在说话，并分时间段           | **pyannote-audio、Kaldi**                               |
 | 情感识别                                          | 判断说话者的情绪状态                 | 音高、能量、频谱特征+分类器                             |
 | 音频事件检测（AED/SED）                           | 检测和分类环境音事件（狗叫、打雷等） | CNN, CRNN, YAMNet                                       |
 | 音乐信息检索（MIR）                               | 获取音乐风格、节拍、情感、歌手等信息 | librosa、madmom、MusicNN                                |

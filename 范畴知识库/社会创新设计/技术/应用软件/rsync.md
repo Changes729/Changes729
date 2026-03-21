@@ -30,7 +30,7 @@ Access via rsync daemon:
 **01 SSH backup**
 
 ```
-rsync -a --delete --quiet -e ssh /path/to/backup remoteuser@remotehost:/location/of/backup
+rsync -aH --delete --quiet -e ssh /path/to/backup remoteuser@remotehost:/location/of/backup
 ```
 
 
@@ -52,6 +52,8 @@ rsync -a --delete --quiet /path/to/backup /location/of/backup
 `-a`：表示文件应该被存档，这意味着它们的大部分特征都被保留（但**不包括**URL、硬链接或扩展属性，如功能）
 
 `--delete`：意味着在源上删除的文件也将在备份中删除
+
+`-H`：如果有硬连接，则不拷贝新文件。会创建硬连接。
 
 
 

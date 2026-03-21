@@ -3,6 +3,7 @@
 > - [Golang](https://go.dev/learn/)
 >   - [Go Web Examples](https://gowebexamples.com/)
 > - [A Tour of Go](https://go.dev/tour/concurrency/1)：涉及到轻量级线程
+> - [golang 性能优化分析工具pprof (上) - 基础使用介绍- 九卷](https://www.cnblogs.com/jiujuan/p/14588185.html)
 
 # Golang
 
@@ -129,6 +130,7 @@
 
 - `go mod init [name]`：初始化一个项目
 - `go get [url]`：获取第三方库
+  - `go get -u all`
 - `go mod tidy`：下载库
 
 
@@ -143,6 +145,7 @@
 
 - [github.com/gorilla/mux](https://github.com/gorilla/mux)：路由库
 - [github.com/go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)：MySQL 数据库驱动库
+- [goccy](https://github.com/goccy)/[go-yaml](https://github.com/goccy/go-yaml)：yaml 库，注意golang变量和首字母大小写有关系。一定要首字母大写
 
 
 

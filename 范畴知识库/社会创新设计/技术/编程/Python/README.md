@@ -64,9 +64,11 @@
 
   SESSDATA 从 application cookies 里面找
 
-- [pytube](https://github.com/pytube/pytube)：youtube video download
+- [~~pytube~~](https://github.com/pytube/pytube)：youtube video download
 
-  需要代理
+  需要代理，现在不能用了
+  
+- [nicolaasjan](https://github.com/nicolaasjan)/[youtube-dl](https://github.com/nicolaasjan/youtube-dl)：`make` 一下，然后可以下载视频了。
 
 
 

@@ -37,6 +37,9 @@ yarn add dev html-webpack-inline-source-plugin@1.0.0-beta.2
 
 - Webpack（已经过时，请选用 esbuild）
 - [esbuild](https://esbuild.github.io/)：[esbuild-loader-examples](https://github.com/privatenumber/esbuild-loader-examples)
+  - https://react.dev/warnings/invalid-hook-call-warning#duplicate-react：非一致的 react 会导致 `useRef` 为 `null`
+  - https://esbuild.github.io/api/#alias：esbuild 的解决方案
+
 
 ### electron 打包
 

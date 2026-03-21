@@ -38,3 +38,15 @@
     - QUIC( Quick UDP Internet Connection, 快速UDP互联网连接 )
 - 统一计划( Unified Plan ) 与 Plan B
 
+
+
+## Go2RTC
+
+HTML 播放某视频：
+
+``` html
+<video controls autoplay>
+  <source src="http://localhost:1984/api/stream.mp4?src=CAMERA116" />
+</video>
+```
+
